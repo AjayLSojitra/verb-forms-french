@@ -1,0 +1,2552 @@
+[
+  {
+    "english_meaning": "to get up",
+    "id": "7vJTGcyonjZod9v9ubUj",
+    "type": "regular",
+    "v1": "Levantar",
+    "v2": "me levanto",
+    "v3": "me levanté",
+    "v4": "me levantado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to pay attention",
+    "id": "8GacWvCK3n6IoGQZ0i8u",
+    "type": "regular",
+    "v1": "Prestar atención",
+    "v2": "presta atención",
+    "v3": "prestó atención",
+    "v4": "prestado atención",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to bloom",
+    "id": "A3WxOkltclgK7rFZ3IUv",
+    "type": "regular",
+    "v1": "Florecer",
+    "v2": "florezco",
+    "v3": "florecí",
+    "v4": "florecido",
+    "verb": "F"
+  },
+  {
+    "english_meaning": "to change",
+    "id": "Dc6VH1E7lEAWKzaW8HiS",
+    "type": "regular",
+    "v1": "Modificar",
+    "v2": "modifica",
+    "v3": "modificó",
+    "v4": "modificado",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to put down",
+    "id": "ExNvK4LI5SlayzDld0Vq",
+    "type": "regular",
+    "v1": "Dejar",
+    "v2": "deja",
+    "v3": "dejó",
+    "v4": "dejado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to hand over",
+    "id": "F2o2L3T6bbLP6QASBMLo",
+    "type": "regular",
+    "v1": "Entregar",
+    "v2": "entrego",
+    "v3": "entregué",
+    "v4": "entregado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to read off",
+    "id": "HNhF0VX2xDwBawhjaL2a",
+    "type": "regular",
+    "v1": "Leer",
+    "v2": "leo",
+    "v3": "leí",
+    "v4": "leído",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to call",
+    "id": "Kc2y5Y8yTeHegn95OQLj",
+    "type": "regular",
+    "v1": "Llamar",
+    "v2": "llama",
+    "v3": "llamó",
+    "v4": "llamado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to unpack",
+    "id": "KvTmfVbGxj7fPixOja0h",
+    "type": "regular",
+    "v1": "Desempacar",
+    "v2": "desempaco",
+    "v3": "desempacé",
+    "v4": "desempacado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to begin",
+    "id": "LVsZzh43l2fnbHdzWEI3",
+    "type": "irregular",
+    "v1": "Comenzar",
+    "v2": "comienza",
+    "v3": "comenzó",
+    "v4": "comenzado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to fill out",
+    "id": "Na6pJHCSSe91xR5mAm4x",
+    "type": "regular",
+    "v1": "Rellenar",
+    "v2": "relleno",
+    "v3": "rellené",
+    "v4": "rellenado",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to work",
+    "id": "PJQJdnMzH0Kc9kGXxYw5",
+    "type": "regular",
+    "v1": "Trabajar",
+    "v2": "trabaja",
+    "v3": "trabajó",
+    "v4": "trabajado",
+    "verb": "T"
+  },
+  {
+    "english_meaning": "to withdraw",
+    "id": "Stu5QBeLBd2earFr9CNH",
+    "type": "regular",
+    "v1": "Retirar",
+    "v2": "retiro",
+    "v3": "retiré",
+    "v4": "retirado",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to trust",
+    "id": "U9kNz8phSRueAcmoUYgl",
+    "type": "regular",
+    "v1": "Confiar",
+    "v2": "confío",
+    "v3": "confié",
+    "v4": "confiado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to break apart",
+    "id": "bTCEAnp8HTk1DhCPqg0X",
+    "type": "regular",
+    "v1": "Romperse",
+    "v2": "me rompo",
+    "v3": "me rompí",
+    "v4": "roto",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to adjust/align",
+    "id": "cRVaUMSWW8bSz9fsOtHt",
+    "type": "regular",
+    "v1": "Ajustar",
+    "v2": "ajusta",
+    "v3": "ajustó",
+    "v4": "ajustado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to breathe",
+    "id": "fblRg3JGn6QwByHD7vi7",
+    "type": "regular",
+    "v1": "Respirar",
+    "v2": "respira",
+    "v3": "respiró",
+    "v4": "respirado",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to depart",
+    "id": "jv51In0SO8DfP6xFBSdY",
+    "type": "regular",
+    "v1": "Partir",
+    "v2": "parto",
+    "v3": "partí",
+    "v4": "partido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to tidy up",
+    "id": "nfNU1i0n7Ey3Gdf5twK1",
+    "type": "regular",
+    "v1": "Ordenar",
+    "v2": "ordeno",
+    "v3": "ordené",
+    "v4": "ordenado",
+    "verb": "O"
+  },
+  {
+    "english_meaning": "to adjust",
+    "id": "nyvCUAlBEIa7lbq32oLO",
+    "type": "regular",
+    "v1": "Ajustar",
+    "v2": "ajusta",
+    "v3": "ajustó",
+    "v4": "ajustado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to answer",
+    "id": "osw4jLgbTRN87lpaAkLm",
+    "type": "regular",
+    "v1": "Contestar",
+    "v2": "contesta",
+    "v3": "contestó",
+    "v4": "contestado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to record",
+    "id": "otanQA6jvT8Lw8my8YRe",
+    "type": "regular",
+    "v1": "Grabar",
+    "v2": "grabo",
+    "v3": "grabé",
+    "v4": "grabado",
+    "verb": "G"
+  },
+  {
+    "english_meaning": "to lose weight",
+    "id": "pBJUFDLe7YT25aiFYoWc",
+    "type": "regular",
+    "v1": "Bajar de peso",
+    "v2": "baja de peso",
+    "v3": "bajó de peso",
+    "v4": "bajado de peso",
+    "verb": "B"
+  },
+  {
+    "english_meaning": "to lay down",
+    "id": "pyBXjvffveCG5XeBBS6G",
+    "type": "regular",
+    "v1": "Poner",
+    "v2": "pongo",
+    "v3": "puse",
+    "v4": "puesto",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to pick up",
+    "id": "rHVNGZedAJi5APNx09fQ",
+    "type": "regular",
+    "v1": "Recoger",
+    "v2": "recoge",
+    "v3": "recogió",
+    "v4": "recogido",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to arrive",
+    "id": "rUMZXguAZ3DbaQNEh37e",
+    "type": "regular",
+    "v1": "Llegar",
+    "v2": "llega",
+    "v3": "llegó",
+    "v4": "llegado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to pay attention",
+    "id": "rtlhvnMKkDVMLBVOkO7g",
+    "type": "regular",
+    "v1": "Prestar atención",
+    "v2": "presta atención",
+    "v3": "prestó atención",
+    "v4": "prestado atención",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to break",
+    "id": "49AEcldibNxirqCBJUg0",
+    "type": "irregular",
+    "v1": "romper",
+    "v2": "rompe",
+    "v3": "rompió",
+    "v4": "roto",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to finish",
+    "id": "5cjeEOc4BveQ1tIzt2eJ",
+    "type": "regular",
+    "v1": "terminar",
+    "v2": "termina",
+    "v3": "terminó",
+    "v4": "terminado",
+    "verb": "T"
+  },
+  {
+    "english_meaning": "to pay",
+    "id": "6pNjfengzSOip7HkGMY6",
+    "type": "regular",
+    "v1": "pagar",
+    "v2": "paga",
+    "v3": "pagó",
+    "v4": "pagado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to meet",
+    "id": "AgAJiAEsykpsNA2bhjXX",
+    "type": "regular",
+    "v1": "encontrar",
+    "v2": "encuentra",
+    "v3": "encontró",
+    "v4": "encontrado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to form",
+    "id": "GIPqKVew1ummaVjvaLfx",
+    "type": "regular",
+    "v1": "formar",
+    "v2": "forma",
+    "v3": "formó",
+    "v4": "formado",
+    "verb": "F"
+  },
+  {
+    "english_meaning": "to offer",
+    "id": "Jy7C4E0bti8ntqjG0Yce",
+    "type": "irregular",
+    "v1": "ofrecer",
+    "v2": "ofrece",
+    "v3": "ofreció",
+    "v4": "ofrecido",
+    "verb": "O"
+  },
+  {
+    "english_meaning": "to begin",
+    "id": "KMkad7KHAXRaOAbM3ecJ",
+    "type": "irregular",
+    "v1": "empezar",
+    "v2": "empieza",
+    "v3": "empezó",
+    "v4": "empezado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to command",
+    "id": "O7sqXfXKFCqGr6y8waWV",
+    "type": "irregular",
+    "v1": "ordenar",
+    "v2": "ordena",
+    "v3": "ordenó",
+    "v4": "ordenado",
+    "verb": "O"
+  },
+  {
+    "english_meaning": "to mean",
+    "id": "PdgtzpJpqrUSSmx6BBVs",
+    "type": "regular",
+    "v1": "significar",
+    "v2": "significa",
+    "v3": "significó",
+    "v4": "significado",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to bake",
+    "id": "TzZ61WLeAHfhtQ52gi6Z",
+    "type": "irregular",
+    "v1": "hornear",
+    "v2": "hornea",
+    "v3": "horneó",
+    "v4": "horneado",
+    "verb": "H"
+  },
+  {
+    "english_meaning": "to build",
+    "id": "UQuhVi4dFG9KibZb5Cyb",
+    "type": "regular",
+    "v1": "construir",
+    "v2": "construye",
+    "v3": "construyó",
+    "v4": "construido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to blow",
+    "id": "XK5btYvGgfwmP0qB9I85",
+    "type": "irregular",
+    "v1": "soplar",
+    "v2": "sopla",
+    "v3": "sopló",
+    "v4": "soplado",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to visit",
+    "id": "a1GC2Lyv04wXFCWzpTAx",
+    "type": "regular",
+    "v1": "visitar",
+    "v2": "visita",
+    "v3": "visitó",
+    "v4": "visitado",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to order",
+    "id": "bNhk7l95CPJfnuAuYHEQ",
+    "type": "regular",
+    "v1": "pedir",
+    "v2": "pide",
+    "v3": "pidió",
+    "v4": "pedido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to book",
+    "id": "bRna5JtaA5Al9PIVB0gc",
+    "type": "regular",
+    "v1": "reservar",
+    "v2": "reserva",
+    "v3": "reservó",
+    "v4": "reservado",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to brush",
+    "id": "gc9266ttrYgXpi32RzfW",
+    "type": "regular",
+    "v1": "cepillar",
+    "v2": "cepilla",
+    "v3": "cepilló",
+    "v4": "cepillado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to bring",
+    "id": "h1lRSGCHTUBt5DA1Y0Q7",
+    "type": "irregular",
+    "v1": "traer",
+    "v2": "trae",
+    "v3": "trajo",
+    "v4": "traído",
+    "verb": "T"
+  },
+  {
+    "english_meaning": "to request/ask",
+    "id": "hH3bdKO1EhchGzG8NjaF",
+    "type": "irregular",
+    "v1": "pedir",
+    "v2": "pide",
+    "v3": "pidió",
+    "v4": "pedido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to pray",
+    "id": "lpHg4coiIXRTnulXAIWM",
+    "type": "regular",
+    "v1": "rezar",
+    "v2": "reza",
+    "v3": "rezó",
+    "v4": "rezado",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to stay/remain",
+    "id": "o6lj1qKF5pNoO0SyUp6e",
+    "type": "irregular",
+    "v1": "quedar",
+    "v2": "queda",
+    "v3": "quedó",
+    "v4": "quedado",
+    "verb": "Q"
+  },
+  {
+    "english_meaning": "to use",
+    "id": "pBsSp9lo4wpSSWoBYZ6f",
+    "type": "regular",
+    "v1": "usar",
+    "v2": "usa",
+    "v3": "usó",
+    "v4": "usado",
+    "verb": "U"
+  },
+  {
+    "english_meaning": "to bend",
+    "id": "pVq35F311BMyhsL5SqUc",
+    "type": "irregular",
+    "v1": "doblar",
+    "v2": "dobra",
+    "v3": "dobló",
+    "v4": "doblado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to commission",
+    "id": "sKdYQi80ID5dZOsf40hV",
+    "type": "regular",
+    "v1": "encargar",
+    "v2": "encarga",
+    "v3": "encargó",
+    "v4": "encargado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to need",
+    "id": "uG54w0FouOO1ehDEycrE",
+    "type": "regular",
+    "v1": "necesitar",
+    "v2": "necesita",
+    "v3": "necesitó",
+    "v4": "necesitado",
+    "verb": "N"
+  },
+  {
+    "english_meaning": "to bind/tie",
+    "id": "voqyTDLzTOBK7fohtXOC",
+    "type": "irregular",
+    "v1": "atar",
+    "v2": "ata",
+    "v3": "ató",
+    "v4": "atado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to bathe",
+    "id": "wNfdlT9nSz3bHysf7mYp",
+    "type": "regular",
+    "v1": "bañar",
+    "v2": "baña",
+    "v3": "bañó",
+    "v4": "bañado",
+    "verb": "B"
+  },
+  {
+    "english_meaning": "to bite",
+    "id": "zQOh37CIs6xk95IAHuiZ",
+    "type": "irregular",
+    "v1": "morder",
+    "v2": "muerde",
+    "v3": "mordió",
+    "v4": "mordido",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to chant",
+    "id": "X757xMnZ0DjU67HV2OJY",
+    "type": "regular",
+    "v1": "cantar",
+    "v2": "canta",
+    "v3": "cantó",
+    "v4": "cantado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to be allowed",
+    "id": "9269EACqqFR2ott01xGj",
+    "type": "irregular",
+    "v1": "permitir",
+    "v2": "permite",
+    "v3": "permitió",
+    "v4": "permitido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to persevere",
+    "id": "Eg87tFi82ViyBs5FB1vs",
+    "type": "regular",
+    "v1": "perseverar",
+    "v2": "persiste",
+    "v3": "persistió",
+    "v4": "persistido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to press/push",
+    "id": "SlXLjp3gNamQwdsFcW1h",
+    "type": "regular",
+    "v1": "presionar",
+    "v2": "presiona",
+    "v3": "presionó",
+    "v4": "presionado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to think",
+    "id": "eG7gYR8pn1RYOQkbucgK",
+    "type": "irregular",
+    "v1": "pensar",
+    "v2": "piensa",
+    "v3": "pensó",
+    "v4": "pensado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to thank",
+    "id": "fAhctDzBqDRjATHUsKDM",
+    "type": "regular",
+    "v1": "agradecer",
+    "v2": "agradece",
+    "v3": "agradeció",
+    "v4": "agradecido",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to interpret",
+    "id": "hoqywaGEm3yWWwPQCSIQ",
+    "type": "regular",
+    "v1": "interpretar",
+    "v2": "interpreta",
+    "v3": "interpretó",
+    "v4": "interpretado",
+    "verb": "I"
+  },
+  {
+    "english_meaning": "to discuss",
+    "id": "kQajmsMEd6Q4H8SOCXlT",
+    "type": "regular",
+    "v1": "discutir",
+    "v2": "discute",
+    "v3": "discutió",
+    "v4": "discutido",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to shower",
+    "id": "sQzWOvN7KrLjpJfEcHYu",
+    "type": "regular",
+    "v1": "duchar",
+    "v2": "ducha",
+    "v3": "duchó",
+    "v4": "duchado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to print",
+    "id": "tc6g8ysonjTTPVdR17EC",
+    "type": "regular",
+    "v1": "imprimir",
+    "v2": "imprime",
+    "v3": "imprimió",
+    "v4": "imprimido",
+    "verb": "I"
+  },
+  {
+    "english_meaning": "to cover",
+    "id": "yzRNnzdJOxn5Uj20ziox",
+    "type": "regular",
+    "v1": "cubrir",
+    "v2": "cubre",
+    "v3": "cubrió",
+    "v4": "cubierto",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to fill in",
+    "id": "7fnwfbcF01a6eYcfmIqw",
+    "type": "regular",
+    "v1": "llenar",
+    "v2": "llena",
+    "v3": "llenó",
+    "v4": "llenado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to tell",
+    "id": "8ZuFR3BXz1xDG44U8qnw",
+    "type": "regular",
+    "v1": "contar",
+    "v2": "cuenta",
+    "v3": "contó",
+    "v4": "contado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to remember",
+    "id": "GMPoBMt9YDkwDGFmvE0v",
+    "type": "regular",
+    "v1": "recordar",
+    "v2": "recuerda",
+    "v3": "recordó",
+    "v4": "recordado",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to expect",
+    "id": "LAmsOLxrFWylRh8x9Mnd",
+    "type": "regular",
+    "v1": "esperar",
+    "v2": "espera",
+    "v3": "esperó",
+    "v4": "esperado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to receive",
+    "id": "Mt3zkgRl6W80SdnGqCVE",
+    "type": "regular",
+    "v1": "recibir",
+    "v2": "recibe",
+    "v3": "recibió",
+    "v4": "recibido",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to explain",
+    "id": "NAym1vprxy69qnGT33p4",
+    "type": "regular",
+    "v1": "explicar",
+    "v2": "explica",
+    "v3": "explicó",
+    "v4": "explicado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to hurry",
+    "id": "SPD1tSdg30NahGxTW1hg",
+    "type": "regular",
+    "v1": "apresurar",
+    "v2": "apresura",
+    "v3": "apresuró",
+    "v4": "apresurado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to board",
+    "id": "ULqx0ZovKU0KpnCLEAy1",
+    "type": "regular",
+    "v1": "subir",
+    "v2": "sube",
+    "v3": "subió",
+    "v4": "subido",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to allow",
+    "id": "XBxLrALmseFpxpNAhnfr",
+    "type": "regular",
+    "v1": "permitir",
+    "v2": "permite",
+    "v3": "permitió",
+    "v4": "permitido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to shop",
+    "id": "hUknvjxcB1eKX97zZVlf",
+    "type": "regular",
+    "v1": "comprar",
+    "v2": "compra",
+    "v3": "compró",
+    "v4": "comprado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to eat",
+    "id": "oq5V8taeZeoE3ZQ2qHsQ",
+    "type": "irregular",
+    "v1": "comer",
+    "v2": "come",
+    "v3": "comió",
+    "v4": "comido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to decide",
+    "id": "qmUEFU2eqqQVrT1zviOt",
+    "type": "regular",
+    "v1": "decidir",
+    "v2": "decide",
+    "v3": "decidió",
+    "v4": "decidido",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to end",
+    "id": "w1ICzL4AHNHRrGxaPN8j",
+    "type": "regular",
+    "v1": "terminar",
+    "v2": "termina",
+    "v3": "terminó",
+    "v4": "terminado",
+    "verb": "T"
+  },
+  {
+    "english_meaning": "to invite",
+    "id": "xWgIUSCKCky7lESKQHt5",
+    "type": "regular",
+    "v1": "invitar",
+    "v2": "invita",
+    "v3": "invitó",
+    "v4": "invitado",
+    "verb": "I"
+  },
+  {
+    "english_meaning": "to educate/raise",
+    "id": "xiXUSVsGVDjPXChYc6S6",
+    "type": "regular",
+    "v1": "educar",
+    "v2": "educa",
+    "v3": "educó",
+    "v4": "educado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to find",
+    "id": "0kRB2Yz8IPrneP8LHR8f",
+    "type": "irregular",
+    "v1": "encontrar",
+    "v2": "encuentra",
+    "v3": "encontró",
+    "v4": "encontrado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to fall",
+    "id": "0t1iJb958HwlWTXTw9Nr",
+    "type": "irregular",
+    "v1": "caer",
+    "v2": "cae",
+    "v3": "cayó",
+    "v4": "caído",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to feel",
+    "id": "2447o2jFP7xfbdfMkxKT",
+    "type": "regular",
+    "v1": "sentir",
+    "v2": "siente",
+    "v3": "sintió",
+    "v4": "sentido",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to have breakfast",
+    "id": "3pSOADU5jB4etWgPzpJi",
+    "type": "regular",
+    "v1": "desayunar",
+    "v2": "desayuna",
+    "v3": "desayunó",
+    "v4": "desayunado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to function",
+    "id": "Amuc2viYuoMO6UqF8P0g",
+    "type": "regular",
+    "v1": "funcionar",
+    "v2": "funciona",
+    "v3": "funcionó",
+    "v4": "funcionado",
+    "verb": "F"
+  },
+  {
+    "english_meaning": "to be missing",
+    "id": "Dm0MXZDZCJqiot00cckf",
+    "type": "regular",
+    "v1": "faltar",
+    "v2": "falta",
+    "v3": "faltaba",
+    "v4": "faltado",
+    "verb": "F"
+  },
+  {
+    "english_meaning": "to watch TV",
+    "id": "GF6vvRguLiffAJ8RBGfI",
+    "type": "regular",
+    "v1": "ver televisión",
+    "v2": "ve la televisión",
+    "v3": "vio la televisión",
+    "v4": "visto la televisión",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to flee",
+    "id": "HNeXwx1twqW0XaRrtktf",
+    "type": "irregular",
+    "v1": "huir",
+    "v2": "huye",
+    "v3": "huyó",
+    "v4": "huido",
+    "verb": "H"
+  },
+  {
+    "english_meaning": "to freeze",
+    "id": "LtuTbImr3zp9UQjATC0n",
+    "type": "irregular",
+    "v1": "congelar",
+    "v2": "congela",
+    "v3": "congeló",
+    "v4": "congelado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to celebrate",
+    "id": "QIiHTsY8QZyRmTfKhOOW",
+    "type": "regular",
+    "v1": "celebrar",
+    "v2": "celebra",
+    "v3": "celebró",
+    "v4": "celebrado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to fly",
+    "id": "Zz5Kge88uc4O9YiCPDb0",
+    "type": "irregular",
+    "v1": "volar",
+    "v2": "vuela",
+    "v3": "voló",
+    "v4": "volado",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to research",
+    "id": "ambF8cqLZRqp5AgHh4WI",
+    "type": "regular",
+    "v1": "investigar",
+    "v2": "investiga",
+    "v3": "investigó",
+    "v4": "investigado",
+    "verb": "I"
+  },
+  {
+    "english_meaning": "to ask",
+    "id": "eWAssMWR5qNnFf5Z24d8",
+    "type": "regular",
+    "v1": "preguntar",
+    "v2": "pregunta",
+    "v3": "preguntó",
+    "v4": "preguntado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to catch",
+    "id": "hpfT6GjoN3KDZXl0XqbJ",
+    "type": "irregular",
+    "v1": "atrapar",
+    "v2": "atrapa",
+    "v3": "atrapó",
+    "v4": "atrapado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to be glad",
+    "id": "l4wgOoBkAnXs8EU6ppRJ",
+    "type": "regular",
+    "v1": "alegrar",
+    "v2": "alegra",
+    "v3": "alegró",
+    "v4": "alegrado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to follow",
+    "id": "rU45vel5RvPbVYQGBQCX",
+    "type": "regular",
+    "v1": "seguir",
+    "v2": "sigue",
+    "v3": "siguió",
+    "v4": "seguido",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to eat (for animals)",
+    "id": "rYBE2hmSRqIr7xy2AGtA",
+    "type": "irregular",
+    "v1": "comer",
+    "v2": "come",
+    "v3": "comió",
+    "v4": "comido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to take firmly",
+    "id": "tQTJJeoTwkfu3pzgpcKR",
+    "type": "regular",
+    "v1": "agarrar",
+    "v2": "agarra",
+    "v3": "agarró",
+    "v4": "agarrado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to flow",
+    "id": "uYtQsZ0ik8SfTxZxiNJZ",
+    "type": "irregular",
+    "v1": "fluir",
+    "v2": "fluye",
+    "v3": "fluyó",
+    "v4": "fluido",
+    "verb": "F"
+  },
+  {
+    "english_meaning": "to lead",
+    "id": "vlbZD9ua6DGT00JSmEpE",
+    "type": "regular",
+    "v1": "dirigir",
+    "v2": "dirige",
+    "v3": "dirigió",
+    "v4": "dirigido",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to drive/travel",
+    "id": "zKXkTrMcKXBiIuOZjaXw",
+    "type": "irregular",
+    "v1": "conducir",
+    "v2": "conduce",
+    "v3": "condujo",
+    "v4": "conducido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to be valid",
+    "id": "EwmPaIzPtU5ZqZxd3Lvz",
+    "type": "irregular",
+    "v1": "valer",
+    "v2": "vale",
+    "v3": "valió",
+    "v4": "valido",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to pour/water",
+    "id": "GpKUV3R9JWYfrCQmlhsw",
+    "type": "irregular",
+    "v1": "verter",
+    "v2": "verte",
+    "v3": "vertió",
+    "v4": "vertido",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to dig",
+    "id": "IiuCmsGNVFHyfxn9WhBg",
+    "type": "irregular",
+    "v1": "cavar",
+    "v2": "cava",
+    "v3": "cavó",
+    "v4": "cavado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to believe",
+    "id": "JxPWLXvprYjQh8BiIB9y",
+    "type": "regular",
+    "v1": "creer",
+    "v2": "cree",
+    "v3": "creyó",
+    "v4": "creído",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to give",
+    "id": "RaRWG6uL8yuejCepCExV",
+    "type": "irregular",
+    "v1": "dar",
+    "v2": "da",
+    "v3": "dio",
+    "v4": "dado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to congratulate",
+    "id": "U2uuKOo2OCTNmeKbwSgQ",
+    "type": "regular",
+    "v1": "felicitar",
+    "v2": "felicita",
+    "v3": "felicitó",
+    "v4": "felicitado",
+    "verb": "F"
+  },
+  {
+    "english_meaning": "to grab",
+    "id": "ZNrmhUw8txsPidDVk3LJ",
+    "type": "irregular",
+    "v1": "agarrar",
+    "v2": "agarra",
+    "v3": "agarró",
+    "v4": "agarrado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to happen",
+    "id": "aUQh3a70G1zNWDE4I7mp",
+    "type": "irregular",
+    "v1": "suceder",
+    "v2": "sucede",
+    "v3": "sucedió",
+    "v4": "sucedido",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to win",
+    "id": "eacC80zLTguoCdCfGUf5",
+    "type": "irregular",
+    "v1": "ganar",
+    "v2": "gana",
+    "v3": "ganó",
+    "v4": "ganado",
+    "verb": "G"
+  },
+  {
+    "english_meaning": "to resemble",
+    "id": "frY5WqVA2U07rVL5yHjX",
+    "type": "irregular",
+    "v1": "parecerse",
+    "v2": "parece",
+    "v3": "pareció",
+    "v4": "parecido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to succeed",
+    "id": "hYPatdQVyMwoVSItKTAL",
+    "type": "irregular",
+    "v1": "tener éxito",
+    "v2": "tiene éxito",
+    "v3": "tuvo éxito",
+    "v4": "tenido éxito",
+    "verb": "T"
+  },
+  {
+    "english_meaning": "to glide/slide",
+    "id": "k0W2p41QeJsll8bdm9Tj",
+    "type": "irregular",
+    "v1": "deslizarse",
+    "v2": "se desliza",
+    "v3": "se deslizó",
+    "v4": "deslizado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to enjoy",
+    "id": "tijyUOdhaGcYLHiiRkge",
+    "type": "irregular",
+    "v1": "disfrutar",
+    "v2": "disfruta",
+    "v3": "disfrutó",
+    "v4": "disfrutado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to go",
+    "id": "yHlUfN8Jw0JZexwEl1mx",
+    "type": "irregular",
+    "v1": "ir",
+    "v2": "va",
+    "v3": "fue",
+    "v4": "ido",
+    "verb": "I"
+  },
+  {
+    "english_meaning": "to produce",
+    "id": "5lytfEf3PH2yG92054KI",
+    "type": "regular",
+    "v1": "producir",
+    "v2": "produce",
+    "v3": "produjo",
+    "v4": "producido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to fetch",
+    "id": "AxyNReKwVTqnvoMUeYUp",
+    "type": "regular",
+    "v1": "traer",
+    "v2": "trae",
+    "v3": "trajo",
+    "v4": "traído",
+    "verb": "T"
+  },
+  {
+    "english_meaning": "to hope",
+    "id": "FWt1kAziezJxmh7GUmoe",
+    "type": "regular",
+    "v1": "esperar",
+    "v2": "espera",
+    "v3": "esperó",
+    "v4": "esperado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to take out",
+    "id": "KZpzhIyXV1mp2MGz6Uu9",
+    "type": "regular",
+    "v1": "sacar",
+    "v2": "saca",
+    "v3": "sacó",
+    "v4": "sacado",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to hold/stop",
+    "id": "MLU2nhcJSl3mYxwi1qyQ",
+    "type": "irregular",
+    "v1": "detener",
+    "v2": "detiene",
+    "v3": "detuvo",
+    "v4": "detenido",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to help",
+    "id": "T0GxRxmCQD2Nfgyn4LBy",
+    "type": "irregular",
+    "v1": "ayudar",
+    "v2": "ayuda",
+    "v3": "ayudó",
+    "v4": "ayudado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to lay down",
+    "id": "Z1w5pDMiJNJVRQ9vJkIx",
+    "type": "regular",
+    "v1": "poner",
+    "v2": "pone",
+    "v3": "puso",
+    "v4": "puesto",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to place inside",
+    "id": "a9UhJPQAnxeVYGFwWjRd",
+    "type": "regular",
+    "v1": "meter",
+    "v2": "mete",
+    "v3": "metió",
+    "v4": "metido",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to have",
+    "id": "evnLoirlhod9CoOAgSAL",
+    "type": "irregular",
+    "v1": "tener",
+    "v2": "tiene",
+    "v3": "tuvo",
+    "v4": "tenido",
+    "verb": "T"
+  },
+  {
+    "english_meaning": "to be called",
+    "id": "gUeDlkciweerHVL5MfRM",
+    "type": "irregular",
+    "v1": "llamar",
+    "v2": "llama",
+    "v3": "llamó",
+    "v4": "llamado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to hang",
+    "id": "kRRQbU37jxGQAFr6SC5W",
+    "type": "irregular",
+    "v1": "colgar",
+    "v2": "cuelga",
+    "v3": "colgó",
+    "v4": "colgado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to hear",
+    "id": "kqZxslUpxZwaeMkdYQ1F",
+    "type": "regular",
+    "v1": "oír",
+    "v2": "oye",
+    "v3": "oyó",
+    "v4": "oído",
+    "verb": "O"
+  },
+  {
+    "english_meaning": "to interest",
+    "id": "1ui0YlK34M4kyJFg5vRx",
+    "type": "regular",
+    "v1": "interesar",
+    "v2": "interesa",
+    "v3": "interesó",
+    "v4": "interesado",
+    "verb": "I"
+  },
+  {
+    "english_meaning": "to inform",
+    "id": "35HG9mOy0FF6fKkBFOYL",
+    "type": "regular",
+    "v1": "informar",
+    "v2": "informa",
+    "v3": "informó",
+    "v4": "informado",
+    "verb": "I"
+  },
+  {
+    "english_meaning": "to jog",
+    "id": "KJGCl8nIODPaMBC2Bkhb",
+    "type": "regular",
+    "v1": "correr",
+    "v2": "corre",
+    "v3": "corrió",
+    "v4": "corrida",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to cheer",
+    "id": "M0TXZgH5y18EKy0CDl4x",
+    "type": "regular",
+    "v1": "animar",
+    "v2": "anima",
+    "v3": "animó",
+    "v4": "animado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to come",
+    "id": "11tzqDYcr8NgguKfKBxw",
+    "type": "irregular",
+    "v1": "venir",
+    "v2": "viene",
+    "v3": "vino",
+    "v4": "venido",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to sound",
+    "id": "9Y30dar38goow8mIf33D",
+    "type": "irregular",
+    "v1": "sonar",
+    "v2": "suena",
+    "v3": "sonó",
+    "v4": "sonado",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to cost",
+    "id": "DiYNFOT1pP3mBzeelqVz",
+    "type": "regular",
+    "v1": "costar",
+    "v2": "cuesta",
+    "v3": "costó",
+    "v4": "costado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to cook",
+    "id": "OH1d0XSxeTNYH5AlGcBG",
+    "type": "regular",
+    "v1": "cocinar",
+    "v2": "cocina",
+    "v3": "cocinó",
+    "v4": "cocinado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to resign",
+    "id": "ReNXfzHS9kexawNoDill",
+    "type": "regular",
+    "v1": "renunciar",
+    "v2": "renuncia",
+    "v3": "renunció",
+    "v4": "renunciado",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to buy",
+    "id": "UF20XQiXWPdXaBOIn22f",
+    "type": "regular",
+    "v1": "comprar",
+    "v2": "compra",
+    "v3": "compró",
+    "v4": "comprado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to control",
+    "id": "aK6YusyL6X0pIcN5wJei",
+    "type": "regular",
+    "v1": "controlar",
+    "v2": "controla",
+    "v3": "controló",
+    "v4": "controlado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to know (a person)",
+    "id": "bqLyIW8HDvZQ7ssjfsQI",
+    "type": "irregular",
+    "v1": "conocer",
+    "v2": "conoce",
+    "v3": "conoció",
+    "v4": "conocido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to crawl",
+    "id": "jB3a0XMXJ91JymfD2bAF",
+    "type": "irregular",
+    "v1": "arrastrarse",
+    "v2": "se arrastra",
+    "v3": "se arrastró",
+    "v4": "arrastrado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to clarify",
+    "id": "jcJHSP4NxQxiZqfNAW9K",
+    "type": "regular",
+    "v1": "aclarar",
+    "v2": "aclara",
+    "v3": "aclaró",
+    "v4": "aclarado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to be able/can",
+    "id": "lT4iIreZAmuYcxiN4q9y",
+    "type": "irregular",
+    "v1": "poder",
+    "v2": "puede",
+    "v3": "pudo",
+    "v4": "podido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to get to know",
+    "id": "nN0FXcIMkhmSgJ1IRvXb",
+    "type": "regular",
+    "v1": "conocer",
+    "v2": "conoce",
+    "v3": "conoció",
+    "v4": "conocido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to take care",
+    "id": "qfRXlDoYFKMRg3CxqC8s",
+    "type": "regular",
+    "v1": "cuidar",
+    "v2": "cuida",
+    "v3": "cuidó",
+    "v4": "cuidado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to learn",
+    "id": "0BOJJJhtl4K2qlFXiiJn",
+    "type": "regular",
+    "v1": "aprender",
+    "v2": "aprende",
+    "v3": "aprendió",
+    "v4": "aprendido",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to lie (tell a lie)",
+    "id": "6hXVwLp2c9MtkknHbgcy",
+    "type": "irregular",
+    "v1": "mentir",
+    "v2": "miente",
+    "v3": "mintió",
+    "v4": "mentido",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to load",
+    "id": "90Kr4MAcYWq6Win0tm9Z",
+    "type": "irregular",
+    "v1": "cargar",
+    "v2": "carga",
+    "v3": "cargó",
+    "v4": "cargado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to laugh",
+    "id": "9mfRH7AJnBA8m7kbRXxK",
+    "type": "regular",
+    "v1": "reír",
+    "v2": "ríe",
+    "v3": "rió",
+    "v4": "reído",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to let/allow",
+    "id": "DBGtU1kwOcmhTMpeolwB",
+    "type": "irregular",
+    "v1": "dejar",
+    "v2": "deja",
+    "v3": "dejó",
+    "v4": "dejado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to love",
+    "id": "DGxlF8NlGA2MJcM4tQm3",
+    "type": "regular",
+    "v1": "amar",
+    "v2": "ama",
+    "v3": "amó",
+    "v4": "amado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to live",
+    "id": "P2GPrbKQobIgo9wPxUUt",
+    "type": "regular",
+    "v1": "vivir",
+    "v2": "vive",
+    "v3": "vivió",
+    "v4": "vivido",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to lie (down)",
+    "id": "S2MLBgSB3vcz9BdXuUSF",
+    "type": "irregular",
+    "v1": "acostarse",
+    "v2": "se acuesta",
+    "v3": "se acostó",
+    "v4": "se acostado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to suffer",
+    "id": "avf8zKil13AVw12YFrMC",
+    "type": "irregular",
+    "v1": "sufrir",
+    "v2": "sufre",
+    "v3": "sufrió",
+    "v4": "sufrido",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to lay",
+    "id": "bDvHc53FKe9tgmk9ejYG",
+    "type": "regular",
+    "v1": "poner",
+    "v2": "pone",
+    "v3": "puso",
+    "v4": "puesto",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to lend/borrow",
+    "id": "jgyCvJBeu9e27M9hq2cV",
+    "type": "irregular",
+    "v1": "prestar",
+    "v2": "presta",
+    "v3": "prestó",
+    "v4": "prestado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to read",
+    "id": "oAhHd05cjejTKzaGZf6e",
+    "type": "irregular",
+    "v1": "leer",
+    "v2": "lee",
+    "v3": "leyó",
+    "v4": "leído",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to run",
+    "id": "sxqXjXPggou7h0etm0y9",
+    "type": "irregular",
+    "v1": "correr",
+    "v2": "corre",
+    "v3": "corrió",
+    "v4": "corrido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to rent",
+    "id": "ALXSuBrFC3hofPr3AyQH",
+    "type": "regular",
+    "v1": "alquilar",
+    "v2": "alquila",
+    "v3": "alquiló",
+    "v4": "alquilado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to have to/must",
+    "id": "LcLo6l0utJ0iZSpTYYpm",
+    "type": "irregular",
+    "v1": "deber",
+    "v2": "debe",
+    "v3": "debió",
+    "v4": "debido",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to paint",
+    "id": "TL08CnM782mUxJUuXSFD",
+    "type": "regular",
+    "v1": "pintar",
+    "v2": "pinta",
+    "v3": "pintó",
+    "v4": "pintado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to do/make",
+    "id": "asGDG75oSEv9n74vzDW8",
+    "type": "regular",
+    "v1": "hacer",
+    "v2": "hace",
+    "v3": "hizo",
+    "v4": "hecho",
+    "verb": "H"
+  },
+  {
+    "english_meaning": "to like",
+    "id": "hdXJU9brdCtv34u4kOw6",
+    "type": "irregular",
+    "v1": "gustar",
+    "v2": "gusta",
+    "v3": "gustó",
+    "v4": "gustado",
+    "verb": "G"
+  },
+  {
+    "english_meaning": "to measure",
+    "id": "uFcEsEboTIPhjfw5Gizd",
+    "type": "irregular",
+    "v1": "medir",
+    "v2": "mide",
+    "v3": "midió",
+    "v4": "medido",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to notice",
+    "id": "z5cz6LQUwCSBy344gFbt",
+    "type": "regular",
+    "v1": "notar",
+    "v2": "nota",
+    "v3": "notó",
+    "v4": "notado",
+    "verb": "N"
+  },
+  {
+    "english_meaning": "to take",
+    "id": "TlLdMOnTEwPhmYheaUEV",
+    "type": "irregular",
+    "v1": "tomar",
+    "v2": "toma",
+    "v3": "tomó",
+    "v4": "tomado",
+    "verb": "T"
+  },
+  {
+    "english_meaning": "to use",
+    "id": "UogWwvd6f4IUgsrYF2DI",
+    "type": "regular",
+    "v1": "usar",
+    "v2": "usa",
+    "v3": "usó",
+    "v4": "usado",
+    "verb": "U"
+  },
+  {
+    "english_meaning": "to think about",
+    "id": "pNE0i4V6SHV38q13pbQn",
+    "type": "regular",
+    "v1": "pensar",
+    "v2": "piensa",
+    "v3": "pensó",
+    "v4": "pensado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to arrange",
+    "id": "c2YkqjmSLWmSOSHDmcjD",
+    "type": "regular",
+    "v1": "ordenar",
+    "v2": "ordena",
+    "v3": "ordenó",
+    "v4": "ordenado",
+    "verb": "O"
+  },
+  {
+    "english_meaning": "to pack",
+    "id": "IzgVvc9dj2aoc5L9utp0",
+    "type": "regular",
+    "v1": "empacar",
+    "v2": "empaca",
+    "v3": "empacó",
+    "v4": "empacado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to fit",
+    "id": "LAmtcy4ki07CpGyIwaeS",
+    "type": "regular",
+    "v1": "encajar",
+    "v2": "encaja",
+    "v3": "encajó",
+    "v4": "encajado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to plan",
+    "id": "O2vRAqomMmAk3KoCsDnB",
+    "type": "regular",
+    "v1": "planear",
+    "v2": "planea",
+    "v3": "planeó",
+    "v4": "planeado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to travel",
+    "id": "9Fo0RYrxbsDWnxbt2C9t",
+    "type": "regular",
+    "v1": "viajar",
+    "v2": "viaja",
+    "v3": "viajó",
+    "v4": "viajado",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to talk",
+    "id": "G3CPiljoDxEyhquWwQmi",
+    "type": "regular",
+    "v1": "hablar",
+    "v2": "habla",
+    "v3": "habló",
+    "v4": "hablado",
+    "verb": "H"
+  },
+  {
+    "english_meaning": "to ride (horse)",
+    "id": "HkrFCnpfcsBZ3JcG17rc",
+    "type": "irregular",
+    "v1": "montar",
+    "v2": "monta",
+    "v3": "montó",
+    "v4": "montado",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to advise/guess",
+    "id": "Y1TBG1d33gSHcLKCixli",
+    "type": "irregular",
+    "v1": "adivinar",
+    "v2": "adivina",
+    "v3": "adivinó",
+    "v4": "adivinado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to call/shout",
+    "id": "c5sjgAUfaW4Ly7H33zIz",
+    "type": "irregular",
+    "v1": "llamar",
+    "v2": "llama",
+    "v3": "llamó",
+    "v4": "llamado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to run",
+    "id": "g2yLwrNTmmvAItutMfTR",
+    "type": "irregular",
+    "v1": "correr",
+    "v2": "corre",
+    "v3": "corrió",
+    "v4": "corrido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to smell",
+    "id": "ikaTWPmw6oEu4whLlyUk",
+    "type": "irregular",
+    "v1": "oler",
+    "v2": "huele",
+    "v3": "olió",
+    "v4": "oleado",
+    "verb": "O"
+  },
+  {
+    "english_meaning": "to shoot",
+    "id": "1bkeoupebVpUfqVL7ckX",
+    "type": "irregular",
+    "v1": "disparar",
+    "v2": "dispara",
+    "v3": "disparó",
+    "v4": "disparado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to play",
+    "id": "2f5HcpHwTHDXqZd2HOLh",
+    "type": "regular",
+    "v1": "jugar",
+    "v2": "juega",
+    "v3": "jugó",
+    "v4": "jugado",
+    "verb": "J"
+  },
+  {
+    "english_meaning": "to send",
+    "id": "4YDfK6QPzYsfEnyj79Wy",
+    "type": "regular",
+    "v1": "enviar",
+    "v2": "envía",
+    "v3": "envió",
+    "v4": "enviado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to steal",
+    "id": "5764NLPNFv4bQ2ZJPE7i",
+    "type": "irregular",
+    "v1": "robar",
+    "v2": "roba",
+    "v3": "robó",
+    "v4": "robado",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to stand",
+    "id": "7h3j8WUiMn6OetqOk91v",
+    "type": "irregular",
+    "v1": "estar de pie",
+    "v2": "está de pie",
+    "v3": "estuvo de pie",
+    "v4": "estado de pie",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to close",
+    "id": "9XKvYicHwvY7lvkAdNcF",
+    "type": "irregular",
+    "v1": "cerrar",
+    "v2": "cierra",
+    "v3": "cerró",
+    "v4": "cerrado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to seem/shine",
+    "id": "9eeEd7f9tftBrkVmAIWk",
+    "type": "irregular",
+    "v1": "parecer",
+    "v2": "parece",
+    "v3": "pareció",
+    "v4": "parecido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to sleep",
+    "id": "9rhoVkECZXTFDXD2bmAG",
+    "type": "irregular",
+    "v1": "dormir",
+    "v2": "duerme",
+    "v3": "durmió",
+    "v4": "dormido",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to estimate",
+    "id": "9rvUrbh76I7B2ionzTa1",
+    "type": "regular",
+    "v1": "estimar",
+    "v2": "estima",
+    "v3": "estimó",
+    "v4": "estimado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to study",
+    "id": "A0bIbDWiYB3kLIBDDd0o",
+    "type": "regular",
+    "v1": "estudiar",
+    "v2": "estudia",
+    "v3": "estudió",
+    "v4": "estudiado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to be",
+    "id": "AC1kkjd0mpwgB2KcM2p4",
+    "type": "irregular",
+    "v1": "ser",
+    "v2": "es",
+    "v3": "fue",
+    "v4": "sido",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to taste",
+    "id": "BcO7ylyjko1yH4LqL5EF",
+    "type": "regular",
+    "v1": "saber",
+    "v2": "sabe",
+    "v3": "saboreó",
+    "v4": "saboreado",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to separate",
+    "id": "ETnGmscGgkxypVcKyaQp",
+    "type": "irregular",
+    "v1": "separar",
+    "v2": "separa",
+    "v3": "separó",
+    "v4": "separado",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to speak",
+    "id": "HXqqxcQVzfH2KsGxFLY0",
+    "type": "irregular",
+    "v1": "hablar",
+    "v2": "habla",
+    "v3": "habló",
+    "v4": "hablado",
+    "verb": "H"
+  },
+  {
+    "english_meaning": "to cut",
+    "id": "KHxfzHuGe2sBU5zHOUlH",
+    "type": "irregular",
+    "v1": "cortar",
+    "v2": "corta",
+    "v3": "cortó",
+    "v4": "cortado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to care",
+    "id": "RndvgDHOw03k2GgY86Bn",
+    "type": "regular",
+    "v1": "preocuparse",
+    "v2": "se preocupa",
+    "v3": "se preocupó",
+    "v4": "preocupado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to hit/beat",
+    "id": "S8ODYIAkqMM44XiZiWBP",
+    "type": "irregular",
+    "v1": "golpear",
+    "v2": "golpea",
+    "v3": "golpeó",
+    "v4": "golpeado",
+    "verb": "G"
+  },
+  {
+    "english_meaning": "to send",
+    "id": "WWNwcsIMMusvTFt3dS74",
+    "type": "regular",
+    "v1": "enviar",
+    "v2": "envía",
+    "v3": "envió",
+    "v4": "enviado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to place/set",
+    "id": "XZfx0Y2x8IrpEmBBbnGH",
+    "type": "regular",
+    "v1": "colocar",
+    "v2": "coloca",
+    "v3": "colocó",
+    "v4": "colocado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to save",
+    "id": "YzhPEvUX9WnWq9QD871e",
+    "type": "regular",
+    "v1": "ahorrar",
+    "v2": "ahorra",
+    "v3": "ahorró",
+    "v4": "ahorrado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to die",
+    "id": "ZrXqjsFee5zvWpNu3mVs",
+    "type": "irregular",
+    "v1": "morir",
+    "v2": "muere",
+    "v3": "murió",
+    "v4": "muerto",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to collect",
+    "id": "dZTxSuj0lysgyet6B90R",
+    "type": "regular",
+    "v1": "recoger",
+    "v2": "recoge",
+    "v3": "recogió",
+    "v4": "recogido",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to jump",
+    "id": "eAD4kEaKQU7Ki9uSIoYh",
+    "type": "irregular",
+    "v1": "saltar",
+    "v2": "salta",
+    "v3": "saltó",
+    "v4": "saltado",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to search/look for",
+    "id": "epPmfqqdVMuiB6lAE8EO",
+    "type": "regular",
+    "v1": "buscar",
+    "v2": "busca",
+    "v3": "buscó",
+    "v4": "buscado",
+    "verb": "B"
+  },
+  {
+    "english_meaning": "to climb",
+    "id": "gvn2mC4Y9u6q3znboMAz",
+    "type": "irregular",
+    "v1": "subir",
+    "v2": "sube",
+    "v3": "subió",
+    "v4": "subido",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to scream/shout",
+    "id": "ijVP2vRlkMsbvbVPZ6rN",
+    "type": "irregular",
+    "v1": "gritar",
+    "v2": "grita",
+    "v3": "gritó",
+    "v4": "gritado",
+    "verb": "G"
+  },
+  {
+    "english_meaning": "to be silent",
+    "id": "j1hbybf2vBuYmbxs88en",
+    "type": "irregular",
+    "v1": "callar",
+    "v2": "calla",
+    "v3": "calló",
+    "v4": "callado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to sit",
+    "id": "otqvZOruNMHCYOKZq5yJ",
+    "type": "irregular",
+    "v1": "sentarse",
+    "v2": "se sienta",
+    "v3": "se sentó",
+    "v4": "sentado",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to write",
+    "id": "qt5AIwVomSzTscX5OcqF",
+    "type": "irregular",
+    "v1": "escribir",
+    "v2": "escribe",
+    "v3": "escribió",
+    "v4": "escrito",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to swim",
+    "id": "rbC7T9oHd2LisntPQnQv",
+    "type": "irregular",
+    "v1": "nadar",
+    "v2": "nada",
+    "v3": "nadó",
+    "v4": "nado",
+    "verb": "N"
+  },
+  {
+    "english_meaning": "to create",
+    "id": "rtfhciYAbIPXuJHQQ8yh",
+    "type": "irregular",
+    "v1": "crear",
+    "v2": "crea",
+    "v3": "creó",
+    "v4": "creado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to say",
+    "id": "s6q0Q6waVqvkSOovICDx",
+    "type": "regular",
+    "v1": "decir",
+    "v2": "dice",
+    "v3": "dijo",
+    "v4": "dicho",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to see",
+    "id": "v4F0YOvbshivAyi58Zg5",
+    "type": "irregular",
+    "v1": "ver",
+    "v2": "ve",
+    "v3": "vio",
+    "v4": "visto",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to push",
+    "id": "vKq0aBE4kLbKjRhdfBG6",
+    "type": "irregular",
+    "v1": "empujar",
+    "v2": "empuja",
+    "v3": "empujó",
+    "v4": "empujado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to sing",
+    "id": "xcVoHA2mrrotDuh37qLW",
+    "type": "irregular",
+    "v1": "cantar",
+    "v2": "canta",
+    "v3": "cantó",
+    "v4": "cantado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to set",
+    "id": "yAmHlH1yG4lg29nTrVYy",
+    "type": "regular",
+    "v1": "poner",
+    "v2": "pone",
+    "v3": "puso",
+    "v4": "puesto",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to meet/hit",
+    "id": "1pJnT5TPYkXhQqMxJDwP",
+    "type": "irregular",
+    "v1": "encontrar",
+    "v2": "encuentra",
+    "v3": "encontró",
+    "v4": "encontrado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to carry/wear",
+    "id": "8tnYuzhvs2ue1Jf24XSw",
+    "type": "irregular",
+    "v1": "llevar",
+    "v2": "lleva",
+    "v3": "llevó",
+    "v4": "llevado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to dance",
+    "id": "Ji63tTW8Y8AFtWcNqeiJ",
+    "type": "regular",
+    "v1": "bailar",
+    "v2": "baila",
+    "v3": "bailó",
+    "v4": "bailado",
+    "verb": "B"
+  },
+  {
+    "english_meaning": "to share",
+    "id": "K6NTJgW1Kmo2FlznvQFD",
+    "type": "regular",
+    "v1": "compartir",
+    "v2": "comparte",
+    "v3": "compartió",
+    "v4": "compartido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to test",
+    "id": "NAqEkMZqmtqKglOKKmXo",
+    "type": "regular",
+    "v1": "probar",
+    "v2": "prueba",
+    "v3": "probó",
+    "v4": "probado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to drink",
+    "id": "OVZ0oHlfum10LcUj5Nvz",
+    "type": "irregular",
+    "v1": "beber",
+    "v2": "bebe",
+    "v3": "bebió",
+    "v4": "bebido",
+    "verb": "B"
+  },
+  {
+    "english_meaning": "to do",
+    "id": "Tg2ZP0JUNEbh26p99Jm4",
+    "type": "irregular",
+    "v1": "hacer",
+    "v2": "hace",
+    "v3": "hizo",
+    "v4": "hecho",
+    "verb": "H"
+  },
+  {
+    "english_meaning": "to phone",
+    "id": "biSNVVrp3eYcym0IojrQ",
+    "type": "regular",
+    "v1": "llamar",
+    "v2": "llama",
+    "v3": "llamó",
+    "v4": "llamado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to hug",
+    "id": "8dtbqvvJAooViLTHfgHW",
+    "type": "regular",
+    "v1": "abrazar",
+    "v2": "abraza",
+    "v3": "abrazó",
+    "v4": "abrazado",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to implement",
+    "id": "R09U8Lk6ONC1OiWMAZDZ",
+    "type": "regular",
+    "v1": "implementar",
+    "v2": "implementa",
+    "v3": "implementó",
+    "v4": "implementado",
+    "verb": "I"
+  },
+  {
+    "english_meaning": "to move",
+    "id": "SfK1NIYIxebnOOpZVDJE",
+    "type": "regular",
+    "v1": "mover",
+    "v2": "mueve",
+    "v3": "movió",
+    "v4": "movido",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to leave",
+    "id": "0DIGLTAIWHe1uOkO9EVi",
+    "type": "regular",
+    "v1": "dejar",
+    "v2": "deja",
+    "v3": "dejó",
+    "v4": "dejado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to read aloud",
+    "id": "2WxgUfyLnnaiC9JgE9rE",
+    "type": "regular",
+    "v1": "leer en voz alta",
+    "v2": "lee en voz alta",
+    "v3": "leyó en voz alta",
+    "v4": "leído en voz alta",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to spend",
+    "id": "HgkdMeYryqQTt803avzr",
+    "type": "regular",
+    "v1": "pasar",
+    "v2": "pasa",
+    "v3": "pasó",
+    "v4": "pasado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to forget",
+    "id": "KG3pXNY5w5O6KCbEMT0Z",
+    "type": "irregular",
+    "v1": "olvidar",
+    "v2": "olvida",
+    "v3": "olvidó",
+    "v4": "olvidado",
+    "verb": "O"
+  },
+  {
+    "english_meaning": "to cause",
+    "id": "OkK6JTcEeeDH17MbJPvW",
+    "type": "regular",
+    "v1": "causar",
+    "v2": "causa",
+    "v3": "causó",
+    "v4": "causado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to compare",
+    "id": "R9hwRlLpSjbAdXS9nrL7",
+    "type": "regular",
+    "v1": "comparar",
+    "v2": "compara",
+    "v3": "comparó",
+    "v4": "comparado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to sell",
+    "id": "Ude24Cqfyn5texe7N3AF",
+    "type": "regular",
+    "v1": "vender",
+    "v2": "vende",
+    "v3": "vendió",
+    "v4": "vendido",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to lose",
+    "id": "VXxAG4bQMMcupGDV0K3c",
+    "type": "irregular",
+    "v1": "perder",
+    "v2": "pierde",
+    "v3": "perdió",
+    "v4": "perdido",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to prepare",
+    "id": "ZanLkVpqNCa6S48cJHA0",
+    "type": "regular",
+    "v1": "preparar",
+    "v2": "prepara",
+    "v3": "preparó",
+    "v4": "preparado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to earn",
+    "id": "qGaDhkJ3Z4j1bk4RbDVW",
+    "type": "regular",
+    "v1": "ganar",
+    "v2": "gana",
+    "v3": "ganó",
+    "v4": "ganado",
+    "verb": "G"
+  },
+  {
+    "english_meaning": "to understand",
+    "id": "rMXVg45Cq8k2xyLbGHKz",
+    "type": "regular",
+    "v1": "entender",
+    "v2": "entiende",
+    "v3": "entendió",
+    "v4": "entendido",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to wash",
+    "id": "5bQjLhJcF0b98CmSsCSs",
+    "type": "irregular",
+    "v1": "lavar",
+    "v2": "lava",
+    "v3": "lavó",
+    "v4": "lavado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to throw",
+    "id": "9AXikqOncTlYv7qQhERH",
+    "type": "irregular",
+    "v1": "lanzar",
+    "v2": "lanza",
+    "v3": "lanzó",
+    "v4": "lanzado",
+    "verb": "L"
+  },
+  {
+    "english_meaning": "to become",
+    "id": "FtP0uD53slvGpjBRt5ZK",
+    "type": "irregular",
+    "v1": "convertirse",
+    "v2": "se convierte",
+    "v3": "se convirtió",
+    "v4": "convertido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to know (a fact)",
+    "id": "U1ku513JA2jhEO8Ngfci",
+    "type": "irregular",
+    "v1": "saber",
+    "v2": "sabe",
+    "v3": "supo",
+    "v4": "sabido",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to wait",
+    "id": "Up6PEvBldjfeLkBF47P0",
+    "type": "regular",
+    "v1": "esperar",
+    "v2": "espera",
+    "v3": "esperó",
+    "v4": "esperado",
+    "verb": "E"
+  },
+  {
+    "english_meaning": "to repeat",
+    "id": "aZ4AUPFrXBJYmzogzBNt",
+    "type": "regular",
+    "v1": "repetir",
+    "v2": "repite",
+    "v3": "repitió",
+    "v4": "repetido",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to grow",
+    "id": "kzoYgDAEWxk2uR6PdQY5",
+    "type": "irregular",
+    "v1": "crecer",
+    "v2": "crece",
+    "v3": "creció",
+    "v4": "crecido",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to season",
+    "id": "pET0l1UUIWFLWFbacC4O",
+    "type": "regular",
+    "v1": "sazonar",
+    "v2": "sazona",
+    "v3": "sazonó",
+    "v4": "sazonado",
+    "verb": "S"
+  },
+  {
+    "english_meaning": "to live/reside",
+    "id": "sEvlhgeJZcLYX5w3Ad2x",
+    "type": "regular",
+    "v1": "vivir",
+    "v2": "vive",
+    "v3": "vivió",
+    "v4": "vivido",
+    "verb": "V"
+  },
+  {
+    "english_meaning": "to force/compel",
+    "id": "2JGQxcq7aZSQ1iZoav0u",
+    "type": "irregular",
+    "v1": "forzar",
+    "v2": "fuerza",
+    "v3": "forzó",
+    "v4": "forzado",
+    "verb": "F"
+  },
+  {
+    "english_meaning": "to pull/move",
+    "id": "2wMpLrR9DAFDe74pTIIx",
+    "type": "irregular",
+    "v1": "mover",
+    "v2": "mueve",
+    "v3": "movió",
+    "v4": "movido",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to draw",
+    "id": "dKhtefHmEkoJKeaHQibV",
+    "type": "regular",
+    "v1": "dibujar",
+    "v2": "dibuja",
+    "v3": "dibujó",
+    "v4": "dibujado",
+    "verb": "D"
+  },
+  {
+    "english_meaning": "to collaborate",
+    "id": "iXlt63AvTPYiwVAXY73O",
+    "type": "regular",
+    "v1": "colaborar",
+    "v2": "colabora",
+    "v3": "colaboró",
+    "v4": "colaborado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to show",
+    "id": "lSClyoLU4kNK33Ro7oma",
+    "type": "regular",
+    "v1": "mostrar",
+    "v2": "muestra",
+    "v3": "mostró",
+    "v4": "mostrado",
+    "verb": "M"
+  },
+  {
+    "english_meaning": "to summarize",
+    "id": "lg18azXVi3WcejEXdBWB",
+    "type": "regular",
+    "v1": "resumir",
+    "v2": "resume",
+    "v3": "resumió",
+    "v4": "resumido",
+    "verb": "R"
+  },
+  {
+    "english_meaning": "to pay",
+    "id": "mnmz0d2lTjmT5IyJ2nIN",
+    "type": "regular",
+    "v1": "pagar",
+    "v2": "paga",
+    "v3": "pagó",
+    "v4": "pagado",
+    "verb": "P"
+  },
+  {
+    "english_meaning": "to change",
+    "id": "kfV1k11IcyZS5EoRNBwP",
+    "type": "regular",
+    "v1": "cambiar",
+    "v2": "cambia",
+    "v3": "cambió",
+    "v4": "cambiado",
+    "verb": "C"
+  },
+  {
+    "english_meaning": "to open",
+    "id": "KHnYoEglaOUROu56L6Rq",
+    "type": "regular",
+    "v1": "abrir",
+    "v2": "abre",
+    "v3": "abrió",
+    "v4": "abierto",
+    "verb": "A"
+  },
+  {
+    "english_meaning": "to practice",
+    "id": "Dao8pMJCXpIeyO8z3ckB",
+    "type": "regular",
+    "v1": "practicar",
+    "v2": "practica",
+    "v3": "practicó",
+    "v4": "practicado",
+    "verb": "P"
+  }
+]

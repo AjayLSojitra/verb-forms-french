@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90725291137",
+    "project_id": "verbforms-spanish",
+    "storage_bucket": "verbforms-spanish.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90725291137:android:f25e1c6b57d425b863a980",
+        "android_client_info": {
+          "package_name": "shreeramkrishna.verbforms.spanish.verbs.forms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXw_dajKU132pQglGLQ3RWttq916QAhjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

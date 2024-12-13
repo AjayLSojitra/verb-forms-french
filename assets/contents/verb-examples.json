@@ -1,0 +1,3514 @@
+[
+  {
+    "id": "0",
+    "title": "Aceptar",
+    "english_title": "Accept",
+    "example": "Acepto tu disculpa.",
+    "english_example": "I accept your apology.",
+    "verb": "a"
+  },
+  {
+    "id": "1",
+    "title": "Acusar",
+    "english_title": "Accuse",
+    "example": "Tom me acusó de mentir.",
+    "english_example": "Tom accused me of lying.",
+    "verb": "a"
+  },
+  {
+    "id": "2",
+    "title": "Lograr",
+    "english_title": "Achieve",
+    "example": "Ella logró resultados notables.",
+    "english_example": "She achieved remarkable results.",
+    "verb": "l"
+  },
+  {
+    "id": "3",
+    "title": "Reconocer",
+    "english_title": "Acknowledge",
+    "example": "Ella reconoció haber recibido ayuda.",
+    "english_example": "She acknowledged receiving assistance.",
+    "verb": "r"
+  },
+  {
+    "id": "4",
+    "title": "Adquirir",
+    "english_title": "Acquire",
+    "example": "Meg adquirió muchos nuevos amigos.",
+    "english_example": "Meg acquired many new friends.",
+    "verb": "a"
+  },
+  {
+    "id": "5",
+    "title": "Adaptarse",
+    "english_title": "Adapt",
+    "example": "Él se adaptó a su nueva vida.",
+    "english_example": "He adapted himself to his new life.",
+    "verb": "a"
+  },
+  {
+    "id": "6",
+    "title": "Agregar",
+    "english_title": "Add",
+    "example": "Agregué una habitación a mi casa.",
+    "english_example": "I added a room to my house.",
+    "verb": "a"
+  },
+  {
+    "id": "7",
+    "title": "Ajustar",
+    "english_title": "Adjust",
+    "example": "Pronto te ajustarás a vivir en un dormitorio.",
+    "english_example": "You will soon adjust to living in a dormitory.",
+    "verb": "a"
+  },
+  {
+    "id": "8",
+    "title": "Admirar",
+    "english_title": "Admire",
+    "example": "Admiro tu confianza.",
+    "english_example": "I admire your confidence.",
+    "verb": "a"
+  },
+  {
+    "id": "9",
+    "title": "Admitir",
+    "english_title": "Admit",
+    "example": "Estaba avergonzado de admitir que cometí un error.",
+    "english_example": "He was embarrassed to admit making a mistake.",
+    "verb": "a"
+  },
+  {
+    "id": "10",
+    "title": "Adoptar",
+    "english_title": "Adopt",
+    "example": "Me gustó tu idea y la adopté.",
+    "english_example": "I liked your idea and adopted it.",
+    "verb": "a"
+  },
+  {
+    "id": "11",
+    "title": "Adorar",
+    "english_title": "Adore",
+    "example": "Él adora a su abuelo.",
+    "english_example": "He adores his grandfather.",
+    "verb": "a"
+  },
+  {
+    "id": "12",
+    "title": "Aconsejar",
+    "english_title": "Advise",
+    "example": "Él aconsejó postular de inmediato.",
+    "english_example": "He advised applying at once.",
+    "verb": "a"
+  },
+  {
+    "id": "13",
+    "title": "Costear",
+    "english_title": "Afford",
+    "example": "No puedo permitirme gastar más dinero esta semana.",
+    "english_example": "I can't afford to spend any more money this week.",
+    "verb": "c"
+  },
+  {
+    "id": "14",
+    "title": "Aceptar",
+    "english_title": "Agree",
+    "example": "¿Por qué aceptaste encontrarte con ella?",
+    "english_example": "Why did you agree to meet her in the first place?",
+    "verb": "a"
+  },
+  {
+    "id": "15",
+    "title": "Apuntar",
+    "english_title": "Aim",
+    "example": "Nuestro objetivo es aumentar la velocidad de entrega.",
+    "english_example": "We aim to increase the speed of delivery.",
+    "verb": "a"
+  },
+  {
+    "id": "16",
+    "title": "Permitir",
+    "english_title": "Allow",
+    "example": "Nadar no está permitido aquí.",
+    "english_example": "Swimming isn't allowed here.",
+    "verb": "p"
+  },
+  {
+    "id": "17",
+    "title": "Anunciar",
+    "english_title": "Announce",
+    "example": "Ella anunció que se retiraría.",
+    "english_example": "She announced her intention to retire.",
+    "verb": "a"
+  },
+  {
+    "id": "18",
+    "title": "Anticipar",
+    "english_title": "Anticipate",
+    "example": "¡No anticipé tener que cocinar yo mismo!",
+    "english_example": "I didn't anticipate having to do the cooking myself!",
+    "verb": "a"
+  },
+  {
+    "id": "19",
+    "title": "Disculparse",
+    "english_title": "Apologize",
+    "example": "No tienes que disculparte.",
+    "english_example": "You don't have to apologize.",
+    "verb": "d"
+  },
+  {
+    "id": "20",
+    "title": "Aparecer",
+    "english_title": "Appear",
+    "example": "Jack parece estar cansado hoy.",
+    "english_example": "Jack appears to be tired today.",
+    "verb": "a"
+  },
+  {
+    "id": "21",
+    "title": "Aplicar",
+    "english_title": "Apply",
+    "example": "Tom solicitó un permiso.",
+    "english_example": "Tom applied for a leave of absence.",
+    "verb": "a"
+  },
+  {
+    "id": "22",
+    "title": "Apreciar",
+    "english_title": "Appreciate",
+    "example": "Aprecio que tenga problemas con su supervisor.",
+    "english_example": "I appreciate having trouble with his supervisor.",
+    "verb": "s"
+  },
+  {
+    "id": "23",
+    "title": "Acercarse",
+    "english_title": "Approach",
+    "example": "No creo que Tom esté de acuerdo.",
+    "english_example": "I don't think Tom would approve.",
+    "verb": "a"
+  },
+  {
+    "id": "24",
+    "title": "Argumentar",
+    "english_title": "Argue",
+    "example": "No quiero discutir contigo.",
+    "english_example": "I don't want to argue with you.",
+    "verb": "a"
+  },
+  {
+    "id": "25",
+    "title": "Surgir",
+    "english_title": "Arise",
+    "example": "El problema surgió simplemente porque no seguiste mis instrucciones.",
+    "english_example": "The problem has arisen simply because you didn't follow my instructions.",
+    "verb": "s"
+  },
+  {
+    "id": "26",
+    "title": "Organizar",
+    "english_title": "Arrange",
+    "example": "¿Has organizado encontrarte con Mark este fin de semana?",
+    "english_example": "Have you arranged to meet Mark this weekend?",
+    "verb": "o"
+  },
+  {
+    "id": "27",
+    "title": "Llegar",
+    "english_title": "Arrive",
+    "example": "Llegamos tarde a casa.",
+    "english_example": "We arrived home late.",
+    "verb": "l"
+  },
+  {
+    "id": "28",
+    "title": "Preguntar",
+    "english_title": "Ask",
+    "example": "Los historiadores suelen preguntar si pueden consultar la colección.",
+    "english_example": "Historians frequently ask to consult the collection.",
+    "verb": "p"
+  },
+  {
+    "id": "29",
+    "title": "Suponer",
+    "english_title": "Assume",
+    "example": "Supongo que Tom no apareció.",
+    "english_example": "I assume Tom didn't show up.",
+    "verb": "s"
+  },
+  {
+    "id": "30",
+    "title": "Asegurar",
+    "english_title": "Assure",
+    "example": "Te aseguro que Tom estará perfectamente seguro.",
+    "english_example": "I assure you Tom will be perfectly safe.",
+    "verb": "a"
+  },
+  {
+    "id": "31",
+    "title": "Asombrar",
+    "english_title": "Astonish",
+    "example": "Me asombró su ignorancia.",
+    "english_example": "I was astonished by his ignorance.",
+    "verb": "a"
+  },
+  {
+    "id": "32",
+    "title": "Adjuntar",
+    "english_title": "Attach",
+    "example": "Necesitas adjuntar tu foto al formulario de solicitud.",
+    "english_example": "You need to attach your photo to the application form.",
+    "verb": "a"
+  },
+  {
+    "id": "33",
+    "title": "Intentar",
+    "english_title": "Attempt",
+    "example": "¿Vas a intentar aprobar el examen?",
+    "english_example": "Are you going to attempt to pass the exam?",
+    "verb": "i"
+  },
+  {
+    "id": "34",
+    "title": "Asistir",
+    "english_title": "Attend",
+    "example": "Ella asiste a la escuela por la noche.",
+    "english_example": "She attends school at night.",
+    "verb": "a"
+  },
+  {
+    "id": "35",
+    "title": "Atraer",
+    "english_title": "Attract",
+    "example": "Tom ciertamente atrajo mucha atención.",
+    "english_example": "Tom certainly attracted a lot of attention.",
+    "verb": "a"
+  },
+  {
+    "id": "36",
+    "title": "Evitar",
+    "english_title": "Avoid",
+    "example": "Decidió hacerse monja para evitar encontrarse con él.",
+    "english_example": "She decided to be a nun in order to avoid meeting him.",
+    "verb": "e"
+  },
+  {
+    "id": "37",
+    "title": "Despertar",
+    "english_title": "Awake",
+    "example": "Tom despertó al amanecer.",
+    "english_example": "Tom awoke at daybreak.",
+    "verb": "d"
+  },
+  {
+    "id": "38",
+    "title": "Hornear",
+    "english_title": "Bake",
+    "example": "Tom horneó unos muffins.",
+    "english_example": "Tom baked some muffins.",
+    "verb": "h"
+  },
+  {
+    "id": "39",
+    "title": "Bañar",
+    "english_title": "Bathe",
+    "example": "Me baño todos los días.",
+    "english_example": "I bathe every day.",
+    "verb": "b"
+  },
+  {
+    "id": "40",
+    "title": "Ser",
+    "english_title": "Be",
+    "example": "Bill Clinton fue presidente de los Estados Unidos.",
+    "english_example": "Bill Clinton was the president of the US.",
+    "verb": "s"
+  },
+  {
+    "id": "41",
+    "title": "Soportar",
+    "english_title": "Bear",
+    "example": "Desearía que no comiera tan rápido. No soporto verla comer.",
+    "english_example": "I wish she wouldn't eat so fast. I can't bear watching her.",
+    "verb": "e"
+  },
+  {
+    "id": "42",
+    "title": "Vencer",
+    "english_title": "Beat",
+    "example": "No puedes vencerme.",
+    "english_example": "You can't beat me.",
+    "verb": "v"
+  },
+  {
+    "id": "43",
+    "title": "Convertirse",
+    "english_title": "Become",
+    "example": "John se volvió muy enfermo.",
+    "english_example": "John became very sick.",
+    "verb": "c"
+  },
+  {
+    "id": "44",
+    "title": "Rogar",
+    "english_title": "Beg",
+    "example": "Me atrevo a disentir contigo.",
+    "english_example": "I beg to differ with you.",
+    "verb": "r"
+  },
+  {
+    "id": "45",
+    "title": "Comenzar",
+    "english_title": "Begin",
+    "example": "Las hojas comienzan a caer cuando llega el otoño.",
+    "english_example": "The leaves begin to fall when autumn comes.",
+    "verb": "c"
+  },
+  {
+    "id": "46",
+    "title": "Comportarse",
+    "english_title": "Behave",
+    "example": "Tom siempre se comporta bien. Mary, en cambio, no.",
+    "english_example": "Tom always behaves himself well. However, Mary does not.",
+    "verb": "c"
+  },
+  {
+    "id": "47",
+    "title": "Creer",
+    "english_title": "Believe",
+    "example": "Creo que tienes razón.",
+    "english_example": "I believe you're right.",
+    "verb": "c"
+  },
+  {
+    "id": "48",
+    "title": "Pertenecer",
+    "english_title": "Belong",
+    "example": "Esta bicicleta me pertenece.",
+    "english_example": "This bicycle belongs to me.",
+    "verb": "p"
+  },
+  {
+    "id": "49",
+    "title": "Doblar",
+    "english_title": "Bend",
+    "example": "Acuéstate plano y deja que tus rodillas se doblen.",
+    "english_example": "Lie flat and let your knees bend.",
+    "verb": "d"
+  },
+  {
+    "id": "50",
+    "title": "Apostar",
+    "english_title": "Bet",
+    "example": "Apuesto a que sabes francés.",
+    "english_example": "I bet you know French.",
+    "verb": "a"
+  },
+  {
+    "id": "51",
+    "title": "Atar",
+    "english_title": "Bind",
+    "example": "¿Sabes cómo encuadernar libros?",
+    "english_example": "Do you bind the books?",
+    "verb": "a"
+  },
+  {
+    "id": "52",
+    "title": "Morder",
+    "english_title": "Bite",
+    "example": "Me picaron los mosquitos.",
+    "english_example": "I got bitten by mosquitoes.",
+    "verb": "m"
+  },
+  {
+    "id": "53",
+    "title": "Soplar",
+    "english_title": "Blow",
+    "example": "Tom se hizo volar a sí mismo accidentalmente.",
+    "english_example": "Tom blew himself up accidentally.",
+    "verb": "s"
+  },
+  {
+    "id": "54",
+    "title": "Hervir",
+    "english_title": "Boil",
+    "example": "Por favor, hierve un huevo para mí.",
+    "english_example": "Please boil an egg for me.",
+    "verb": "h"
+  },
+  {
+    "id": "55",
+    "title": "Pedir prestado",
+    "english_title": "Borrow",
+    "example": "Necesito pedirte prestado el coche.",
+    "english_example": "I need to borrow your car.",
+    "verb": "p"
+  },
+  {
+    "id": "56",
+    "title": "Rebotar",
+    "english_title": "Bounce",
+    "example": "Deja que la pelota rebote y trata de golpearla sobre la red.",
+    "english_example": "Bounce the ball and try and hit it over the net.",
+    "verb": "r"
+  },
+  {
+    "id": "57",
+    "title": "Inclinarse",
+    "english_title": "Bow",
+    "example": "Cada niño se inclinó ante el maestro.",
+    "english_example": "Every child bowed to the teacher.",
+    "verb": "i"
+  },
+  {
+    "id": "58",
+    "title": "Romper",
+    "english_title": "Break",
+    "example": "Hemos terminado.",
+    "english_example": "We broke up.",
+    "verb": "r"
+  },
+  {
+    "id": "59",
+    "title": "Criar",
+    "english_title": "Breed",
+    "example": "Los conejos se reproducen rápidamente.",
+    "english_example": "Rabbits breed quickly.",
+    "verb": "c"
+  },
+  {
+    "id": "60",
+    "title": "Traer",
+    "english_title": "Bring",
+    "example": "Traje algo de postre.",
+    "english_example": "I brought some dessert.",
+    "verb": "t"
+  },
+  {
+    "id": "61",
+    "title": "Transmitir",
+    "english_title": "Broadcast",
+    "example": "Transmitimos noticias cada hora.",
+    "english_example": "We broadcast news on the hour.",
+    "verb": "t"
+  },
+  {
+    "id": "62",
+    "title": "Construir",
+    "english_title": "Build",
+    "example": "Necesitamos hacer un fuego.",
+    "english_example": "We need to build a fire.",
+    "verb": "c"
+  },
+  {
+    "id": "63",
+    "title": "Quemar",
+    "english_title": "Burn",
+    "example": "El espía quemó los papeles.",
+    "english_example": "The spy burned the papers.",
+    "verb": "q"
+  },
+  {
+    "id": "64",
+    "title": "Estallar",
+    "english_title": "Burst",
+    "example": "John irrumpió en la sala.",
+    "english_example": "John burst into the room.",
+    "verb": "e"
+  },
+  {
+    "id": "65",
+    "title": "Comprar",
+    "english_title": "Buy",
+    "example": "Voy a comprar muchos dulces para ti.",
+    "english_example": "I'll buy a lot of candies for you.",
+    "verb": "c"
+  },
+  {
+    "id": "66",
+    "title": "Calcular",
+    "english_title": "Calculate",
+    "example": "Una computadora puede calcular muy rápido.",
+    "english_example": "A computer can calculate very rapidly.",
+    "verb": "c"
+  },
+  {
+    "id": "67",
+    "title": "Poder",
+    "english_title": "Can/Could",
+    "example": "¿Puedes llamarme alrededor de las 5?",
+    "english_example": "Can you give me a ring at about 5?",
+    "verb": "p"
+  },
+  {
+    "id": "68",
+    "title": "Cuidar",
+    "english_title": "Care",
+    "example": "¿Te gustaría cenar con nosotros?",
+    "english_example": "Would you care to join us for dinner?",
+    "verb": "c"
+  },
+  {
+    "id": "69",
+    "title": "Llevar",
+    "english_title": "Carry",
+    "example": "Ya no llevo dinero en efectivo.",
+    "english_example": "I don't carry cash anymore.",
+    "verb": "l"
+  },
+  {
+    "id": "70",
+    "title": "Preocuparse",
+    "english_title": "Care",
+    "example": "¿Te gustaría cenar con nosotros?",
+    "english_example": "Would you care to join us for dinner?",
+    "verb": "p"
+  },
+  {
+    "id": "71",
+    "title": "Llevar",
+    "english_title": "Carry",
+    "example": "Ya no llevo dinero en efectivo.",
+    "english_example": "I don't carry cash anymore.",
+    "verb": "l"
+  },
+  {
+    "id": "72",
+    "title": "Atrapar",
+    "english_title": "Catch",
+    "example": "Vamos a comer algo.",
+    "english_example": "Let's catch a bite.",
+    "verb": "a"
+  },
+  {
+    "id": "73",
+    "title": "Celebrar",
+    "english_title": "Celebrate",
+    "example": "Estamos celebrando el cumpleaños de Tom.",
+    "english_example": "We're celebrating Tom's birthday.",
+    "verb": "c"
+  },
+  {
+    "id": "74",
+    "title": "Cambiar",
+    "english_title": "Change",
+    "example": "He cambiado de opinión.",
+    "english_example": "I changed my mind.",
+    "verb": "c"
+  },
+  {
+    "id": "75",
+    "title": "Elegir",
+    "english_title": "Choose",
+    "example": "Cada día es hermoso si decides verlo así.",
+    "english_example": "Every day is beautiful if you choose to it.",
+    "verb": "e"
+  },
+  {
+    "id": "76",
+    "title": "Picar",
+    "english_title": "Chop",
+    "example": "Tom taló el árbol que estaba en nuestro jardín.",
+    "english_example": "Tom chopped down the tree that was in our front yard.",
+    "verb": "p"
+  },
+  {
+    "id": "77",
+    "title": "Afirmar",
+    "english_title": "Claim",
+    "example": "Esta dieta afirma eliminar toxinas del cuerpo.",
+    "english_example": "This diet claims to eliminate toxins from the body.",
+    "verb": "a"
+  },
+  {
+    "id": "78",
+    "title": "Escalar",
+    "english_title": "Climb",
+    "example": "Carlos escaló la montaña.",
+    "english_example": "Carlos climbed the mountain.",
+    "verb": "e"
+  },
+  {
+    "id": "79",
+    "title": "Adherir",
+    "english_title": "Cling",
+    "example": "El barro se pegó a sus zapatos.",
+    "english_example": "The mud clung to his shoes.",
+    "verb": "a"
+  },
+  {
+    "id": "80",
+    "title": "Venir",
+    "english_title": "Come",
+    "example": "Vengo hoy.",
+    "english_example": "I'm coming today.",
+    "verb": "v"
+  },
+  {
+    "id": "81",
+    "title": "Cometer",
+    "english_title": "Commit",
+    "example": "David no cometió esos crímenes.",
+    "english_example": "David didn't commit those crimes.",
+    "verb": "c"
+  },
+  {
+    "id": "82",
+    "title": "Comunicar",
+    "english_title": "Communicate",
+    "example": "Ya no puedo comunicarme con Hannah como antes.",
+    "english_example": "I can't communicate with Hannah like I used to.",
+    "verb": "c"
+  },
+  {
+    "id": "83",
+    "title": "Comparar",
+    "english_title": "Compare",
+    "example": "Compararon el coche nuevo con el viejo.",
+    "english_example": "They compared the new car with the old one.",
+    "verb": "c"
+  },
+  {
+    "id": "84",
+    "title": "Competir",
+    "english_title": "Compete",
+    "example": "Competí con él por el primer premio.",
+    "english_example": "I competed with him for the first prize.",
+    "verb": "c"
+  },
+  {
+    "id": "85",
+    "title": "Quejarse",
+    "english_title": "Complain",
+    "example": "John se quejó sobre el clima.",
+    "english_example": "John complained about the weather.",
+    "verb": "q"
+  },
+  {
+    "id": "86",
+    "title": "Completar",
+    "english_title": "Complete",
+    "example": "Terminó de dibujar sus cuadros.",
+    "english_example": "He completed drawing his pictures.",
+    "verb": "c"
+  },
+  {
+    "id": "87",
+    "title": "Preocuparse",
+    "english_title": "Concern",
+    "example": "Estoy preocupado por la seguridad de Hannah.",
+    "english_example": "I'm concerned for Hannah's safety.",
+    "verb": "p"
+  },
+  {
+    "id": "88",
+    "title": "Confirmar",
+    "english_title": "Confirm",
+    "example": "El informe aún debe ser confirmado.",
+    "english_example": "The report has yet to be confirmed.",
+    "verb": "c"
+  },
+  {
+    "id": "89",
+    "title": "Consentir",
+    "english_title": "Consent",
+    "example": "Esperamos que aceptes actuar en su lugar.",
+    "english_example": "We hope you will consent to act in his stead.",
+    "verb": "c"
+  },
+  {
+    "id": "90",
+    "title": "Considerar",
+    "english_title": "Consider",
+    "example": "Los inversionistas deben considerar a los once jugadores.",
+    "english_example": "Investors should consider the eleven players.",
+    "verb": "c"
+  },
+  {
+    "id": "91",
+    "title": "Consultar",
+    "english_title": "Consult",
+    "example": "Será mejor que consultes a tu médico.",
+    "english_example": "You'd better consult your doctor.",
+    "verb": "c"
+  },
+  {
+    "id": "92",
+    "title": "Contener",
+    "english_title": "Contain",
+    "example": "Esta caja contiene cinco manzanas.",
+    "english_example": "This box contains five apples.",
+    "verb": "c"
+  },
+  {
+    "id": "93",
+    "title": "Continuar",
+    "english_title": "Continue",
+    "example": "El ministro de finanzas continuará dirigiendo las reformas económicas de India.",
+    "english_example": "The finance minister will continue to mastermind India's economic reform.",
+    "verb": "c"
+  },
+  {
+    "id": "94",
+    "title": "Convencer",
+    "english_title": "Convince",
+    "example": "No estoy completamente convencido de eso.",
+    "english_example": "I'm not totally convinced of that.",
+    "verb": "c"
+  },
+  {
+    "id": "95",
+    "title": "Cocinar",
+    "english_title": "Cook",
+    "example": "La pizza tomará unos veinte minutos para cocinarse.",
+    "english_example": "The pizza will then take about twenty minutes to cook.",
+    "verb": "c"
+  },
+  {
+    "id": "96",
+    "title": "Costar",
+    "english_title": "Cost",
+    "example": "Costará unos 80,000 USD.",
+    "english_example": "It'll cost about 80,000 USD.",
+    "verb": "c"
+  },
+  {
+    "id": "97",
+    "title": "Contar",
+    "english_title": "Count",
+    "example": "Contamos contigo.",
+    "english_example": "We're counting on you.",
+    "verb": "c"
+  },
+  {
+    "id": "98",
+    "title": "Gatear",
+    "english_title": "Crawl",
+    "example": "Tom gateó hacia la cama justo antes de la medianoche.",
+    "english_example": "Tom crawled into bed just before midnight.",
+    "verb": "g"
+  },
+  {
+    "id": "99",
+    "title": "Crear",
+    "english_title": "Create",
+    "example": "Tengo que crear un nuevo sitio web.",
+    "english_example": "I have to create a new website.",
+    "verb": "c"
+  },
+  {
+    "id": "100",
+    "title": "Arrastrarse",
+    "english_title": "Creep",
+    "example": "Nos arrastramos hacia el enemigo.",
+    "english_example": "We crept toward the enemy.",
+    "verb": "a"
+  },
+  {
+    "id": "101",
+    "title": "Criticar",
+    "english_title": "Criticize",
+    "example": "Tom criticó a Mary por no haber hecho el trabajo correctamente.",
+    "english_example": "Tom criticized Mary for not doing the job correctly.",
+    "verb": "c"
+  },
+  {
+    "id": "102",
+    "title": "Llorar",
+    "english_title": "Cry",
+    "example": "El bebé está llorando.",
+    "english_example": "The baby is crying.",
+    "verb": "l"
+  },
+  {
+    "id": "103",
+    "title": "Cortar",
+    "english_title": "Cut",
+    "example": "John se cortó el dedo.",
+    "english_example": "John cut his finger.",
+    "verb": "c"
+  },
+  {
+    "id": "104",
+    "title": "Bailar",
+    "english_title": "Dance",
+    "example": "Quiero bailar.",
+    "english_example": "I want to dance.",
+    "verb": "b"
+  },
+  {
+    "id": "105",
+    "title": "Atreverse",
+    "english_title": "Dare",
+    "example": "Él no se atrevió a hablar con ella.",
+    "english_example": "He didn't dare to speak to her.",
+    "verb": "a"
+  },
+  {
+    "id": "106",
+    "title": "Tratar",
+    "english_title": "Deal",
+    "example": "Tengo que tratar con eso.",
+    "english_example": "I have to deal with it.",
+    "verb": "t"
+  },
+  {
+    "id": "107",
+    "title": "Decidir",
+    "english_title": "Decide",
+    "example": "Él decidió vivir en Francia.",
+    "english_example": "He has decided to live in France.",
+    "verb": "d"
+  },
+  {
+    "id": "108",
+    "title": "Posponer",
+    "english_title": "Defer",
+    "example": "Ella pospuso escribir mi tesis.",
+    "english_example": "She deferred writing my thesis.",
+    "verb": "p"
+  },
+  {
+    "id": "109",
+    "title": "Retrasar",
+    "english_title": "Delay",
+    "example": "Las grandes empresas a menudo retrasan el pago de sus facturas.",
+    "english_example": "Big companies often delay paying their bills.",
+    "verb": "r"
+  },
+  {
+    "id": "110",
+    "title": "Entregar",
+    "english_title": "Deliver",
+    "example": "Las cartas se entregan todos los días.",
+    "english_example": "Letters are delivered every day.",
+    "verb": "e"
+  },
+  {
+    "id": "111",
+    "title": "Exigir",
+    "english_title": "Demand",
+    "example": "Exijo saber qué está pasando.",
+    "english_example": "I demand to know what's going on.",
+    "verb": "e"
+  },
+  {
+    "id": "112",
+    "title": "Negar",
+    "english_title": "Deny",
+    "example": "Ella negó haber tomado el dinero.",
+    "english_example": "She denied taking the money.",
+    "verb": "n"
+  },
+  {
+    "id": "113",
+    "title": "Depender",
+    "english_title": "Depend",
+    "example": "Ya no puedo depender de ti.",
+    "english_example": "I can't depend on you anymore.",
+    "verb": "d"
+  },
+  {
+    "id": "114",
+    "title": "Describir",
+    "english_title": "Describe",
+    "example": "John no puede describir lo doloroso que fue.",
+    "english_example": "John can't describe how painful it was.",
+    "verb": "d"
+  },
+  {
+    "id": "115",
+    "title": "Merecer",
+    "english_title": "Deserve",
+    "example": "Ellos no merecían ganar.",
+    "english_example": "They didn't deserve to win.",
+    "verb": "m"
+  },
+  {
+    "id": "116",
+    "title": "Desear",
+    "english_title": "Desire",
+    "example": "Todos deseamos el éxito.",
+    "english_example": "We all desire success.",
+    "verb": "d"
+  },
+  {
+    "id": "117",
+    "title": "Destruir",
+    "english_title": "Destroy",
+    "example": "La casa de John fue destruida por un huracán.",
+    "english_example": "John's house was destroyed by a hurricane.",
+    "verb": "d"
+  },
+  {
+    "id": "118",
+    "title": "Determinar",
+    "english_title": "Determine",
+    "example": "Estoy decidido a llevar a cabo este plan.",
+    "english_example": "I am determined to carry out this plan.",
+    "verb": "d"
+  },
+  {
+    "id": "119",
+    "title": "Desarrollar",
+    "english_title": "Develop",
+    "example": "Nadar desarrolla nuestros músculos.",
+    "english_example": "Swimming develops our muscles.",
+    "verb": "d"
+  },
+  {
+    "id": "120",
+    "title": "Diferir",
+    "english_title": "Differ",
+    "example": "Mi opinión difiere de la tuya.",
+    "english_example": "My opinion differs from yours.",
+    "verb": "d"
+  },
+  {
+    "id": "121",
+    "title": "No estar de acuerdo",
+    "english_title": "Disagree",
+    "example": "Me duele no estar de acuerdo con tu opinión.",
+    "english_example": "It pains me to disagree with your opinion.",
+    "verb": "n"
+  },
+  {
+    "id": "122",
+    "title": "Descubrir",
+    "english_title": "Discover",
+    "example": "El minero descubrió una veta valiosa de oro.",
+    "english_example": "The miner discovered a valuable pocket of gold.",
+    "verb": "d"
+  },
+  {
+    "id": "123",
+    "title": "Discutir",
+    "english_title": "Discuss",
+    "example": "Discutimos brevemente sobre comprar un segundo coche.",
+    "english_example": "We briefly discussed buying a second car.",
+    "verb": "d"
+  },
+  {
+    "id": "124",
+    "title": "No gustar",
+    "english_title": "Dislike",
+    "example": "No me gusta estar en el centro de atención.",
+    "english_example": "I dislike being the centre of attention.",
+    "verb": "n"
+  },
+  {
+    "id": "125",
+    "title": "Distribuir",
+    "english_title": "Distribute",
+    "example": "El profesor distribuyó los folletos.",
+    "english_example": "The teacher distributed the leaflets.",
+    "verb": "d"
+  },
+  {
+    "id": "126",
+    "title": "Bucear",
+    "english_title": "Dive",
+    "example": "John aprendió a bucear cuando tenía cinco años.",
+    "english_example": "John learned to dive when he was five.",
+    "verb": "b"
+  },
+  {
+    "id": "127",
+    "title": "Hacer",
+    "english_title": "Do",
+    "example": "No lo sé.",
+    "english_example": "I don't know.",
+    "verb": "h"
+  },
+  {
+    "id": "128",
+    "title": "Dudar",
+    "english_title": "Doubt",
+    "example": "Dudo que nieve.",
+    "english_example": "I doubt if it'll snow.",
+    "verb": "d"
+  },
+  {
+    "id": "129",
+    "title": "Arrastrar",
+    "english_title": "Drag",
+    "example": "Tuve que arrastrarlo fuera de la cama.",
+    "english_example": "I had to drag him out of bed.",
+    "verb": "a"
+  },
+  {
+    "id": "130",
+    "title": "Soñar",
+    "english_title": "Dream",
+    "example": "Soñé contigo.",
+    "english_example": "I dreamt about you.",
+    "verb": "s"
+  },
+  {
+    "id": "131",
+    "title": "Perforar",
+    "english_title": "Drill",
+    "example": "Tenían la intención de perforar para encontrar petróleo.",
+    "english_example": "They intended to drill for oil.",
+    "verb": "p"
+  },
+  {
+    "id": "132",
+    "title": "Beber",
+    "english_title": "Drink",
+    "example": "¿Puedo beber algo?",
+    "english_example": "Can I have something to drink?",
+    "verb": "b"
+  },
+  {
+    "id": "133",
+    "title": "Conducir",
+    "english_title": "Drive",
+    "example": "Él conduce un camión.",
+    "english_example": "He drives a truck.",
+    "verb": "c"
+  },
+  {
+    "id": "134",
+    "title": "Dejar caer",
+    "english_title": "Drop",
+    "example": "Dejé caer mi sándwich.",
+    "english_example": "I dropped my sandwich.",
+    "verb": "d"
+  },
+  {
+    "id": "135",
+    "title": "Secar",
+    "english_title": "Dry",
+    "example": "Las pasas son uvas secas.",
+    "english_example": "Raisins are dried grapes.",
+    "verb": "s"
+  },
+  {
+    "id": "136",
+    "title": "Ganar",
+    "english_title": "Earn",
+    "example": "Él gana tres veces más que yo.",
+    "english_example": "He earns three times more than me.",
+    "verb": "g"
+  },
+  {
+    "id": "137",
+    "title": "Comer",
+    "english_title": "Eat",
+    "example": "No puedes comer tu pastel y aún así conservarlo.",
+    "english_example": "You can't eat your cake and have it.",
+    "verb": "c"
+  },
+  {
+    "id": "138",
+    "title": "Enfatizar",
+    "english_title": "Emphasize",
+    "example": "Quiero enfatizar especialmente este punto.",
+    "english_example": "I want to emphasize this point in particular.",
+    "verb": "e"
+  },
+  {
+    "id": "139",
+    "title": "Habilitar",
+    "english_title": "Enable",
+    "example": "Su riqueza le permite hacer todo lo que quiera.",
+    "english_example": "His wealth enables him to do anything.",
+    "verb": "h"
+  },
+  {
+    "id": "140",
+    "title": "Animar",
+    "english_title": "Encourage",
+    "example": "John animó a Mary a aprender francés.",
+    "english_example": "John encouraged Mary to learn how to speak French.",
+    "verb": "a"
+  },
+  {
+    "id": "141",
+    "title": "Comprometer",
+    "english_title": "Engage",
+    "example": "Estuvimos comprometidos antes.",
+    "english_example": "We used to be engaged.",
+    "verb": "c"
+  },
+  {
+    "id": "142",
+    "title": "Mejorar",
+    "english_title": "Enhance",
+    "example": "¿Podemos mejorar la imagen?",
+    "english_example": "Can we enhance the image?",
+    "verb": "m"
+  },
+  {
+    "id": "143",
+    "title": "Disfrutar",
+    "english_title": "Enjoy",
+    "example": "Realmente disfruto hablar contigo.",
+    "english_example": "I really enjoy talking to you.",
+    "verb": "d"
+  },
+  {
+    "id": "144",
+    "title": "Asegurar",
+    "english_title": "Ensure",
+    "example": "Este medicamento te asegurará una buena noche de descanso.",
+    "english_example": "This medicine will ensure you a good night's sleep.",
+    "verb": "a"
+  },
+  {
+    "id": "145",
+    "title": "Implicar",
+    "english_title": "Entail",
+    "example": "Este procedimiento de revisión implica repetir la prueba.",
+    "english_example": "This review procedure entails repeating the test.",
+    "verb": "i"
+  },
+  {
+    "id": "146",
+    "title": "Entrar",
+    "english_title": "Enter",
+    "example": "Él entró en la habitación.",
+    "english_example": "He entered the room.",
+    "verb": "e"
+  },
+  {
+    "id": "147",
+    "title": "Establecer",
+    "english_title": "Establish",
+    "example": "La escuela fue establecida en 1650.",
+    "english_example": "The school was established in 1650.",
+    "verb": "e"
+  },
+  {
+    "id": "148",
+    "title": "Examinar",
+    "english_title": "Examine",
+    "example": "El médico examinó a los pacientes.",
+    "english_example": "The doctor examined the patients.",
+    "verb": "e"
+  },
+  {
+    "id": "149",
+    "title": "Existir",
+    "english_title": "Exist",
+    "example": "No creo que tales cosas existan.",
+    "english_example": "I don't believe such things to exist.",
+    "verb": "e"
+  },
+  {
+    "id": "150",
+    "title": "Expandir",
+    "english_title": "Expand",
+    "example": "Los trabajadores están expandiendo la carretera.",
+    "english_example": "The workers are expanding the road.",
+    "verb": "e"
+  },
+  {
+    "id": "151",
+    "title": "Esperar",
+    "english_title": "Expect",
+    "example": "¿A qué hora esperas llegar a casa?",
+    "english_example": "What time do you expect to arrive home?",
+    "verb": "e"
+  },
+  {
+    "id": "152",
+    "title": "Experimentar",
+    "english_title": "Experiment",
+    "example": "Están experimentando con un coche nuevo.",
+    "english_example": "They're experimenting with a new car.",
+    "verb": "e"
+  },
+  {
+    "id": "135",
+    "title": "Explicar",
+    "english_title": "Explain",
+    "example": "Puedo explicar todo.",
+    "english_example": "I can explain everything.",
+    "verb": "e"
+  },
+  {
+    "id": "154",
+    "title": "Explorar",
+    "english_title": "Explore",
+    "example": "Él exploró la selva amazónica.",
+    "english_example": "He explored the Amazon jungle.",
+    "verb": "e"
+  },
+  {
+    "id": "155",
+    "title": "Extender",
+    "english_title": "Extend",
+    "example": "Les dimos una cálida bienvenida.",
+    "english_example": "We extended a hearty welcome to them.",
+    "verb": "e"
+  },
+  {
+    "id": "156",
+    "title": "Fracasar",
+    "english_title": "Fail",
+    "example": "No puedo comprender su actitud.",
+    "english_example": "I fail to comprehend their attitude.",
+    "verb": "f"
+  },
+  {
+    "id": "157",
+    "title": "Caer",
+    "english_title": "Fall",
+    "example": "Caí en la piscina.",
+    "english_example": "I fall in the pool.",
+    "verb": "c"
+  },
+  {
+    "id": "158",
+    "title": "Alimentar",
+    "english_title": "Feed",
+    "example": "Acabamos de alimentar al bebé.",
+    "english_example": "We just fed the baby.",
+    "verb": "a"
+  },
+  {
+    "id": "159",
+    "title": "Sentir",
+    "english_title": "Feel",
+    "example": "Siento que el Sr. Peter es un buen maestro.",
+    "english_example": "I feel that Mr. Peter is a good teacher.",
+    "verb": "s"
+  },
+  {
+    "id": "160",
+    "title": "Pelear",
+    "english_title": "Fight",
+    "example": "No pelees conmigo.",
+    "english_example": "Don't fight with me.",
+    "verb": "p"
+  },
+  {
+    "id": "161",
+    "title": "Encontrar",
+    "english_title": "Find",
+    "example": "Puedo encontrarlos.",
+    "english_example": "I can find them.",
+    "verb": "e"
+  },
+  {
+    "id": "162",
+    "title": "Terminar",
+    "english_title": "Finish",
+    "example": "Terminó de limpiar la cocina.",
+    "english_example": "He finished cleaning the kitchen.",
+    "verb": "t"
+  },
+  {
+    "id": "163",
+    "title": "Quedar",
+    "english_title": "Fit",
+    "example": "Este abrigo no me queda.",
+    "english_example": "This coat doesn't fit me.",
+    "verb": "q"
+  },
+  {
+    "id": "164",
+    "title": "Volar",
+    "english_title": "Fly",
+    "example": "Tom deseaba poder volar.",
+    "english_example": "Tom wishes he could fly.",
+    "verb": "v"
+  },
+  {
+    "id": "165",
+    "title": "Doblar",
+    "english_title": "Fold",
+    "example": "Tom y Mary doblaron la bandera juntos.",
+    "english_example": "Tom and Mary folded up the flag.",
+    "verb": "d"
+  },
+  {
+    "id": "166",
+    "title": "Seguir",
+    "english_title": "Follow",
+    "example": "Debemos seguir las reglas del juego.",
+    "english_example": "We must follow the rules of the game.",
+    "verb": "s"
+  },
+  {
+    "id": "167",
+    "title": "Prohibir",
+    "english_title": "Forbid",
+    "example": "Te prohibo fumar.",
+    "english_example": "I forbid you to smoke.",
+    "verb": "p"
+  },
+  {
+    "id": "168",
+    "title": "Olvidar",
+    "english_title": "Forget",
+    "example": "Nunca olvidaré visitarlos.",
+    "english_example": "I'll never forget visiting them.",
+    "verb": "o"
+  },
+  {
+    "id": "169",
+    "title": "Perdonar",
+    "english_title": "Forgive",
+    "example": "Ya te hemos perdonado.",
+    "english_example": "We have already forgiven you.",
+    "verb": "p"
+  },
+  {
+    "id": "170",
+    "title": "Congelar",
+    "english_title": "Freeze",
+    "example": "Hace un frío helado en este país.",
+    "english_example": "It's freezing cold in this country.",
+    "verb": "c"
+  },
+  {
+    "id": "171",
+    "title": "Freír",
+    "english_title": "Fry",
+    "example": "Ella freía pescado en aceite de ensalada.",
+    "english_example": "She fried fish in salad oil.",
+    "verb": "f"
+  },
+  {
+    "id": "172",
+    "title": "Generar",
+    "english_title": "Generate",
+    "example": "Esta máquina genera electricidad.",
+    "english_example": "This machine generates electricity.",
+    "verb": "g"
+  },
+  {
+    "id": "173",
+    "title": "Conseguir",
+    "english_title": "Get",
+    "example": "Tenemos que conseguir que la economía esté bajo control, o literalmente nos devorará.",
+    "english_example": "We've got to get the economy under control or it will literally eat us up.",
+    "verb": "c"
+  },
+  {
+    "id": "174",
+    "title": "Dar",
+    "english_title": "Give",
+    "example": "El camarero da el menú.",
+    "english_example": "The waiter gives the menu.",
+    "verb": "d"
+  },
+  {
+    "id": "175",
+    "title": "Ir",
+    "english_title": "Go",
+    "example": "Vamos a comer.",
+    "english_example": "Let's go eat.",
+    "verb": "i"
+  },
+  {
+    "id": "176",
+    "title": "Moler",
+    "english_title": "Grind",
+    "example": "Molemos el café a mano.",
+    "english_example": "We grind our coffee by hand.",
+    "verb": "m"
+  },
+  {
+    "id": "177",
+    "title": "Crecer",
+    "english_title": "Grow",
+    "example": "Las manzanas crecen en los árboles.",
+    "english_example": "Apples grow on trees.",
+    "verb": "c"
+  },
+  {
+    "id": "178",
+    "title": "Colgar",
+    "english_title": "Hang",
+    "example": "No cuelgues el teléfono.",
+    "english_example": "Don't you hang up on me.",
+    "verb": "c"
+  },
+  {
+    "id": "179",
+    "title": "Suceder",
+    "english_title": "Happen",
+    "example": "Lo hiciste posible.",
+    "english_example": "You made it happen.",
+    "verb": "s"
+  },
+  {
+    "id": "180",
+    "title": "Odiar",
+    "english_title": "Hate",
+    "example": "Odio llegar tarde al teatro.",
+    "english_example": "I hate getting to the theatre late.",
+    "verb": "o"
+  },
+  {
+    "id": "181",
+    "title": "Tener",
+    "english_title": "Have",
+    "example": "Tengo un coche.",
+    "english_example": "I have a car.",
+    "verb": "t"
+  },
+  {
+    "id": "182",
+    "title": "Oír",
+    "english_title": "Hear",
+    "example": "Me escucharé.",
+    "english_example": "I will hear me.",
+    "verb": "o"
+  },
+  {
+    "id": "183",
+    "title": "Dudar",
+    "english_title": "Hesitate",
+    "example": "Dudo en gastar tanto dinero en ropa.",
+    "english_example": "I hesitate to spend so much money on clothes.",
+    "verb": "d"
+  },
+  {
+    "id": "184",
+    "title": "Esconder",
+    "english_title": "Hide",
+    "example": "Me estoy escondiendo de Tim.",
+    "english_example": "I'm hiding from Tim.",
+    "verb": "e"
+  },
+  {
+    "id": "185",
+    "title": "Golpear",
+    "english_title": "Hit",
+    "example": "Golpeé el bote de premios.",
+    "english_example": "I hit the jackpot.",
+    "verb": "g"
+  },
+  {
+    "id": "186",
+    "title": "Sostener",
+    "english_title": "Hold",
+    "example": "Sostén el cuchillo en un ángulo.",
+    "english_example": "Hold the knife at an angle.",
+    "verb": "s"
+  },
+  {
+    "id": "187",
+    "title": "Saltar",
+    "english_title": "Hop",
+    "example": "Intenté saltar sobre mi buen pie mientras me sujetaba de Jim.",
+    "english_example": "I tried to hop on my good foot while holding onto Jim.",
+    "verb": "s"
+  },
+  {
+    "id": "188",
+    "title": "Esperar",
+    "english_title": "Hope",
+    "example": "Espero verte pronto.",
+    "english_example": "I hope to see you again soon.",
+    "verb": "e"
+  },
+  {
+    "id": "189",
+    "title": "Abrazar",
+    "english_title": "Hug",
+    "example": "Realmente necesito un abrazo.",
+    "english_example": "I really need a hug.",
+    "verb": "a"
+  },
+  {
+    "id": "190",
+    "title": "Apresurarse",
+    "english_title": "Hurry",
+    "example": "Tuvo que apresurarse para encontrar un hogar porque ya tenía otros planes.",
+    "english_example": "It had to hurry to find a home because I was already on to something else.",
+    "verb": "a"
+  },
+  {
+    "id": "191",
+    "title": "Herir",
+    "english_title": "Hurt",
+    "example": "Me lastimé el codo.",
+    "english_example": "I hurt my elbow.",
+    "verb": "h"
+  },
+  {
+    "id": "192",
+    "title": "Identificar",
+    "english_title": "Identify",
+    "example": "Ella lo identificó como el asesino.",
+    "english_example": "She identified him as the murderer.",
+    "verb": "i"
+  },
+  {
+    "id": "193",
+    "title": "Ignorar",
+    "english_title": "Ignore",
+    "example": "Él ignoró su consejo.",
+    "english_example": "He ignored her advice.",
+    "verb": "i"
+  },
+  {
+    "id": "194",
+    "title": "Ilustrar",
+    "english_title": "Illustrate",
+    "example": "El maestro ilustrará cómo hacerlo.",
+    "english_example": "The teacher will illustrate how to do it.",
+    "verb": "i"
+  },
+  {
+    "id": "195",
+    "title": "Imaginar",
+    "english_title": "Imagine",
+    "example": "Puedo imaginar cómo te sentiste.",
+    "english_example": "I can imagine how you felt.",
+    "verb": "i"
+  },
+  {
+    "id": "196",
+    "title": "Insinuar",
+    "english_title": "Imply",
+    "example": "El silencio insinúa consentimiento.",
+    "english_example": "Silence implies consent.",
+    "verb": "i"
+  },
+  {
+    "id": "197",
+    "title": "Impresionar",
+    "english_title": "Impress",
+    "example": "No estamos impresionados.",
+    "english_example": "We're not impressed.",
+    "verb": "i"
+  },
+  {
+    "id": "198",
+    "title": "Mejorar",
+    "english_title": "Improve",
+    "example": "Necesito mejorar mi inglés.",
+    "english_example": "I need to improve my English.",
+    "verb": "m"
+  },
+  {
+    "id": "199",
+    "title": "Incluir",
+    "english_title": "Include",
+    "example": "El almuerzo de Tom incluye un sándwich y una manzana.",
+    "english_example": "Tom's lunch includes a sandwich and an apple.",
+    "verb": "i"
+  },
+  {
+    "id": "200",
+    "title": "Incorporar",
+    "english_title": "Incorporate",
+    "example": "Su empresa fue incorporada.",
+    "english_example": "Her business was incorporated.",
+    "verb": "i"
+  },
+  {
+    "id": "201",
+    "title": "Indicar",
+    "english_title": "Indicate",
+    "example": "La flecha indica el camino.",
+    "english_example": "The arrow indicates the way to go.",
+    "verb": "i"
+  },
+  {
+    "id": "202",
+    "title": "Informar",
+    "english_title": "Inform",
+    "example": "Voy a informar a John sobre nuestra decisión.",
+    "english_example": "I'll inform John about our decision.",
+    "verb": "i"
+  },
+  {
+    "id": "203",
+    "title": "Insistir",
+    "english_title": "Insist",
+    "example": "Ella insistió en ir allí.",
+    "english_example": "She insisted on going there.",
+    "verb": "i"
+  },
+  {
+    "id": "204",
+    "title": "Instalar",
+    "english_title": "Install",
+    "example": "El hombre intentó instalar su propia antena.",
+    "english_example": "The man tried to install his own antenna.",
+    "verb": "i"
+  },
+  {
+    "id": "205",
+    "title": "Intentar",
+    "english_title": "Intend",
+    "example": "Oí que intentan casarse.",
+    "english_example": "I heard they intend to marry.",
+    "verb": "i"
+  },
+  {
+    "id": "206",
+    "title": "Introducir",
+    "english_title": "Introduce",
+    "example": "Te voy a presentar a Tom.",
+    "english_example": "I'll introduce you to Tom.",
+    "verb": "i"
+  },
+  {
+    "id": "207",
+    "title": "Invertir",
+    "english_title": "Invest",
+    "example": "Él invirtió su dinero en acciones.",
+    "english_example": "He invested his money in stocks.",
+    "verb": "i"
+  },
+  {
+    "id": "208",
+    "title": "Investigar",
+    "english_title": "Investigate",
+    "example": "Estoy aquí para investigar la muerte de Tom.",
+    "english_example": "I came here to investigate Tom's death.",
+    "verb": "i"
+  },
+  {
+    "id": "209",
+    "title": "Involucrar",
+    "english_title": "Involve",
+    "example": "Este procedimiento involucra probar cada muestra dos veces.",
+    "english_example": "This procedure involves testing each sample twice.",
+    "verb": "i"
+  },
+  {
+    "id": "210",
+    "title": "Planchar",
+    "english_title": "Iron",
+    "example": "Plancho mi ropa casi todos los días.",
+    "english_example": "I iron my clothes almost every day.",
+    "verb": "p"
+  },
+  {
+    "id": "211",
+    "title": "Correr",
+    "english_title": "Jog",
+    "example": "Hago que sea una regla correr todas las mañanas.",
+    "english_example": "I make it a rule to jog every morning.",
+    "verb": "c"
+  },
+  {
+    "id": "212",
+    "title": "Saltar",
+    "english_title": "Jump",
+    "example": "¿Puedes saltar sobre el río?",
+    "english_example": "Can you jump over the river?",
+    "verb": "s"
+  },
+  {
+    "id": "213",
+    "title": "Justificar",
+    "english_title": "Justify",
+    "example": "Mis resultados justifican tomar medidas drásticas.",
+    "english_example": "My results justify taking drastic action.",
+    "verb": "j"
+  },
+  {
+    "id": "214",
+    "title": "Mantener",
+    "english_title": "Keep",
+    "example": "No dejo de pensar en Joe, que está completamente solo en ese lugar.",
+    "english_example": "I keep thinking about Joe, all alone in that place.",
+    "verb": "m"
+  },
+  {
+    "id": "192157",
+    "title": "Patear",
+    "english_title": "Kick",
+    "example": "A los niños les encanta patear una pelota contra mi pared.",
+    "english_example": "The kids love to kick a ball against my wall.",
+    "verb": "p"
+  },
+  {
+    "id": "216",
+    "title": "Besar",
+    "english_title": "Kiss",
+    "example": "¿Has besado a alguien?",
+    "english_example": "Did you kiss anybody?",
+    "verb": "b"
+  },
+  {
+    "id": "217",
+    "title": "Arrodillarse",
+    "english_title": "Kneel",
+    "example": "No se permite correr, estar de pie, arrodillarse o girar en el tobogán.",
+    "english_example": "Do not run, stand, kneel or spin in the slide.",
+    "verb": "a"
+  },
+  {
+    "id": "218",
+    "title": "Tejer",
+    "english_title": "Knit",
+    "example": "Ella le tejió un suéter para su cumpleaños.",
+    "english_example": "She knit him a sweater for his birthday.",
+    "verb": "t"
+  },
+  {
+    "id": "219",
+    "title": "Saber",
+    "english_title": "Know",
+    "example": "Lo conocemos.",
+    "english_example": "We know him.",
+    "verb": "s"
+  },
+  {
+    "id": "220",
+    "title": "Faltar",
+    "english_title": "Lack",
+    "example": "Parece que Tom le falta energía.",
+    "english_example": "Tom seems to lack energy.",
+    "verb": "f"
+  },
+  {
+    "id": "221",
+    "title": "Reír",
+    "english_title": "Laugh",
+    "example": "Tom está riendo.",
+    "english_example": "Tom is laughing.",
+    "verb": "r"
+  },
+  {
+    "id": "222",
+    "title": "Poner",
+    "english_title": "Lay",
+    "example": "Él se acostó sobre su espalda.",
+    "english_example": "He laid on his back.",
+    "verb": "p"
+  },
+  {
+    "id": "223",
+    "title": "Liderar",
+    "english_title": "Lead",
+    "example": "Tom lleva una vida tranquila.",
+    "english_example": "Tom leads a quiet life.",
+    "verb": "l"
+  },
+  {
+    "id": "224",
+    "title": "Apoyar",
+    "english_title": "Lean",
+    "example": "Él se apoyó en sus codos.",
+    "english_example": "He leaned on his elbows.",
+    "verb": "a"
+  },
+  {
+    "id": "225",
+    "title": "Saltar",
+    "english_title": "Leap",
+    "example": "Ken saltó sobre la pared.",
+    "english_example": "Ken leapt over the wall.",
+    "verb": "s"
+  },
+  {
+    "id": "226",
+    "title": "Aprender",
+    "english_title": "Learn",
+    "example": "Los niños aprenden a gatear antes de poder caminar.",
+    "english_example": "Children learn to creep ere they can go.",
+    "verb": "a"
+  },
+  {
+    "id": "227",
+    "title": "Dejar",
+    "english_title": "Leave",
+    "example": "¡Déjame en paz!",
+    "english_example": "Leave me alone!",
+    "verb": "d"
+  },
+  {
+    "id": "228",
+    "title": "Prestar",
+    "english_title": "Lend",
+    "example": "Tom le prestó su cámara a Mary.",
+    "english_example": "Tom lent Mary his camera.",
+    "verb": "p"
+  },
+  {
+    "id": "229",
+    "title": "Yacer",
+    "english_title": "Lie (in bed)",
+    "example": "Vuelve a acostarte.",
+    "english_example": "Lie back down.",
+    "verb": "y"
+  },
+  {
+    "id": "230",
+    "title": "Levantar",
+    "english_title": "Lift",
+    "example": "No pudo levantar la mesa y yo tampoco.",
+    "english_example": "He couldn't lift the table and no more could I.",
+    "verb": "l"
+  },
+  {
+    "id": "231",
+    "title": "Luz",
+    "english_title": "Light",
+    "example": "Es mejor encender una vela que maldecir la oscuridad.",
+    "english_example": "Better to light one candle than to curse the darkness.",
+    "verb": "l"
+  },
+  {
+    "id": "232",
+    "title": "Mentir",
+    "english_title": "Lie (not to tell the truth)",
+    "example": "Él odiaba mentir.",
+    "english_example": "He hated lying.",
+    "verb": "m"
+  },
+  {
+    "id": "233",
+    "title": "Gustar",
+    "english_title": "Like",
+    "example": "A ella le gusta jugar al tenis.",
+    "english_example": "She likes playing tennis.",
+    "verb": "g"
+  },
+  {
+    "id": "234",
+    "title": "Escuchar",
+    "english_title": "Listen",
+    "example": "¿Por qué no vas a escuchar?",
+    "english_example": "Why won't you listen?",
+    "verb": "e"
+  },
+  {
+    "id": "235",
+    "title": "Mirar",
+    "english_title": "Look",
+    "example": "Parece que hace frío afuera.",
+    "english_example": "It looks cold outside.",
+    "verb": "m"
+  },
+  {
+    "id": "236",
+    "title": "Perder",
+    "english_title": "Lose",
+    "example": "Ella ha perdido un libro.",
+    "english_example": "She lost a book.",
+    "verb": "p"
+  },
+  {
+    "id": "237",
+    "title": "Amar",
+    "english_title": "Love",
+    "example": "Me encanta ir a restaurantes.",
+    "english_example": "I love going out to restaurants.",
+    "verb": "a"
+  },
+  {
+    "id": "238",
+    "title": "Mantener",
+    "english_title": "Maintain",
+    "example": "Tom mantuvo el contacto visual con Mary.",
+    "english_example": "Tom maintained eye contact with Mary.",
+    "verb": "m"
+  },
+  {
+    "id": "239",
+    "title": "Hacer",
+    "english_title": "Make",
+    "example": "Estoy haciendo té.",
+    "english_example": "I'm making tea.",
+    "verb": "h"
+  },
+  {
+    "id": "240",
+    "title": "Gestionar",
+    "english_title": "Manage",
+    "example": "¿Lograste pillar el correo?",
+    "english_example": "Did you manage to catch the post?",
+    "verb": "g"
+  },
+  {
+    "id": "241",
+    "title": "Mantener",
+    "english_title": "Maintain",
+    "example": "Tom mantuvo el contacto visual con Mary.",
+    "english_example": "Tom maintained eye contact with Mary.",
+    "verb": "m"
+  },
+  {
+    "id": "242",
+    "title": "Hacer",
+    "english_title": "Make",
+    "example": "Estoy haciendo té.",
+    "english_example": "I'm making tea.",
+    "verb": "h"
+  },
+  {
+    "id": "243",
+    "title": "Gestionar",
+    "english_title": "Manage",
+    "example": "¿Lograste pillar el correo?",
+    "english_example": "Did you manage to catch the post?",
+    "verb": "g"
+  },
+  {
+    "id": "244",
+    "title": "Importar",
+    "english_title": "Matter",
+    "example": "No importa, Tom.",
+    "english_example": "It doesn't matter, Tom.",
+    "verb": "i"
+  },
+  {
+    "id": "245",
+    "title": "Poder",
+    "english_title": "May",
+    "example": "Cada enfermera puede encargarse de hasta veinte pacientes.",
+    "english_example": "Each nurse may be responsible for up to twenty patients.",
+    "verb": "p"
+  },
+  {
+    "id": "246",
+    "title": "Significar",
+    "english_title": "Mean",
+    "example": "No era mi intención herir tus sentimientos.",
+    "english_example": "It didn't mean to hurt your feelings.",
+    "verb": "s"
+  },
+  {
+    "id": "247",
+    "title": "Medir",
+    "english_title": "Measure",
+    "example": "La tabla de surf mide 2 metros por 55 centímetros.",
+    "english_example": "The surfboard measures 2 meters by 55 centimeters.",
+    "verb": "m"
+  },
+  {
+    "id": "248",
+    "title": "Conocer",
+    "english_title": "Meet",
+    "example": "Nunca nos hemos encontrado.",
+    "english_example": "We've never met.",
+    "verb": "c"
+  },
+  {
+    "id": "249",
+    "title": "Derretir",
+    "english_title": "Melt",
+    "example": "La nieve se ha derretido.",
+    "english_example": "The snow is melted.",
+    "verb": "d"
+  },
+  {
+    "id": "250",
+    "title": "Mencionar",
+    "english_title": "Mention",
+    "example": "Él mencionó que iba a esa universidad.",
+    "english_example": "He mentioned going to that college.",
+    "verb": "m"
+  },
+  {
+    "id": "251",
+    "title": "Poder",
+    "english_title": "Might",
+    "example": "Donna podría venir mañana, pero es muy improbable.",
+    "english_example": "Donna might be able to come tomorrow, but it's very unlikely.",
+    "verb": "p"
+  },
+  {
+    "id": "252",
+    "title": "Importar",
+    "english_title": "Mind",
+    "example": "¿Te importaría repetir lo que acabas de decir?",
+    "english_example": "Would you mind repeating what you just said?",
+    "verb": "i"
+  },
+  {
+    "id": "253",
+    "title": "Echar de menos",
+    "english_title": "Miss",
+    "example": "Él había perdido la elección por un solo voto.",
+    "english_example": "He had missed being elected by a single vote.",
+    "verb": "e"
+  },
+  {
+    "id": "254",
+    "title": "Mezclar",
+    "english_title": "Mix",
+    "example": "Si mezclas azul y rojo, obtienes violeta.",
+    "english_example": "If you mix blue and red, you get violet.",
+    "verb": "m"
+  },
+  {
+    "id": "255",
+    "title": "Cortar",
+    "english_title": "Mow",
+    "example": "Corté el césped de Tom.",
+    "english_example": "I mowed Tom's lawn.",
+    "verb": "c"
+  },
+  {
+    "id": "256",
+    "title": "Necesitar",
+    "english_title": "Need",
+    "example": "Tienes que cambiar tus hábitos alimenticios.",
+    "english_example": "You need to change your eating habits.",
+    "verb": "n"
+  },
+  {
+    "id": "257",
+    "title": "Negligir",
+    "english_title": "Neglect",
+    "example": "No olvides cerrar la puerta con llave cuando te vayas.",
+    "english_example": "Don't neglect to lock the door when you leave.",
+    "verb": "n"
+  },
+  {
+    "id": "258",
+    "title": "Negociar",
+    "english_title": "Negotiate",
+    "example": "Los dos países negociaron un tratado.",
+    "english_example": "The two countries negotiated a treaty.",
+    "verb": "n"
+  },
+  {
+    "id": "259",
+    "title": "Observar",
+    "english_title": "Observe",
+    "example": "Debes seguir esas reglas.",
+    "english_example": "You must observe those rules.",
+    "verb": "o"
+  },
+  {
+    "id": "260",
+    "title": "Obtener",
+    "english_title": "Obtain",
+    "example": "Obtuve el cuadro en una subasta.",
+    "english_example": "I obtained the painting at an auction.",
+    "verb": "o"
+  },
+  {
+    "id": "261",
+    "title": "Ocurrir",
+    "english_title": "Occur",
+    "example": "El accidente ocurrió ayer por la mañana.",
+    "english_example": "The accident occurred yesterday morning.",
+    "verb": "o"
+  },
+  {
+    "id": "262",
+    "title": "Ofrecer",
+    "english_title": "Offer",
+    "example": "Ella me ofreció ayudarme a mudarme.",
+    "english_example": "She offered to help me move my things to my new house.",
+    "verb": "o"
+  },
+  {
+    "id": "263",
+    "title": "Abrir",
+    "english_title": "Open",
+    "example": "Abre la ventana.",
+    "english_example": "Open the window.",
+    "verb": "a"
+  },
+  {
+    "id": "264",
+    "title": "Operar",
+    "english_title": "Operate",
+    "example": "No puedo averiguar cómo operar esta máquina.",
+    "english_example": "I can't figure out how to operate this machine.",
+    "verb": "o"
+  },
+  {
+    "id": "265",
+    "title": "Ordenar",
+    "english_title": "Order",
+    "example": "¿Qué sugieres que ordene?",
+    "english_example": "What do you suggest I order?",
+    "verb": "o"
+  },
+  {
+    "id": "266",
+    "title": "Organizar",
+    "english_title": "Organize",
+    "example": "Ellos quieren que yo organice la fiesta.",
+    "english_example": "They want me to organize the party.",
+    "verb": "o"
+  },
+  {
+    "id": "267",
+    "title": "Debería",
+    "english_title": "Ought to",
+    "example": "Deberías hacer reparar tu reloj.",
+    "english_example": "You ought to have your watch repaired.",
+    "verb": "d"
+  },
+  {
+    "id": "268",
+    "title": "Superar",
+    "english_title": "Overcome",
+    "example": "Hemos superado muchas dificultades.",
+    "english_example": "We have overcome many difficulties.",
+    "verb": "s"
+  },
+  {
+    "id": "269",
+    "title": "Adelantar",
+    "english_title": "Overtake",
+    "example": "Su coche adelantó al nuestro.",
+    "english_example": "Their car overtook ours.",
+    "verb": "a"
+  },
+  {
+    "id": "270",
+    "title": "Deber",
+    "english_title": "Owe",
+    "example": "Tom me debe dinero.",
+    "english_example": "Tom owes me money.",
+    "verb": "d"
+  },
+  {
+    "id": "271",
+    "title": "Poseer",
+    "english_title": "Own",
+    "example": "Poseo un coche español.",
+    "english_example": "I own a Spanish car.",
+    "verb": "p"
+  },
+  {
+    "id": "272",
+    "title": "Pintar",
+    "english_title": "Paint",
+    "example": "Ella pintó la pared de rosa.",
+    "english_example": "She painted the wall pink.",
+    "verb": "p"
+  },
+  {
+    "id": "273",
+    "title": "Participar",
+    "english_title": "Participate",
+    "example": "Él participó en el debate.",
+    "english_example": "He participated in the debate.",
+    "verb": "p"
+  },
+  {
+    "id": "274",
+    "title": "Pagar",
+    "english_title": "Pay",
+    "example": "¿Puedo pagar en cuotas?",
+    "english_example": "Can I pay by installment payment?",
+    "verb": "p"
+  },
+  {
+    "id": "275",
+    "title": "Pelar",
+    "english_title": "Peel",
+    "example": "Anna peló la manzana.",
+    "english_example": "Anna peeled the apple.",
+    "verb": "p"
+  },
+  {
+    "id": "276",
+    "title": "Actuar",
+    "english_title": "Perform",
+    "example": "Tom actúa tres noches a la semana en un club de jazz.",
+    "english_example": "Tom performs in a jazz club three nights a week.",
+    "verb": "a"
+  },
+  {
+    "id": "277",
+    "title": "Persuadir",
+    "english_title": "Persuade",
+    "example": "Persuadí a Tom para que me ayudara.",
+    "english_example": "I persuaded Tom to help me.",
+    "verb": "p"
+  },
+  {
+    "id": "278",
+    "title": "Picar",
+    "english_title": "Pinch",
+    "example": "Él picó y rasguñó durante años para ahorrar dinero.",
+    "english_example": "He pinched and scraped for many years to save money.",
+    "verb": "p"
+  },
+  {
+    "id": "279",
+    "title": "Planear",
+    "english_title": "Plan",
+    "example": "El próximo año planeo viajar por el mundo.",
+    "english_example": "Next year I plan to travel around the world.",
+    "verb": "p"
+  },
+  {
+    "id": "280",
+    "title": "Jugar",
+    "english_title": "Play",
+    "example": "Puedo jugar al tenis.",
+    "english_example": "I can play tennis.",
+    "verb": "j"
+  },
+  {
+    "id": "281",
+    "title": "Señalar",
+    "english_title": "Point",
+    "example": "Tom señaló al cielo.",
+    "english_example": "Tom pointed to the sky.",
+    "verb": "s"
+  },
+  {
+    "id": "282",
+    "title": "Poseer",
+    "english_title": "Possess",
+    "example": "El anciano posee una gran riqueza.",
+    "english_example": "The old man possesses great wealth.",
+    "verb": "p"
+  },
+  {
+    "id": "283",
+    "title": "Posponer",
+    "english_title": "Postpone",
+    "example": "Él pospuso su regreso a París.",
+    "english_example": "He postponed returning to Paris.",
+    "verb": "p"
+  },
+  {
+    "id": "284",
+    "title": "Verter",
+    "english_title": "Pour",
+    "example": "Ella vertió té para mí.",
+    "english_example": "She poured tea for me.",
+    "verb": "v"
+  },
+  {
+    "id": "285",
+    "title": "Practicar",
+    "english_title": "Practice",
+    "example": "Hoy vamos a practicar estacionar.",
+    "english_example": "Today we're going to practice parking.",
+    "verb": "p"
+  },
+  {
+    "id": "286",
+    "title": "Preferir",
+    "english_title": "Prefer",
+    "example": "Chantal prefiere viajar en tren.",
+    "english_example": "Chantal prefers travelling by train.",
+    "verb": "p"
+  },
+  {
+    "id": "287",
+    "title": "Preparar",
+    "english_title": "Prepare",
+    "example": "El doctor se preparó para recetar una receta.",
+    "english_example": "The doctor prepared to prescribe a receipt.",
+    "verb": "p"
+  },
+  {
+    "id": "288",
+    "title": "Fingir",
+    "english_title": "Pretend",
+    "example": "Ella fingió evitar que viniera.",
+    "english_example": "She was pretending me from coming.",
+    "verb": "f"
+  },
+  {
+    "id": "289",
+    "title": "Prevenir",
+    "english_title": "Prevent",
+    "example": "La lluvia impidió que viniera.",
+    "english_example": "The rain prevented me from coming.",
+    "verb": "p"
+  },
+  {
+    "id": "290",
+    "title": "Proceder",
+    "english_title": "Proceed",
+    "example": "Procederán a construir otro edificio de laboratorio.",
+    "english_example": "They will proceed to build another laboratory building.",
+    "verb": "p"
+  },
+  {
+    "id": "291",
+    "title": "Prometer",
+    "english_title": "Promise",
+    "example": "Él prometió recogerla del aeropuerto.",
+    "english_example": "He promised to collect her from the airport.",
+    "verb": "p"
+  },
+  {
+    "id": "292",
+    "title": "Proponer",
+    "english_title": "Propose",
+    "example": "Proponemos tratar este tema en el siguiente capítulo.",
+    "english_example": "We propose to deal with this subject in the following chapter.",
+    "verb": "p"
+  },
+  {
+    "id": "293",
+    "title": "Proteger",
+    "english_title": "Protect",
+    "example": "Debemos proteger a John.",
+    "english_example": "We're supposed to be protecting John.",
+    "verb": "p"
+  },
+  {
+    "id": "294",
+    "title": "Probar",
+    "english_title": "Prove",
+    "example": "Te lo voy a probar.",
+    "english_example": "I'll prove it to you.",
+    "verb": "p"
+  },
+  {
+    "id": "295",
+    "title": "Sacar",
+    "english_title": "Pull",
+    "example": "John sacó un bolígrafo.",
+    "english_example": "John pulled out a pen.",
+    "verb": "s"
+  },
+  {
+    "id": "296",
+    "title": "Pegar",
+    "english_title": "Punch",
+    "example": "Pegas como una niña.",
+    "english_example": "You punch like a girl.",
+    "verb": "p"
+  },
+  {
+    "id": "297",
+    "title": "Perseguir",
+    "english_title": "Pursue",
+    "example": "La policía persiguió al asesino.",
+    "english_example": "The police pursued the murderer.",
+    "verb": "p"
+  },
+  {
+    "id": "298",
+    "title": "Empujar",
+    "english_title": "Push",
+    "example": "Tuvimos que empujarnos a través de la multitud.",
+    "english_example": "We had to push our way through the crowd.",
+    "verb": "e"
+  },
+  {
+    "id": "299",
+    "title": "Poner",
+    "english_title": "Put",
+    "example": "Me puse los zapatos.",
+    "english_example": "I put on my shoes.",
+    "verb": "p"
+  },
+  {
+    "id": "300",
+    "title": "Calificar",
+    "english_title": "Qualify",
+    "example": "Él se calificó como profesor de inglés.",
+    "english_example": "He qualified as an English teacher.",
+    "verb": "c"
+  },
+  {
+    "id": "301",
+    "title": "Dejar",
+    "english_title": "Quit",
+    "example": "Ella deja de preocuparse por el problema.",
+    "english_example": "She quits worrying about the problem.",
+    "verb": "d"
+  },
+  {
+    "id": "302",
+    "title": "Reaccionar",
+    "english_title": "React",
+    "example": "Tom reaccionó adecuadamente.",
+    "english_example": "Tom reacted appropriately.",
+    "verb": "r"
+  },
+  {
+    "id": "303",
+    "title": "Leer",
+    "english_title": "Read",
+    "example": "Leí el libro.",
+    "english_example": "I read the book.",
+    "verb": "l"
+  },
+  {
+    "id": "304",
+    "title": "Darse cuenta",
+    "english_title": "Realize",
+    "example": "No me di cuenta de que estábamos tarde.",
+    "english_example": "I didn't realize we were late.",
+    "verb": "d"
+  },
+  {
+    "id": "305",
+    "title": "Recordar",
+    "english_title": "Recall",
+    "example": "No recuerdo haber visto coches estacionados.",
+    "english_example": "I don't recall seeing any cars parked outside.",
+    "verb": "r"
+  },
+  {
+    "id": "306",
+    "title": "Recibir",
+    "english_title": "Receive",
+    "example": "Recibimos una cálida bienvenida.",
+    "english_example": "We received a warm welcome.",
+    "verb": "r"
+  },
+  {
+    "id": "307",
+    "title": "Recordar",
+    "english_title": "Recollect",
+    "example": "Recuerdo haber visto a Ryder hace algunos años en Bonn.",
+    "english_example": "I recollect seeing Ryder some years ago in Bonn.",
+    "verb": "r"
+  },
+  {
+    "id": "308",
+    "title": "Recomendar",
+    "english_title": "Recommend",
+    "example": "Nunca recomendaría usar una cama solar regularmente.",
+    "english_example": "I would never recommend using a sunbed on a regular basis.",
+    "verb": "r"
+  },
+  {
+    "id": "309",
+    "title": "Reducir",
+    "english_title": "Reduce",
+    "example": "Creo que deberíamos reducir el precio.",
+    "english_example": "I think we should reduce the price.",
+    "verb": "r"
+  },
+  {
+    "id": "310",
+    "title": "Referir",
+    "english_title": "Refer",
+    "example": "A menudo me refiero al diccionario.",
+    "english_example": "I often refer to the dictionary.",
+    "verb": "r"
+  },
+  {
+    "id": "311",
+    "title": "Reflejar",
+    "english_title": "Reflect",
+    "example": "Ella reflexionó sobre lo que había hecho.",
+    "english_example": "She reflected on what she had done.",
+    "verb": "r"
+  },
+  {
+    "id": "312",
+    "title": "Rechazar",
+    "english_title": "Refuse",
+    "example": "Ella rechazó responder preguntas sobre sus finanzas personales.",
+    "english_example": "She refused to answer questions about her personal finances.",
+    "verb": "r"
+  },
+  {
+    "id": "313",
+    "title": "Arrepentirse",
+    "english_title": "Regret",
+    "example": "Me arrepiento de haber dejado la escuela tan joven.",
+    "english_example": "I regret leaving school so young.",
+    "verb": "a"
+  },
+  {
+    "id": "314",
+    "title": "Relacionar",
+    "english_title": "Relate",
+    "example": "Ella está relacionada con él por matrimonio.",
+    "english_example": "She is related to him by marriage.",
+    "verb": "r"
+  },
+  {
+    "id": "315",
+    "title": "Relajarse",
+    "english_title": "Relax",
+    "example": "Se supone que debemos relajarnos.",
+    "english_example": "We're supposed to relax.",
+    "verb": "r"
+  },
+  {
+    "id": "316",
+    "title": "Aliviar",
+    "english_title": "Relieve",
+    "example": "Me sentí aliviado al escuchar que estaba vivo.",
+    "english_example": "I was relieved to hear that he was alive.",
+    "verb": "a"
+  },
+  {
+    "id": "317",
+    "title": "Confiar",
+    "english_title": "Rely",
+    "example": "Sin duda, puedes confiar en él.",
+    "english_example": "You can certainly rely on him.",
+    "verb": "c"
+  },
+  {
+    "id": "318",
+    "title": "Permanecer",
+    "english_title": "Remain",
+    "example": "Él permaneció pobre toda su vida.",
+    "english_example": "He remained poor all his life.",
+    "verb": "p"
+  },
+  {
+    "id": "319",
+    "title": "Recordar",
+    "english_title": "Remember",
+    "example": "Él recordó traer un par de guantes, a diferencia de mí.",
+    "english_example": "He had remembered to bring a pair of gloves, unlike me.",
+    "verb": "r"
+  },
+  {
+    "id": "320",
+    "title": "Recordar",
+    "english_title": "Remind",
+    "example": "Eso me recuerda los buenos viejos tiempos.",
+    "english_example": "It reminds me of the good old days.",
+    "verb": "r"
+  },
+  {
+    "id": "321",
+    "title": "Reparar",
+    "english_title": "Repair",
+    "example": "Él reparó su reloj por sí mismo.",
+    "english_example": "He repaired his watch by himself.",
+    "verb": "r"
+  },
+  {
+    "id": "323",
+    "title": "Reemplazar",
+    "english_title": "Replace",
+    "example": "El coche reemplazó la bicicleta.",
+    "english_example": "The car replaced the bicycle.",
+    "verb": "r"
+  },
+  {
+    "id": "324",
+    "title": "Representar",
+    "english_title": "Represent",
+    "example": "Él representó al sindicato en el comité.",
+    "english_example": "He represented the labour union on the committee.",
+    "verb": "r"
+  },
+  {
+    "id": "325",
+    "title": "Requerir",
+    "english_title": "Require",
+    "example": "Esta tarea requiere destreza.",
+    "english_example": "This task requires dexterity.",
+    "verb": "r"
+  },
+  {
+    "id": "326",
+    "title": "Resentir",
+    "english_title": "Resent",
+    "example": "Muchos reclutas sienten que es incómodo hacer su servicio militar.",
+    "english_example": "Many conscripts resent having to do their military service.",
+    "verb": "r"
+  },
+  {
+    "id": "327",
+    "title": "Resistir",
+    "english_title": "Resist",
+    "example": "Ella nunca puede resistir comprar zapatos nuevos.",
+    "english_example": "She can never resist buying new shoes.",
+    "verb": "r"
+  },
+  {
+    "id": "328",
+    "title": "Retener",
+    "english_title": "Retain",
+    "example": "Tuvimos que contratar un abogado.",
+    "english_example": "We had to retain a lawyer.",
+    "verb": "r"
+  },
+  {
+    "id": "329",
+    "title": "Jubilarse",
+    "english_title": "Retire",
+    "example": "He decidido jubilarme.",
+    "english_example": "I have decided to retire.",
+    "verb": "i"
+  },
+  {
+    "id": "330",
+    "title": "Liberar",
+    "english_title": "Rid",
+    "example": "Tienes que liberarte de eso.",
+    "english_example": "You've got to rid of it.",
+    "verb": "l"
+  },
+  {
+    "id": "331",
+    "title": "Montar",
+    "english_title": "Ride",
+    "example": "La vida es un caballo, y o lo montas o él te monta a ti.",
+    "english_example": "Life is a horse, and either you ride it or it rides you.",
+    "verb": "m"
+  },
+  {
+    "id": "332",
+    "title": "Sonar",
+    "english_title": "Ring",
+    "example": "El teléfono está sonando.",
+    "english_example": "The phone is ringing.",
+    "verb": "s"
+  },
+  {
+    "id": "333",
+    "title": "Subir",
+    "english_title": "Rise",
+    "example": "El sol está a punto de salir.",
+    "english_example": "The sun is about to rise.",
+    "verb": "s"
+  },
+  {
+    "id": "334",
+    "title": "Arriesgar",
+    "english_title": "Risk",
+    "example": "Él arriesgó ser atrapado.",
+    "english_example": "He risked being caught.",
+    "verb": "a"
+  },
+  {
+    "id": "335",
+    "title": "Tostar",
+    "english_title": "Roast",
+    "example": "Él tuesta granos de café.",
+    "english_example": "He is roasting coffee beans.",
+    "verb": "t"
+  },
+  {
+    "id": "336",
+    "title": "Correr",
+    "english_title": "Run",
+    "example": "No corras demasiado rápido después de ganar.",
+    "english_example": "Do not run too fast after gain.",
+    "verb": "c"
+  },
+  {
+    "id": "337",
+    "title": "Sancionar",
+    "english_title": "Sanction",
+    "example": "No sancionarán copiar sin permiso.",
+    "english_example": "They will not sanction copying without permission.",
+    "verb": "s"
+  },
+  {
+    "id": "338",
+    "title": "Satisfacer",
+    "english_title": "Satisfy",
+    "example": "Él sació su sed con un gran vaso de cerveza.",
+    "english_example": "He satisfied his thirst with a large glass of beer.",
+    "verb": "s"
+  },
+  {
+    "id": "339",
+    "title": "Decir",
+    "english_title": "Say",
+    "example": "Nadie dice eso.",
+    "english_example": "No one says that.",
+    "verb": "d"
+  },
+  {
+    "id": "340",
+    "title": "Fregar",
+    "english_title": "Scrub",
+    "example": "Tom le pidió a Mary que fregara el baño.",
+    "english_example": "Tom asked Mary to scrub the toilet.",
+    "verb": "f"
+  },
+  {
+    "id": "341",
+    "title": "Ver",
+    "english_title": "See",
+    "example": "¿Ves ese pájaro?",
+    "english_example": "Do you see that bird?",
+    "verb": "v"
+  },
+  {
+    "id": "342",
+    "title": "Parecer",
+    "english_title": "Seem",
+    "example": "Parece que siempre tengo mala suerte en las cartas.",
+    "english_example": "I always seem to be unlucky at cards.",
+    "verb": "p"
+  },
+  {
+    "id": "343",
+    "title": "Vender",
+    "english_title": "Sell",
+    "example": "No puedo venderte eso.",
+    "english_example": "I can't sell you that.",
+    "verb": "v"
+  },
+  {
+    "id": "344",
+    "title": "Enviar",
+    "english_title": "Send",
+    "example": "Están enviando ayuda.",
+    "english_example": "They're sending help.",
+    "verb": "e"
+  },
+  {
+    "id": "345",
+    "title": "Servir",
+    "english_title": "Serve",
+    "example": "Ellos sirven buena comida en la cafetería.",
+    "english_example": "They serve good nosh in the cafeteria.",
+    "verb": "s"
+  },
+  {
+    "id": "346",
+    "title": "Poner",
+    "english_title": "Set",
+    "example": "Voy a poner la mesa.",
+    "english_example": "I'm going to set the table.",
+    "verb": "p"
+  },
+  {
+    "id": "347",
+    "title": "Resolver",
+    "english_title": "Settle",
+    "example": "El problema aún no está resuelto.",
+    "english_example": "The problem is not settled yet.",
+    "verb": "r"
+  },
+  {
+    "id": "348",
+    "title": "Coser",
+    "english_title": "Sew",
+    "example": "Mary está cosiendo ropa para bebé.",
+    "english_example": "Mary is sewing baby clothes.",
+    "verb": "c"
+  },
+  {
+    "id": "349",
+    "title": "Agitar",
+    "english_title": "Shake",
+    "example": "Se dieron la mano cuando se encontraron en el aeropuerto.",
+    "english_example": "They shook hands when they met at the airport.",
+    "verb": "a"
+  },
+  {
+    "id": "350",
+    "title": "Debería",
+    "english_title": "Shall",
+    "example": "¿Debería añadir tu nombre a la lista?",
+    "english_example": "Shall I add your name to the list?",
+    "verb": "d"
+  },
+  {
+    "id": "351",
+    "title": "Derramar",
+    "english_title": "Shed",
+    "example": "Ella intentó no derramar una lágrima.",
+    "english_example": "She tried not to shed a tear.",
+    "verb": "d"
+  },
+  {
+    "id": "352",
+    "title": "Brillar",
+    "english_title": "Shine",
+    "example": "Susan lustró los zapatos de tu padre.",
+    "english_example": "Susan shined your father's shoes.",
+    "verb": "b"
+  },
+  {
+    "id": "353",
+    "title": "Disparar",
+    "english_title": "Shoot",
+    "example": "Voy a dispararles a los dos.",
+    "english_example": "I'll shoot both of you.",
+    "verb": "d"
+  },
+  {
+    "id": "354",
+    "title": "Debería",
+    "english_title": "Should",
+    "example": "La universidad debería ofrecer más instalaciones deportivas.",
+    "english_example": "The university should provide more sports facilities.",
+    "verb": "d"
+  },
+  {
+    "id": "355",
+    "title": "Mostrar",
+    "english_title": "Show",
+    "example": "Te lo mostraré más tarde.",
+    "english_example": "I'll show you later.",
+    "verb": "m"
+  },
+  {
+    "id": "356",
+    "title": "Encoger",
+    "english_title": "Shrink",
+    "example": "Mis jeans se encogieron después de lavarlos.",
+    "english_example": "My jeans shrank after I washed them.",
+    "verb": "e"
+  },
+  {
+    "id": "357",
+    "title": "Cerrar",
+    "english_title": "Shut",
+    "example": "Cerré mis ojos de nuevo.",
+    "english_example": "I shut my eyes again.",
+    "verb": "c"
+  },
+  {
+    "id": "358",
+    "title": "Cantar",
+    "english_title": "Sing",
+    "example": "A Tom le encanta cantar.",
+    "english_example": "Tom loves to sing.",
+    "verb": "c"
+  },
+  {
+    "id": "359",
+    "title": "Hundirse",
+    "english_title": "Sink",
+    "example": "Un barco se hundió cerca de aquí ayer.",
+    "english_example": "A ship sank near here yesterday.",
+    "verb": "h"
+  },
+  {
+    "id": "360",
+    "title": "Sentarse",
+    "english_title": "Sit",
+    "example": "Siéntate en el suelo y estira las piernas hacia delante.",
+    "english_example": "Sit on the floor, stretching your legs out in front of you.",
+    "verb": "s"
+  },
+  {
+    "id": "361",
+    "title": "Esquiar",
+    "english_title": "Ski",
+    "example": "Me gusta mucho esquiar.",
+    "english_example": "I like skiing very much.",
+    "verb": "e"
+  },
+  {
+    "id": "362",
+    "title": "Dormir",
+    "english_title": "Sleep",
+    "example": "He dormido demasiado.",
+    "english_example": "I slept too much.",
+    "verb": "d"
+  },
+  {
+    "id": "363",
+    "title": "Cortar",
+    "english_title": "Slice",
+    "example": "Es mejor cortar un pastel denso desde el centro.",
+    "english_example": "It's best to slice into a rich cake from the middle.",
+    "verb": "c"
+  },
+  {
+    "id": "364",
+    "title": "Deslizar",
+    "english_title": "Slide",
+    "example": "Él deslizó el dinero en mi bolsillo.",
+    "english_example": "He slid the money into my pocket.",
+    "verb": "d"
+  },
+  {
+    "id": "365",
+    "title": "Resbalar",
+    "english_title": "Slip",
+    "example": "Ella se deslizó en su ropa.",
+    "english_example": "She slipped into her clothes.",
+    "verb": "r"
+  },
+  {
+    "id": "366",
+    "title": "Oler",
+    "english_title": "Smell",
+    "example": "Algo huele mal. ¿Qué es esto?",
+    "english_example": "Something smells bad. What is this?",
+    "verb": "o"
+  },
+  {
+    "id": "367",
+    "title": "Roncar",
+    "english_title": "Snore",
+    "example": "Tom roncaba ruidosamente con la boca abierta.",
+    "english_example": "Tom snored loudly with his mouth open.",
+    "verb": "r"
+  },
+  {
+    "id": "368",
+    "title": "Resolver",
+    "english_title": "Solve",
+    "example": "Él resolvió el problema difícil.",
+    "english_example": "He solved the difficult problem.",
+    "verb": "r"
+  },
+  {
+    "id": "369",
+    "title": "Sembrar",
+    "english_title": "Sow",
+    "example": "Los agricultores siembran semillas en primavera.",
+    "english_example": "Farmers sow seeds in the spring.",
+    "verb": "s"
+  },
+  {
+    "id": "370",
+    "title": "Hablar",
+    "english_title": "Speak",
+    "example": "Él habla inglés.",
+    "english_example": "He speaks English.",
+    "verb": "h"
+  },
+  {
+    "id": "371",
+    "title": "Especificar",
+    "english_title": "Specify",
+    "example": "Tom no especificó cuántos lápices debía comprar.",
+    "english_example": "Tom didn't specify how many pencils to buy.",
+    "verb": "e"
+  },
+  {
+    "id": "372",
+    "title": "Deletrear",
+    "english_title": "Spell",
+    "example": "No sé cómo se deletrea esa palabra.",
+    "english_example": "I don't know how to spell the word.",
+    "verb": "d"
+  },
+  {
+    "id": "373",
+    "title": "Gastar",
+    "english_title": "Spend",
+    "example": "Pasé algo de tiempo en Boston.",
+    "english_example": "I spent some time in Boston.",
+    "verb": "g"
+  },
+  {
+    "id": "374",
+    "title": "Derramar",
+    "english_title": "Spill",
+    "example": "Temo que haya derramado café sobre el mantel.",
+    "english_example": "I'm afraid I spilled coffee on the tablecloth.",
+    "verb": "d"
+  },
+  {
+    "id": "375",
+    "title": "Escupir",
+    "english_title": "Spit",
+    "example": "No puedo soportar la forma en que él escupe.",
+    "english_example": "I can't put up with the way he spits.",
+    "verb": "e"
+  },
+  {
+    "id": "376",
+    "title": "Extender",
+    "english_title": "Spread",
+    "example": "Él extendió un poco de mermelada de fresa sobre su tostada.",
+    "english_example": "He spread some strawberry jam on his toast.",
+    "verb": "e"
+  },
+  {
+    "id": "377",
+    "title": "Agacharse",
+    "english_title": "Squat",
+    "example": "Tom se agachó junto a su perro.",
+    "english_example": "Tom squatted down next to his dog.",
+    "verb": "a"
+  },
+  {
+    "id": "378",
+    "title": "Apilar",
+    "english_title": "Stack",
+    "example": "Están empaquetados de manera especial para que se apilen fácilmente.",
+    "english_example": "They are specially packaged so that they stack easily.",
+    "verb": "a"
+  },
+  {
+    "id": "379",
+    "title": "Estar de pie",
+    "english_title": "Stand",
+    "example": "¿Puedes ponerte de pie?",
+    "english_example": "Can you stand up?",
+    "verb": "e"
+  },
+  {
+    "id": "380",
+    "title": "Empezar",
+    "english_title": "Start",
+    "example": "Él empezó a volcar las vainas de guisante en la sartén.",
+    "english_example": "He started tipping the pea pods into a pan.",
+    "verb": "e"
+  },
+  {
+    "id": "381",
+    "title": "Robar",
+    "english_title": "Steal",
+    "example": "Me robaron el reloj.",
+    "english_example": "My watch was stolen.",
+    "verb": "r"
+  },
+  {
+    "id": "382",
+    "title": "Pegar",
+    "english_title": "Stick",
+    "example": "Él se mantuvo en su trabajo.",
+    "english_example": "He stuck to his job.",
+    "verb": "p"
+  },
+  {
+    "id": "383",
+    "title": "Picar",
+    "english_title": "Sting",
+    "example": "Me picó una abeja.",
+    "english_example": "I was stung by a bee.",
+    "verb": "p"
+  },
+  {
+    "id": "384",
+    "title": "Apestar",
+    "english_title": "Stink",
+    "example": "Aquí apesta.",
+    "english_example": "It stinks in here.",
+    "verb": "a"
+  },
+  {
+    "id": "385",
+    "title": "Revolver",
+    "english_title": "Stir",
+    "example": "Ella revolvió la sopa con una cuchara.",
+    "english_example": "She stirred the soup with a spoon.",
+    "verb": "r"
+  },
+  {
+    "id": "386",
+    "title": "Detener",
+    "english_title": "Stop",
+    "example": "Esperaba que él dejara de hacer preguntas incómodas.",
+    "english_example": "I hoped he would stop asking awkward questions.",
+    "verb": "d"
+  },
+  {
+    "id": "387",
+    "title": "Estirar",
+    "english_title": "Stretch",
+    "example": "Respira por la nariz mientras te estiras.",
+    "english_example": "Breathe in through your nose as you stretch up.",
+    "verb": "e"
+  },
+  {
+    "id": "388",
+    "title": "Golpear",
+    "english_title": "Strike",
+    "example": "Tom golpeó la pared con su puño.",
+    "english_example": "Tom struck the wall with his fist.",
+    "verb": "g"
+  },
+  {
+    "id": "389",
+    "title": "Luchar",
+    "english_title": "Struggle",
+    "example": "Él luchó por mantener el equilibrio en el piso resbaladizo.",
+    "english_example": "He struggled to keep his footing on the slippery floor.",
+    "verb": "l"
+  },
+  {
+    "id": "390",
+    "title": "Estudiar",
+    "english_title": "Study",
+    "example": "Ella estudia mucho.",
+    "english_example": "She studies hard.",
+    "verb": "e"
+  },
+  {
+    "id": "391",
+    "title": "Enviar",
+    "english_title": "Submit",
+    "example": "Yo envié la solicitud yo mismo.",
+    "english_example": "I submitted the application myself.",
+    "verb": "e"
+  },
+  {
+    "id": "392",
+    "title": "Tener éxito",
+    "english_title": "Succeed",
+    "example": "Él tendrá éxito seguro.",
+    "english_example": "He'll succeed for sure.",
+    "verb": "t"
+  },
+  {
+    "id": "393",
+    "title": "Sufrir",
+    "english_title": "Suffer",
+    "example": "Hemos sufrido una gran pérdida.",
+    "english_example": "We suffered a pretty big loss.",
+    "verb": "s"
+  },
+  {
+    "id": "394",
+    "title": "Sugerir",
+    "english_title": "Suggest",
+    "example": "Tracey sugirió encontrarse para tomar algo después del trabajo.",
+    "english_example": "Tracey suggested meeting for a drink after work.",
+    "verb": "s"
+  },
+  {
+    "id": "395",
+    "title": "Proveer",
+    "english_title": "Supply",
+    "example": "Yo proporcioné a Tom todo lo que necesitaba.",
+    "english_example": "I supplied Tom with everything he needed.",
+    "verb": "p"
+  },
+  {
+    "id": "396",
+    "title": "Suponer",
+    "english_title": "Suppose",
+    "example": "Supongo que tienes hambre.",
+    "english_example": "I suppose you're hungry.",
+    "verb": "s"
+  },
+  {
+    "id": "397",
+    "title": "Sorprender",
+    "english_title": "Surprise",
+    "example": "Ella lo sorprendió cuando llegó temprano.",
+    "english_example": "She surprised him when she arrived early.",
+    "verb": "s"
+  },
+  {
+    "id": "398",
+    "title": "Sobrevivir",
+    "english_title": "Survive",
+    "example": "Él sobrevivió al accidente de avión.",
+    "english_example": "He survived the plane crash.",
+    "verb": "s"
+  },
+  {
+    "id": "399",
+    "title": "Jurar",
+    "english_title": "Swear",
+    "example": "¿Juras decir toda la verdad?",
+    "english_example": "Do you swear to tell the whole truth?",
+    "verb": "j"
+  },
+  {
+    "id": "400",
+    "title": "Barrer",
+    "english_title": "Sweep",
+    "example": "Voy a barrer mi cuarto.",
+    "english_example": "I will sweep out my room.",
+    "verb": "b"
+  },
+  {
+    "id": "401",
+    "title": "Oleada",
+    "english_title": "Swell",
+    "example": "El río se hinchó rápidamente debido a la fuerte lluvia.",
+    "english_example": "The river swelled rapidly because of the heavy rain.",
+    "verb": "o"
+  },
+  {
+    "id": "402",
+    "title": "Nadar",
+    "english_title": "Swim",
+    "example": "Ella nada bien.",
+    "english_example": "She swims well.",
+    "verb": "n"
+  },
+  {
+    "id": "403",
+    "title": "Balancear",
+    "english_title": "Swing",
+    "example": "La lámpara se balanceaba de un lado a otro.",
+    "english_example": "The lamp was swinging back and forth.",
+    "verb": "b"
+  },
+  {
+    "id": "404",
+    "title": "Tomar",
+    "english_title": "Take",
+    "example": "Fui a dar un paseo.",
+    "english_example": "I took a walk.",
+    "verb": "t"
+  },
+  {
+    "id": "405",
+    "title": "Hablar",
+    "english_title": "Talk",
+    "example": "Tom habló mucho.",
+    "english_example": "Tom talked a lot.",
+    "verb": "h"
+  },
+  {
+    "id": "406",
+    "title": "Saber el sabor",
+    "english_title": "Taste",
+    "example": "La sopa sabe a sal.",
+    "english_example": "The soup tastes salty.",
+    "verb": "s"
+  },
+  {
+    "id": "407",
+    "title": "Enseñar",
+    "english_title": "Teach",
+    "example": "Te enseñaré cómo nadar.",
+    "english_example": "I'll teach you how to swim.",
+    "verb": "e"
+  },
+  {
+    "id": "408",
+    "title": "Rasgar",
+    "english_title": "Tear",
+    "example": "Rasgué la foto del álbum.",
+    "english_example": "I tore the picture out of the album.",
+    "verb": "r"
+  },
+  {
+    "id": "409",
+    "title": "Contar",
+    "english_title": "Tell",
+    "example": "Le dije que viniera.",
+    "english_example": "I told him to come.",
+    "verb": "c"
+  },
+  {
+    "id": "410",
+    "title": "Tener tendencia",
+    "english_title": "Tend",
+    "example": "Ella tiende a llegar tarde a la escuela.",
+    "english_example": "She tends to be late for school.",
+    "verb": "t"
+  },
+  {
+    "id": "411",
+    "title": "Pensar",
+    "english_title": "Think",
+    "example": "Pienso que el Sr. Peter es un buen maestro.",
+    "english_example": "I think that Mr. Peter is a good teacher.",
+    "verb": "p"
+  },
+  {
+    "id": "412",
+    "title": "Amenazar",
+    "english_title": "Threaten",
+    "example": "Amenazaron con prohibir el libro.",
+    "english_example": "They threatened to ban the book.",
+    "verb": "a"
+  },
+  {
+    "id": "413",
+    "title": "Tirar",
+    "english_title": "Throw",
+    "example": "Tiré mis zapatos.",
+    "english_example": "I threw away my shoes.",
+    "verb": "t"
+  },
+  {
+    "id": "414",
+    "title": "Caminar de puntillas",
+    "english_title": "Tiptoe",
+    "example": "Tom caminó en puntillas fuera de la habitación.",
+    "english_example": "Tom quietly tiptoed out of the room.",
+    "verb": "c"
+  },
+  {
+    "id": "415",
+    "title": "Tolerar",
+    "english_title": "Tolerate",
+    "example": "No toleramos fumar en la biblioteca.",
+    "english_example": "We don't tolerate smoking in the library.",
+    "verb": "t"
+  },
+  {
+    "id": "416",
+    "title": "Traducir",
+    "english_title": "Translate",
+    "example": "Él tradujo el verso al inglés.",
+    "english_example": "He translated the verse into English.",
+    "verb": "t"
+  },
+  {
+    "id": "417",
+    "title": "Intentar",
+    "english_title": "Try",
+    "example": "Intentamos confundir al enemigo.",
+    "english_example": "We tried to confuse the enemy.",
+    "verb": "i"
+  },
+  {
+    "id": "418",
+    "title": "Entender",
+    "english_title": "Understand",
+    "example": "Sabía que lo entenderías.",
+    "english_example": "I knew you'd understand.",
+    "verb": "e"
+  },
+  {
+    "id": "419",
+    "title": "Aspirar",
+    "english_title": "Vacuum",
+    "example": "Tom aspiró su dormitorio.",
+    "english_example": "Tom vacuumed his bedroom.",
+    "verb": "a"
+  },
+  {
+    "id": "420",
+    "title": "Valorar",
+    "english_title": "Value",
+    "example": "Valoramos a nuestros clientes.",
+    "english_example": "We value our customers.",
+    "verb": "v"
+  },
+  {
+    "id": "421",
+    "title": "Variar",
+    "english_title": "Vary",
+    "example": "Las cajas varían en tamaño de pequeña a grande.",
+    "english_example": "The boxes vary in size from small to large.",
+    "verb": "v"
+  },
+  {
+    "id": "422",
+    "title": "Voluntario",
+    "english_title": "Volunteer",
+    "example": "Ellos trabajan como voluntarios para enseñar cursos introductorios.",
+    "english_example": "They volunteer to teach introductory courses.",
+    "verb": "v"
+  },
+  {
+    "id": "423",
+    "title": "Esperar",
+    "english_title": "Wait",
+    "example": "No puedo esperar para verte.",
+    "english_example": "I can't wait to see you.",
+    "verb": "e"
+  },
+  {
+    "id": "424",
+    "title": "Despertar",
+    "english_title": "Wake",
+    "example": "Tengo que despertar a Tom.",
+    "english_example": "I have to wake Tom up.",
+    "verb": "d"
+  },
+  {
+    "id": "425",
+    "title": "Caminar",
+    "english_title": "Walk",
+    "example": "No intentes caminar antes de poder gatear.",
+    "english_example": "Don't try to walk before you can crawl.",
+    "verb": "c"
+  },
+  {
+    "id": "426",
+    "title": "Querer",
+    "english_title": "Want",
+    "example": "Quiero ver televisión.",
+    "english_example": "I want to watch TV.",
+    "verb": "q"
+  },
+  {
+    "id": "427",
+    "title": "Advertir",
+    "english_title": "Warn",
+    "example": "Tenemos que advertir a Tom.",
+    "english_example": "We've got to warn Tom.",
+    "verb": "a"
+  },
+  {
+    "id": "428",
+    "title": "Lavar",
+    "english_title": "Wash",
+    "example": "Tom se lavó las manos.",
+    "english_example": "Tom washed his hands.",
+    "verb": "l"
+  },
+  {
+    "id": "429",
+    "title": "Mirar",
+    "english_title": "Watch",
+    "example": "Vimos una película.",
+    "english_example": "We watched a movie.",
+    "verb": "m"
+  },
+  {
+    "id": "430",
+    "title": "SAludar",
+    "english_title": "Wave",
+    "example": "Ella me saludó con la mano.",
+    "english_example": "She waved her hand to me.",
+    "verb": "s"
+  },
+  {
+    "id": "431",
+    "title": "Usar",
+    "english_title": "Wear",
+    "example": "Tom usaba pantalones negros.",
+    "english_example": "Tom wore black pants.",
+    "verb": "u"
+  },
+  {
+    "id": "432",
+    "title": "Llorar",
+    "english_title": "Weep",
+    "example": "Ella lloró por la muerte de su hijo.",
+    "english_example": "She wept over her child's death.",
+    "verb": "l"
+  },
+  {
+    "id": "433",
+    "title": "Pesar",
+    "english_title": "Weigh",
+    "example": "La maleta pesa 20 libras.",
+    "english_example": "The suitcase weighs 20 pounds.",
+    "verb": "p"
+  },
+  {
+    "id": "434",
+    "title": "Azotar",
+    "english_title": "Whip",
+    "example": "Ella sacó su pistola.",
+    "english_example": "She whipped out her pistol.",
+    "verb": "a"
+  },
+  {
+    "id": "435",
+    "title": "Werden",
+    "english_title": "Will",
+    "example": "Ich glaube nicht, dass Emma den Job bekommen wird.",
+    "english_example": "I don't think Emma will get the job.",
+    "verb": "w"
+  },
+  {
+    "id": "436",
+    "title": "Gewinnen",
+    "english_title": "Win",
+    "example": "Ich kann dieses Mal gewinnen.",
+    "english_example": "I can win this time.",
+    "verb": "g"
+  },
+  {
+    "id": "437",
+    "title": "Wünschen",
+    "english_title": "Wish",
+    "example": "Ich wünsche, eine Anzeige in Ihrer Zeitung einzufügen.",
+    "english_example": "I wish to insert an advertisement in your newspaper.",
+    "verb": "w"
+  },
+  {
+    "id": "438",
+    "title": "Würden",
+    "english_title": "Would",
+    "example": "Wenn ich auf einer Insel leben würde, wüsste ich, wie man schwimmt.",
+    "english_example": "If I lived on an island, I would know how to swim.",
+    "verb": "w"
+  },
+  {
+    "id": "439",
+    "title": "Schreiben",
+    "english_title": "Write",
+    "example": "Schreibe es auf ein Stück Papier.",
+    "english_example": "Write it down on a piece of paper.",
+    "verb": "s"
+  }
+]

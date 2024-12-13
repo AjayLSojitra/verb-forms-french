@@ -1,0 +1,27 @@
+[
+  {
+    "prepositionsName": "Accusative Prepositions",
+    "slug": "0_accusative_prepositions",
+    "id": "0"
+  },
+  {
+    "prepositionsName": "Nominative Prepositions",
+    "slug": "1_nominative_prepositions",
+    "id": "1"
+  },
+  {
+    "prepositionsName": "Dative Prepositions",
+    "slug": "2_dative_prepositions",
+    "id": "2"
+  },
+  {
+    "prepositionsName": "Two-Way Prepositions",
+    "slug": "3_two_way_prepositions",
+    "id": "3"
+  },
+  {
+    "prepositionsName": "Genitive Prepositions",
+    "slug": "4_genitive_prepositions",
+    "id": "4"
+  }
+]

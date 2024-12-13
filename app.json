@@ -1,0 +1,128 @@
+{
+  "expo": {
+    "scheme": "verb-forms-spanish",
+    "extra": {
+      "eas": {
+        "projectId": "732aedda-1cd6-41fc-8a5a-a3b1cf36e2ac",
+        "build": {
+          "experimental": {
+            "ios": {
+              "appExtensions": [
+                {
+                  "targetName": "OneSignalNotificationServiceExtension",
+                  "bundleIdentifier": "shreeramkrishna.verbforms.spanish.verbs.forms.OneSignalNotificationServiceExtension",
+                  "entitlements": {
+                    "com.apple.security.application-groups": [
+                      "group.shreeramkrishna.verbforms.spanish.verbs.forms.onesignal"
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "oneSignalAppId": "69bb2b08-bbb2-44c5-8352-b016ab42f5a2",
+      "mode": "dev",
+      "firebaseWeb": {
+        "apiKey": "AIzaSyAuAtZ_TBNGau0E-8ILytbLupsPBZh7mPo",
+        "authDomain": "verbforms-spanish.firebaseapp.com",
+        "projectId": "verbforms-spanish",
+        "storageBucket": "verbforms-spanish.firebasestorage.app",
+        "messagingSenderId": "90725291137",
+        "appId": "1:90725291137:web:58001bdce64d888763a980",
+        "measurementId": "G-Q1G73MG8JY"
+      }
+    },
+    "name": "verb-forms-spanish",
+    "slug": "verb-forms-spanish",
+    "owner": "ajaylsojitra",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F1BF00"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "url": "https://u.expo.dev/732aedda-1cd6-41fc-8a5a-a3b1cf36e2ac"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "shreeramkrishna.verbforms.spanish.verbs.forms",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Verb Forms - Spanish does not access your location. This permission is included to meet App Store requirements, but the app does not utilize location services for any functionality.",
+        "NSMicrophoneUsageDescription": "Verb Forms - Spanish does not access your microphone or any sensitive user data. This permission is included by default and is not used by the app. Your privacy and security are important to us."
+      }
+    },
+    "android": {
+      "package": "shreeramkrishna.verbforms.spanish.verbs.forms",
+      "enableProguardInReleaseBuilds": true,
+      "enableShrinkResourcesInReleaseBuilds": true,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.prod.png",
+        "backgroundColor": "#ffffff"
+      },
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.prod.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/crashlytics",
+      "./plugins/withAndroidVerifiedLinksWorkaround",
+      [
+        "expo-build-properties",
+        {
+          "ios": {
+            "useFrameworks": "static"
+          }
+        }
+      ],
+      [
+        "expo-tracking-transparency",
+        {
+          "userTrackingPermission": "This identifier will be used to deliver personalized ads to you."
+        }
+      ],
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "compileSdkVersion": 34,
+            "kotlinVersion": "1.6.21",
+            "versionCode": 1
+          },
+          "ios": {
+            "deploymentTarget": "14.0"
+          }
+        }
+      ],
+      [
+        "onesignal-expo-plugin",
+        {
+          "mode": "production"
+        }
+      ]
+    ],
+    "experiments": {
+      "tsconfigPaths": true
+    }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1802560534115589~2164912800",
+    "ios_app_id": "ca-app-pub-1802560534115589~4436687077"
+  }
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "preposition": "a",
+    "preposition_english": "to",
+    "article": "el",
+    "article_english": "the",
+    "contraction": "al",
+    "contraction_english": "to the",
+    "exampleSentence": "A mile to the south",
+    "id": "0"
+  },
+  {
+    "preposition": "a",
+    "preposition_english": "to",
+    "article": "ese",
+    "article_english": "that",
+    "contraction": "al",
+    "contraction_english": "to that",
+    "exampleSentence": "She said she was unhappy, or words to that effect",
+    "id": "1"
+  },
+  {
+    "preposition": "sobre",
+    "preposition_english": "on",
+    "article": "el",
+    "article_english": "the",
+    "contraction": "sobre el",
+    "contraction_english": "on the",
+    "exampleSentence": "The book is lying on the table",
+    "id": "2"
+  },
+  {
+    "preposition": "en",
+    "preposition_english": "at",
+    "article": "ese",
+    "article_english": "that",
+    "contraction": "en ese",
+    "contraction_english": "at that",
+    "exampleSentence": "It's too expensive, and probably out-of-date at that",
+    "id": "3"
+  },
+  {
+    "preposition": "a través de",
+    "preposition_english": "through",
+    "article": "el",
+    "article_english": "the",
+    "contraction": "a través del",
+    "contraction_english": "through the",
+    "exampleSentence": "I looked through the window",
+    "id": "4"
+  },
+  {
+    "preposition": "para",
+    "preposition_english": "for",
+    "article": "el",
+    "article_english": "the",
+    "contraction": "para el",
+    "contraction_english": "for the",
+    "exampleSentence": "This tree was the first choice for the man.",
+    "id": "5"
+  },
+  {
+    "preposition": "en",
+    "preposition_english": "in",
+    "article": "el",
+    "article_english": "the",
+    "contraction": "en el",
+    "contraction_english": "in the",
+    "exampleSentence": "We went for a swim in the lake",
+    "id": "6"
+  },
+  {
+    "preposition": "en",
+    "preposition_english": "in",
+    "article": "ese",
+    "article_english": "that",
+    "contraction": "en ese",
+    "contraction_english": "in that",
+    "exampleSentence": "John is different from Jane in that he is taller and has dark hair.",
+    "id": "7"
+  },
+  {
+    "preposition": "sobre",
+    "preposition_english": "above",
+    "article": "el",
+    "article_english": "the",
+    "contraction": "sobre el",
+    "contraction_english": "above the",
+    "exampleSentence": "The light is above the table",
+    "id": "8"
+  },
+  {
+    "preposition": "alrededor de",
+    "preposition_english": "around",
+    "article": "el",
+    "article_english": "the",
+    "contraction": "alrededor del",
+    "contraction_english": "around the",
+    "exampleSentence": "She walked around the park to clear her mind",
+    "id": "9"
+  },
+  {
+    "preposition": "debajo de",
+    "preposition_english": "under",
+    "article": "el",
+    "article_english": "the",
+    "contraction": "debajo del",
+    "contraction_english": "under the",
+    "exampleSentence": "The cat is under the table",
+    "id": "10"
+  },
+  {
+    "preposition": "de",
+    "preposition_english": "from",
+    "article": "ese",
+    "article_english": "that",
+    "contraction": "del",
+    "contraction_english": "from that",
+    "exampleSentence": "But aside from that, I couldn't help but notice that faraway look he had",
+    "id": "11"
+  },
+  {
+    "preposition": "antes de",
+    "preposition_english": "before",
+    "article": "el",
+    "article_english": "the",
+    "contraction": "antes del",
+    "contraction_english": "before the",
+    "exampleSentence": "The candidates before the voters",
+    "id": "12"
+  },
+  {
+    "preposition": "antes de",
+    "preposition_english": "before",
+    "article": "ese",
+    "article_english": "that",
+    "contraction": "antes de ese",
+    "contraction_english": "before that",
+    "exampleSentence": "There was more legal back and forth before that",
+    "id": "13"
+  },
+  {
+    "preposition": "a",
+    "preposition_english": "to",
+    "article": "ese",
+    "article_english": "that",
+    "contraction": "al",
+    "contraction_english": "to that",
+    "exampleSentence": "They said there had been an accident, or something to that effect",
+    "id": "14"
+  },
+  {
+    "preposition": "a",
+    "preposition_english": "to",
+    "article": "la",
+    "article_english": "the",
+    "contraction": "a la",
+    "contraction_english": "to the",
+    "exampleSentence": "Applied polish to the table",
+    "id": "15"
+  }
+]

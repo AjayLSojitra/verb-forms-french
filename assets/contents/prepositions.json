@@ -1,0 +1,261 @@
+[
+  {
+    "description": "until next week",
+    "example": "hasta la próxima semana",
+    "slug": "0_accusative_prepositions",
+    "title": "Hasta (by, to, until, up to)",
+    "id": "0"
+  },
+  {
+    "description": "We’re walking through the gate",
+    "example": "Estamos caminando por la puerta",
+    "slug": "0_accusative_prepositions",
+    "title": "Por (through, across)",
+    "id": "1"
+  },
+  {
+    "description": "She drives down the street",
+    "example": "Ella conduce por la calle",
+    "slug": "0_accusative_prepositions",
+    "title": "Por (along, down)",
+    "id": "2"
+  },
+  {
+    "description": "He cooks for his girlfriend",
+    "example": "Él cocina para su novia",
+    "slug": "0_accusative_prepositions",
+    "title": "Para (for)",
+    "id": "3"
+  },
+  {
+    "description": "against the wall",
+    "example": "contra la pared",
+    "slug": "0_accusative_prepositions",
+    "title": "Contra (against, for)",
+    "id": "4"
+  },
+  {
+    "description": "without water",
+    "example": "sin agua",
+    "slug": "0_accusative_prepositions",
+    "title": "Sin (without)",
+    "id": "5"
+  },
+  {
+    "description": "at midnight",
+    "example": "a medianoche",
+    "slug": "0_accusative_prepositions",
+    "title": "A (at, around)",
+    "id": "6"
+  },
+  {
+    "description": "I'll be away for a week",
+    "example": "Estaré fuera por una semana",
+    "slug": "2_dative_prepositions",
+    "title": "Lejos (away)",
+    "id": "7"
+  },
+  {
+    "description": "from the supermarket",
+    "example": "del supermercado",
+    "slug": "2_dative_prepositions",
+    "title": "De (from, out of)",
+    "id": "8"
+  },
+  {
+    "description": "bei meinem Vater Haus",
+    "example": "en la casa de mi padre",
+    "slug": "2_dative_prepositions",
+    "title": "En (at, near)",
+    "id": "9"
+  },
+  {
+    "description": "with my mum",
+    "example": "con mi madre",
+    "slug": "2_dative_prepositions",
+    "title": "Con (with)",
+    "id": "10"
+  },
+  {
+    "description": "after school",
+    "example": "después de la escuela",
+    "slug": "2_dative_prepositions",
+    "title": "Después de (after, to)",
+    "id": "11"
+  },
+  {
+    "description": "since February",
+    "example": "desde febrero",
+    "slug": "2_dative_prepositions",
+    "title": "Desde (since, for)",
+    "id": "12"
+  },
+  {
+    "description": "away from home",
+    "example": "lejos de casa",
+    "slug": "2_dative_prepositions",
+    "title": "De (from, of)",
+    "id": "13"
+  },
+  {
+    "description": "to go to the shops",
+    "example": "ir a las tiendas",
+    "slug": "2_dative_prepositions",
+    "title": "A (to)",
+    "id": "14"
+  },
+  {
+    "description": "the brakes are on",
+    "example": "los frenos están encendidos",
+    "slug": "3_two_way_prepositions",
+    "title": "A (to, on)",
+    "id": "15"
+  },
+  {
+    "description": "The wedding season is upon us",
+    "example": "La temporada de bodas está sobre nosotros",
+    "slug": "3_two_way_prepositions",
+    "title": "Sobre (on, upon)",
+    "id": "16"
+  },
+  {
+    "description": "she was behind with her rent",
+    "example": "Ella estaba atrasada con su alquiler",
+    "slug": "3_two_way_prepositions",
+    "title": "Detrás de (behind)",
+    "id": "17"
+  },
+  {
+    "description": "pour the milk into a bowl",
+    "example": "Vierte la leche en un tazón",
+    "slug": "3_two_way_prepositions",
+    "title": "En (in, into)",
+    "id": "18"
+  },
+  {
+    "description": "We had a picnic next to the river",
+    "example": "Hicimos un picnic al lado del río",
+    "slug": "3_two_way_prepositions",
+    "title": "Al lado de (next to)",
+    "id": "19"
+  },
+  {
+    "description": "Something darted out in front of my car.",
+    "example": "Algo salió disparado frente a mi coche.",
+    "slug": "3_two_way_prepositions",
+    "title": "Delante de (in front of)",
+    "id": "20"
+  },
+  {
+    "description": "You can go instead of me, if you want",
+    "example": "Puedes ir en mi lugar, si quieres",
+    "slug": "4_genitive_prepositions",
+    "title": "En lugar de (instead of)",
+    "id": "21"
+  },
+  {
+    "description": "The park is on this side of the river.",
+    "example": "El parque está de este lado del río.",
+    "slug": "4_genitive_prepositions",
+    "title": "De este lado de, al otro lado de, a ambos lados de (on this side of, on the other side of, on either side of)",
+    "id": "22"
+  },
+  {
+    "description": "I'll meet you outside the café",
+    "example": "Nos encontraremos fuera del café",
+    "slug": "4_genitive_prepositions",
+    "title": "Fuera de, dentro de, arriba de, debajo de (outside, inside, above, below)",
+    "id": "23"
+  },
+  {
+    "description": "Trains are still running, despite the snow",
+    "example": "Los trenes aún funcionan, a pesar de la nieve",
+    "slug": "4_genitive_prepositions",
+    "title": "A pesar de (in spite of/despite)",
+    "id": "24"
+  },
+  {
+    "description": "We got along well during the trip",
+    "example": "Nos llevamos bien durante el viaje",
+    "slug": "4_genitive_prepositions",
+    "title": "Durante (during)",
+    "id": "25"
+  },
+  {
+    "description": "She's got the nicest little house not far from the library",
+    "example": "Ella tiene la casa más bonita, no lejos de la biblioteca",
+    "slug": "4_genitive_prepositions",
+    "title": "No lejos de (not far from)",
+    "id": "26"
+  },
+  {
+    "description": "Because of the rain, the tennis match was stopped",
+    "example": "Debido a la lluvia, el partido de tenis fue suspendido",
+    "slug": "4_genitive_prepositions",
+    "title": "Debido a (because of)",
+    "id": "27"
+  },
+  {
+    "description": "The earth moves around the sun",
+    "example": "La tierra se mueve alrededor del sol",
+    "slug": "1_nominative_prepositions",
+    "title": "El (the [masculine singular])",
+    "id": "28"
+  },
+  {
+    "description": "The book that I read last night was great",
+    "example": "El libro que leí anoche fue genial",
+    "slug": "1_nominative_prepositions",
+    "title": "El (the [neuter singular])",
+    "id": "29"
+  },
+  {
+    "description": "The books were all over the floor",
+    "example": "Los libros estaban por todo el suelo",
+    "slug": "1_nominative_prepositions",
+    "title": "Los (the [feminine singular; plural for all genders])",
+    "id": "30"
+  },
+  {
+    "description": "Police are searching for a 14-year-old girl",
+    "example": "La policía está buscando a una niña de 14 años",
+    "slug": "1_nominative_prepositions",
+    "title": "Un (a/an [masculine singular])",
+    "id": "31"
+  },
+  {
+    "description": "She is a pupil at London Road School",
+    "example": "Ella es estudiante en la London Road School",
+    "slug": "1_nominative_prepositions",
+    "title": "Un (a/an [neuter singular])",
+    "id": "32"
+  },
+  {
+    "description": "I have a sister and a brother",
+    "example": "Tengo una hermana y un hermano",
+    "slug": "1_nominative_prepositions",
+    "title": "Una (a/an [feminine singular])",
+    "id": "33"
+  },
+  {
+    "description": "There weren't any technical problems",
+    "example": "No hubo problemas técnicos.",
+    "slug": "1_nominative_prepositions",
+    "title": "ninguno (no/not any [masculine singular])",
+    "id": "34"
+  },
+  {
+    "description": "There isn't any reason to be afraid of her",
+    "example": "No hay por qué tenerle miedo.",
+    "slug": "1_nominative_prepositions",
+    "title": "No (no/not any [neuter singular])",
+    "id": "35"
+  },
+  {
+    "description": "There aren't any biscuits left. They've eaten them all",
+    "example": "No quedan galletas. Se los comieron todos",
+    "slug": "1_nominative_prepositions",
+    "title": "No (no/not any [singular feminine / all plurals])",
+    "id": "36"
+  }
+]
