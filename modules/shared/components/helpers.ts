@@ -65,21 +65,21 @@ export async function rateMyApp() {
 const isAndroid = Platform.OS === "android";
 export const staticAppOpenAd = isAndroid ? "" : "";
 export const staticBannerAd = isAndroid
-  ? "ca-app-pub-1802560534115589/7245849092"
-  : "ca-app-pub-1802560534115589/8454427908";
+  ? "ca-app-pub-1802560534115589/4804974855"
+  : "ca-app-pub-1802560534115589/7981802535";
 export const staticInterstitialAd = isAndroid
-  ? "ca-app-pub-1802560534115589/1710451383"
-  : "ca-app-pub-1802560534115589/7141346239";
+  ? "ca-app-pub-1802560534115589/2489631263"
+  : "ca-app-pub-1802560534115589/2402172798";
 export const staticRewardAd = isAndroid
-  ? "ca-app-pub-1802560534115589/5932767421"
-  : "ca-app-pub-1802560534115589/3592983465";
+  ? "ca-app-pub-1802560534115589/3491893182"
+  : "ca-app-pub-1802560534115589/8863467921";
 export const staticInterstitialAdIntervalClicks = 10;
 export const staticInterstitialAdIntervalSeconds = 60;
 export const staticPrivacyPolicy =
   "https://doc-hosting.flycricket.io/srkwebstudio-privacy-policy/64f68df3-4304-4de0-84b6-8b293a40f23b/privacy";
 export const staticAppStoreLink =
-  "https://apps.apple.com/app/verb-forms-french/id0123456789";
-export const staticAPPLE_STORE_ID = "id0123456789";
+  "https://apps.apple.com/app/verb-forms-french/id6739424081";
+export const staticAPPLE_STORE_ID = "id6739424081";
 export const staticSupportEmail = "srkwebstudio@gmail.com";
 export const staticPoweredBy = "SRKWebstudio";
 export const staticAndroidPackageName =

@@ -6,13 +6,13 @@ module.exports = {
   extra: {
     mode: "prod",
     firebaseWeb: {
-      apiKey: "AIzaSyAuAtZ_TBNGau0E-8ILytbLupsPBZh7mPo",
-      authDomain: "verbforms-french.firebaseapp.com",
-      projectId: "verbforms-french",
-      storageBucket: "verbforms-french.firebasestorage.app",
-      messagingSenderId: "90725291137",
-      appId: "1:90725291137:web:58001bdce64d888763a980",
-      measurementId: "G-Q1G73MG8JY",
+      apiKey: "AIzaSyAWiHgfrM0tPdzc7dzNjA8cLg8Yx6q_6Kk",
+      authDomain: "verb-forms-french.firebaseapp.com",
+      projectId: "verb-forms-french",
+      storageBucket: "verb-forms-french.firebasestorage.app",
+      messagingSenderId: "8532305573",
+      appId: "1:8532305573:web:c43bed8a008bfcea668f4c",
+      measurementId: "G-35Q04N431T",
     },
   },
   android: {

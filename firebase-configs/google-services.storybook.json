@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "90725291137",
-    "project_id": "verbforms-french",
-    "storage_bucket": "verbforms-french.firebasestorage.app"
+    "project_number": "8532305573",
+    "project_id": "verb-forms-french",
+    "storage_bucket": "verb-forms-french.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:90725291137:android:f25e1c6b57d425b863a980",
+        "mobilesdk_app_id": "1:8532305573:android:5d6629d92097c275668f4c",
         "android_client_info": {
           "package_name": "shreeramkrishna.verbforms.french.verbs.forms"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBXw_dajKU132pQglGLQ3RWttq916QAhjY"
+          "current_key": "AIzaSyCD9dQxForEkmItFl7QvaOL0GDM2_xENFo"
         }
       ],
       "services": {

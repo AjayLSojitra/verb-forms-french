@@ -22,16 +22,16 @@
           }
         }
       },
-      "oneSignalAppId": "69bb2b08-bbb2-44c5-8352-b016ab42f5a2",
+      "oneSignalAppId": "3367d2ec-ae7d-4fe8-89dd-acad0288aa2d",
       "mode": "dev",
       "firebaseWeb": {
-        "apiKey": "AIzaSyAuAtZ_TBNGau0E-8ILytbLupsPBZh7mPo",
-        "authDomain": "verbforms-french.firebaseapp.com",
-        "projectId": "verbforms-french",
-        "storageBucket": "verbforms-french.firebasestorage.app",
-        "messagingSenderId": "90725291137",
-        "appId": "1:90725291137:web:58001bdce64d888763a980",
-        "measurementId": "G-Q1G73MG8JY"
+        "apiKey": "AIzaSyAWiHgfrM0tPdzc7dzNjA8cLg8Yx6q_6Kk",
+        "authDomain": "verb-forms-french.firebaseapp.com",
+        "projectId": "verb-forms-french",
+        "storageBucket": "verb-forms-french.firebasestorage.app",
+        "messagingSenderId": "8532305573",
+        "appId": "1:8532305573:web:c43bed8a008bfcea668f4c",
+        "measurementId": "G-35Q04N431T"
       }
     },
     "name": "verb-forms-french",
@@ -54,9 +54,7 @@
     "runtimeVersion": {
       "policy": "appVersion"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "shreeramkrishna.verbforms.french.verbs.forms",
@@ -122,7 +120,7 @@
     }
   },
   "react-native-google-mobile-ads": {
-    "android_app_id": "ca-app-pub-1802560534115589~2164912800",
-    "ios_app_id": "ca-app-pub-1802560534115589~4436687077"
+    "android_app_id": "ca-app-pub-1802560534115589~4054165813",
+    "ios_app_id": "ca-app-pub-1802560534115589~4553693411"
   }
 }

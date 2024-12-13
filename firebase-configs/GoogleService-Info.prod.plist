@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyArro_v-OWQGDUAPqXn0xerftWCp_AODaQ</string>
+	<string>AIzaSyAG_1w-s39bbuDogYDktW5bYONQ6QOdjys</string>
 	<key>GCM_SENDER_ID</key>
-	<string>90725291137</string>
+	<string>8532305573</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>shreeramkrishna.verbforms.french.verbs.forms</string>
 	<key>PROJECT_ID</key>
-	<string>verbforms-french</string>
+	<string>verb-forms-french</string>
 	<key>STORAGE_BUCKET</key>
-	<string>verbforms-french.firebasestorage.app</string>
+	<string>verb-forms-french.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:90725291137:ios:c67e0c87be6f014a63a980</string>
+	<string>1:8532305573:ios:c9944a8b333e9eab668f4c</string>
 </dict>
 </plist>

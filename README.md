@@ -250,7 +250,7 @@ App ID Prefix
 7369W8W466 (Team ID)
 
 Apple ID
-6738841631
+6739424081
 
 - iOS
 
@@ -310,25 +310,25 @@ Apple ID
     - Now your build will be in review, now wait for app to publish.
 
 - While start new project with copy and paste old one:
-  - Change the static ads ids, helpers.ts and on firebase
+  ✔ Change the static ads ids, helpers.ts and on firebase
   ✔ Package name and bundle ids in app.json.
   ✔ Replace App name from whole project.
   ✔ Craete Adaptive icon, favicons, icon, splash, app icon if present in images folder of Assets.
   - Firebase Database creation.
   ✔ Remove unneccesary Assets.
-  - Replace android_app_id and ios_app_id under react-native-google-mobile-ads in app.json.
+  ✔ Replace android_app_id and ios_app_id under react-native-google-mobile-ads in app.json.
   ✔ Expo: Project id, slug, name, owner in app.json
-  - Replace oneSignalAppId in app.json
+  ✔ Replace oneSignalAppId in app.json
   ✔ Replace name in package.json
-  - Replace All google services json and GoogleService-info.plist files under firebase-config folder.
+  ✔ Replace All google services json and GoogleService-info.plist files under firebase-config folder.
   ✔ Remove Credentials folder.
   - Replace Share App Message.
-  - Replace the ascAppId in eas.json file.
-  - Enable Firebase Appcheck.
-  - Enable Firebase Analytics.
-  - Enable Firebase Crashlytics.
-  - Enable Anonymous firebase authentication from Authentication section.
-  - Firebase rules will be: allow read, write: if request.auth.uid != null;
+  ✔ Replace the ascAppId in eas.json file.
+  ✔ Enable Firebase Appcheck.
+  ✔ Enable Firebase Analytics.
+  ✔ Enable Firebase Crashlytics.
+  ✔ Enable Anonymous firebase authentication from Authentication section.
+  ✔ Firebase rules will be: allow read, write: if request.auth.uid != null;
   - Store all the accounts details in Google Drive.
   ✔ Change the Primary and Primary secondary color codes.
   ✔ Update url in expo -> updates -> url. In app.json file.
