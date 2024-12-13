@@ -20,7 +20,7 @@ function EmptyStateNormal({
           height: 32,
           width: 32,
           alignSelf: "center",
-          tintColor: "#F1BF00",
+          tintColor: "#000091",
         }}
         alt={"noData"}
       />

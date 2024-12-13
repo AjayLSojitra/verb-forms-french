@@ -161,7 +161,7 @@ export default function TutorialsScreen() {
               style={{
                 paddingHorizontal: isPhoneDevice ? 4 : 6,
                 paddingVertical: isPhoneDevice ? 4 : 6,
-                backgroundColor: "#AA151B",
+                backgroundColor: "#000091",
                 borderRadius: isPhoneDevice ? 8 : 12,
               }}
               hitSlop={HIT_SLOP}

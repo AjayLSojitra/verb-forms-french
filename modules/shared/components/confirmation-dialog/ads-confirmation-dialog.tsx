@@ -101,7 +101,7 @@ function AdsConfirmationDialog(props: Readonly<AdsConfirmationDialogProps>) {
                 hideShadow
                 width={responsiveWidth / 2 - 50}
                 height={46}
-                linearGradientProps={{ colors: ["#AA151B", "#AA151B"] }}
+                linearGradientProps={{ colors: ["#000091", "#000091"] }}
                 onPress={() => {
                   setChangeShowDialogStatus(!showDialog);
                   onPositivePress();

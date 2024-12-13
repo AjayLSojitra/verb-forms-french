@@ -189,7 +189,7 @@ function WelcomeScreen() {
               width: isPhoneDevice ? 64 : 96,
               height: isPhoneDevice ? 64 : 96,
               resizeMode: "contain",
-              tintColor: "#AA151B",
+              tintColor: "#000091",
             }}
             source={images.fiveStarRating}
           />
@@ -218,7 +218,7 @@ function WelcomeScreen() {
               style={{
                 paddingHorizontal: isPhoneDevice ? 8 : 12,
                 paddingVertical: isPhoneDevice ? 8 : 12,
-                backgroundColor: "#AA151B",
+                backgroundColor: "#000091",
                 borderRadius: isPhoneDevice ? 12 : 18,
               }}
               hitSlop={HIT_SLOP}
@@ -239,7 +239,7 @@ function WelcomeScreen() {
                     height: isPhoneDevice ? 20 : 30,
                     width: isPhoneDevice ? 20 : 30,
                     alignSelf: "center",
-                    tintColor: "#F1BF00",
+                    tintColor: "#FFFFFF",
                   }}
                   alt={"share"}
                 />
@@ -250,7 +250,7 @@ function WelcomeScreen() {
               style={{
                 paddingHorizontal: isPhoneDevice ? 8 : 12,
                 paddingVertical: isPhoneDevice ? 8 : 12,
-                backgroundColor: "#AA151B",
+                backgroundColor: "#000091",
                 borderRadius: isPhoneDevice ? 8 : 12,
               }}
               hitSlop={HIT_SLOP}
@@ -271,7 +271,7 @@ function WelcomeScreen() {
                   height: isPhoneDevice ? 24 : 36,
                   width: isPhoneDevice ? 24 : 36,
                   alignSelf: "center",
-                  tintColor: "#F1BF00",
+                  tintColor: "#FFFFFF",
                 }}
                 alt={"settings"}
               />
@@ -284,7 +284,7 @@ function WelcomeScreen() {
               style={{
                 paddingHorizontal: isPhoneDevice ? 8 : 12,
                 paddingVertical: isPhoneDevice ? 8 : 12,
-                backgroundColor: "#AA151B",
+                backgroundColor: "#000091",
                 borderRadius: isPhoneDevice ? 8 : 12,
               }}
               hitSlop={HIT_SLOP}
@@ -306,7 +306,7 @@ function WelcomeScreen() {
                   height: isPhoneDevice ? 24 : 36,
                   width: isPhoneDevice ? 24 : 36,
                   alignSelf: "center",
-                  tintColor: "#F1BF00",
+                  tintColor: "#FFFFFF",
                 }}
                 alt={"help"}
               />
@@ -321,7 +321,7 @@ function WelcomeScreen() {
               style={{
                 paddingHorizontal: isPhoneDevice ? 8 : 12,
                 paddingVertical: isPhoneDevice ? 8 : 12,
-                backgroundColor: "#AA151B",
+                backgroundColor: "#000091",
                 borderRadius: isPhoneDevice ? 12 : 18,
               }}
               hitSlop={HIT_SLOP}
@@ -342,7 +342,7 @@ function WelcomeScreen() {
                     height: isPhoneDevice ? 24 : 36,
                     width: isPhoneDevice ? 24 : 36,
                     alignSelf: "center",
-                    tintColor: "#F1BF00",
+                    tintColor: "#FFFFFF",
                   }}
                   alt={"rating"}
                 />
@@ -368,6 +368,7 @@ function WelcomeScreen() {
               width: isPhoneDevice ? 144 : 216,
               alignSelf: "center",
               resizeMode: "center",
+              borderRadius: 12,
             }}
             alt={"icon"}
           />

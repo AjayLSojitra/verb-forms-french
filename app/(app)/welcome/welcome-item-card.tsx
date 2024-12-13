@@ -23,7 +23,7 @@ function WelcomeItemCard({
       <BasicButton
         height={isPhoneDevice ? 74 : 111}
         width={responsiveWidth - (isPhoneDevice ? 48 : 12)}
-        linearGradientProps={{ colors: ["#AA151B", "#AA151B"] }}
+        linearGradientProps={{ colors: ["#000091", "#000091"] }}
         onPress={onPress}
       >
         <YStack

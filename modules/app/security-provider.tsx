@@ -74,7 +74,7 @@ function SecurityProvider(props: {
         <BasicButton
           height={38}
           width={100}
-          linearGradientProps={{ colors: ["#AA151B", "#AA151B"] }}
+          linearGradientProps={{ colors: ["#000091", "#000091"] }}
           onPress={() => {
             try {
               BackHandler.exitApp();

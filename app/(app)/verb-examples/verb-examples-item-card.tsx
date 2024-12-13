@@ -53,7 +53,7 @@ function VerbExamplesItemCard({
                   width: isPhoneDevice ? 18 : 27,
                   height: isPhoneDevice ? 18 : 27,
                   resizeMode: "contain",
-                  tintColor: "#AA151B",
+                  tintColor: "#000091",
                 }}
                 source={images.soundOnWhite}
               />

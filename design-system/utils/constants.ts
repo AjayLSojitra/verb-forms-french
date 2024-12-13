@@ -67,13 +67,13 @@ export const GRADIENTS = {
     end: { x: 0, y: 0.5 },
   },
   primary: {
-    colors: ["#AA151B", "#AA151B"],
+    colors: ["#000091", "#000091"],
     locations: [0, 1],
     start: { x: 0.4999999999999999, y: 0 },
     end: { x: 0.5000000000000001, y: 1 },
   },
   primaryPressed: {
-    colors: ["#AA151B", "#AA151B"],
+    colors: ["#000091", "#000091"],
     start: { x: 0.4999999999999999, y: 0 },
     locations: [0, 1],
     end: { x: 0.5000000000000001, y: 1 },
@@ -85,13 +85,13 @@ export const GRADIENTS = {
     end: { x: 1, y: 1 },
   },
   secondary: {
-    colors: ["#AA151B", "#AA151B"],
+    colors: ["#000091", "#000091"],
     locations: [0, 1],
     start: { x: 0.4999999999999999, y: 0 },
     end: { x: 0.5000000000000001, y: 1 },
   },
   secondaryPressed: {
-    colors: ["#AA151B", "#AA151B"],
+    colors: ["#000091", "#000091"],
     start: { x: 0.4999999999999999, y: 0 },
     locations: [0, 1],
     end: { x: 0.5000000000000001, y: 1 },

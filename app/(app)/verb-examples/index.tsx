@@ -183,7 +183,7 @@ function VerbExamplesScreen() {
               style={{
                 paddingHorizontal: isPhoneDevice ? 4 : 12,
                 paddingVertical: isPhoneDevice ? 4 : 12,
-                backgroundColor: "#AA151B",
+                backgroundColor: "#000091",
                 borderRadius: isPhoneDevice ? 8 : 12,
               }}
               hitSlop={HIT_SLOP}

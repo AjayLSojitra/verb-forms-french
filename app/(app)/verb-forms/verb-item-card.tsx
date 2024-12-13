@@ -20,7 +20,7 @@ function VerbItemCard({
       <BasicButton
         height={width}
         width={width}
-        linearGradientProps={{ colors: ["#AA151B", "#AA151B"] }}
+        linearGradientProps={{ colors: ["#000091", "#000091"] }}
         unstable_pressDelay={100}
         onPress={onPress}
       >

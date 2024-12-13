@@ -234,7 +234,7 @@ function AddContentsScreen() {
             <BasicButton
               height={isPhoneDevice ? 48 : 72}
               disabledLinearGradientProps={{ colors: ["#a1a1aa", "#a1a1aa"] }}
-              linearGradientProps={{ colors: ["#AA151B", "#AA151B"] }}
+              linearGradientProps={{ colors: ["#000091", "#000091"] }}
               onPress={async () => {
                 const feedback = watch("feedback") ?? "";
                 if (feedback.length > 0) {

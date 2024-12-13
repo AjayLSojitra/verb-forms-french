@@ -72,7 +72,7 @@ function CodeTamperingCheck(props: JailbreakCheckProps) {
       <BasicButton
         height={38}
         width={100}
-        linearGradientProps={{ colors: ["#AA151B", "#AA151B"] }}
+        linearGradientProps={{ colors: ["#000091", "#000091"] }}
         onPress={() => {
           Linking.openURL(
             `https://play.google.com/store/apps/details?id=${staticAndroidPackageName}`

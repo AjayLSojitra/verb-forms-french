@@ -139,7 +139,7 @@ function SettingsScreen() {
                   style={{
                     height: iconSize,
                     width: iconSize,
-                    tintColor: "#AA151B",
+                    tintColor: "#000091",
                   }}
                   alt={"sound"}
                 />
@@ -154,9 +154,9 @@ function SettingsScreen() {
                 </SizableText>
                 <YStack flex={1} />
                 <Switch
-                  trackColor={{ false: "#595959", true: "#AA151B" }}
+                  trackColor={{ false: "#595959", true: "#000091" }}
                   thumbColor={isSoundSwitchEnabled ? "#ffffff" : "#B3B3B3"}
-                  ios_backgroundColor="#AA151B"
+                  ios_backgroundColor="#000091"
                   onValueChange={() => {
                     LocalStorage.setItemDefault(
                       SOUND_KEY,
@@ -187,7 +187,7 @@ function SettingsScreen() {
                   style={{
                     height: iconSize,
                     width: iconSize,
-                    tintColor: "#AA151B",
+                    tintColor: "#000091",
                   }}
                   alt={"help"}
                 />
@@ -218,7 +218,7 @@ function SettingsScreen() {
                   style={{
                     height: iconSize,
                     width: iconSize,
-                    tintColor: "#AA151B",
+                    tintColor: "#000091",
                   }}
                   alt={"privacyPolicy"}
                 />
@@ -246,7 +246,7 @@ function SettingsScreen() {
                   style={{
                     height: iconSize,
                     width: iconSize,
-                    tintColor: "#AA151B",
+                    tintColor: "#000091",
                   }}
                   alt={"share"}
                 />
@@ -274,7 +274,7 @@ function SettingsScreen() {
                   style={{
                     height: iconSize,
                     width: iconSize,
-                    tintColor: "#AA151B",
+                    tintColor: "#000091",
                   }}
                   alt={"rating"}
                 />
@@ -302,7 +302,7 @@ function SettingsScreen() {
                   style={{
                     height: iconSize,
                     width: iconSize,
-                    tintColor: "#AA151B",
+                    tintColor: "#000091",
                   }}
                   alt={"contactUs"}
                 />
@@ -340,7 +340,7 @@ function SettingsScreen() {
                   style={{
                     height: iconSize,
                     width: iconSize,
-                    tintColor: "#AA151B",
+                    tintColor: "#000091",
                   }}
                   alt={"contactUs"}
                 />
