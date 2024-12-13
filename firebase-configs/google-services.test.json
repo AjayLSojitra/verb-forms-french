@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "90725291137",
-    "project_id": "verbforms-spanish",
-    "storage_bucket": "verbforms-spanish.firebasestorage.app"
+    "project_id": "verbforms-french",
+    "storage_bucket": "verbforms-french.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:90725291137:android:f25e1c6b57d425b863a980",
         "android_client_info": {
-          "package_name": "shreeramkrishna.verbforms.spanish.verbs.forms"
+          "package_name": "shreeramkrishna.verbforms.french.verbs.forms"
         }
       },
       "oauth_client": [],

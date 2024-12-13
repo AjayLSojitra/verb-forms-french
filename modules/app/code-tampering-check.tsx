@@ -57,7 +57,7 @@ function CodeTamperingCheck(props: JailbreakCheckProps) {
         fontWeight={"700"}
         textAlign="center"
       >
-        {`Please reinstall Verb Forms - Spanish`}
+        {`Please reinstall Verb Forms - French`}
       </SizableText>
       <SizableText
         fontSize={"$md"}

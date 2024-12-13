@@ -1,19 +1,19 @@
 {
   "expo": {
-    "scheme": "verb-forms-spanish",
+    "scheme": "verb-forms-french",
     "extra": {
       "eas": {
-        "projectId": "732aedda-1cd6-41fc-8a5a-a3b1cf36e2ac",
+        "projectId": "fa07782f-fbe0-44fc-b31c-c9246cd248f7",
         "build": {
           "experimental": {
             "ios": {
               "appExtensions": [
                 {
                   "targetName": "OneSignalNotificationServiceExtension",
-                  "bundleIdentifier": "shreeramkrishna.verbforms.spanish.verbs.forms.OneSignalNotificationServiceExtension",
+                  "bundleIdentifier": "shreeramkrishna.verbforms.french.verbs.forms.OneSignalNotificationServiceExtension",
                   "entitlements": {
                     "com.apple.security.application-groups": [
-                      "group.shreeramkrishna.verbforms.spanish.verbs.forms.onesignal"
+                      "group.shreeramkrishna.verbforms.french.verbs.forms.onesignal"
                     ]
                   }
                 }
@@ -26,16 +26,16 @@
       "mode": "dev",
       "firebaseWeb": {
         "apiKey": "AIzaSyAuAtZ_TBNGau0E-8ILytbLupsPBZh7mPo",
-        "authDomain": "verbforms-spanish.firebaseapp.com",
-        "projectId": "verbforms-spanish",
-        "storageBucket": "verbforms-spanish.firebasestorage.app",
+        "authDomain": "verbforms-french.firebaseapp.com",
+        "projectId": "verbforms-french",
+        "storageBucket": "verbforms-french.firebasestorage.app",
         "messagingSenderId": "90725291137",
         "appId": "1:90725291137:web:58001bdce64d888763a980",
         "measurementId": "G-Q1G73MG8JY"
       }
     },
-    "name": "verb-forms-spanish",
-    "slug": "verb-forms-spanish",
+    "name": "verb-forms-french",
+    "slug": "verb-forms-french",
     "owner": "ajaylsojitra",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -45,11 +45,11 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#F1BF00"
+      "backgroundColor": "#000091"
     },
     "updates": {
       "fallbackToCacheTimeout": 0,
-      "url": "https://u.expo.dev/732aedda-1cd6-41fc-8a5a-a3b1cf36e2ac"
+      "url": "https://u.expo.dev/fa07782f-fbe0-44fc-b31c-c9246cd248f7"
     },
     "runtimeVersion": {
       "policy": "appVersion"
@@ -59,14 +59,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "shreeramkrishna.verbforms.spanish.verbs.forms",
+      "bundleIdentifier": "shreeramkrishna.verbforms.french.verbs.forms",
       "infoPlist": {
-        "NSLocationWhenInUseUsageDescription": "Verb Forms - Spanish does not access your location. This permission is included to meet App Store requirements, but the app does not utilize location services for any functionality.",
-        "NSMicrophoneUsageDescription": "Verb Forms - Spanish does not access your microphone or any sensitive user data. This permission is included by default and is not used by the app. Your privacy and security are important to us."
+        "NSLocationWhenInUseUsageDescription": "Verb Forms - French does not access your location. This permission is included to meet App Store requirements, but the app does not utilize location services for any functionality.",
+        "NSMicrophoneUsageDescription": "Verb Forms - French does not access your microphone or any sensitive user data. This permission is included by default and is not used by the app. Your privacy and security are important to us."
       }
     },
     "android": {
-      "package": "shreeramkrishna.verbforms.spanish.verbs.forms",
+      "package": "shreeramkrishna.verbforms.french.verbs.forms",
       "enableProguardInReleaseBuilds": true,
       "enableShrinkResourcesInReleaseBuilds": true,
       "adaptiveIcon": {

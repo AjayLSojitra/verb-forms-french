@@ -28,7 +28,7 @@ export async function openBrowser(
 export async function shareMyApp() {
   try {
     Share.share({
-      message: `Download Verb Forms - Spanish today and start your journey to Spanish fluency!
+      message: `Download Verb Forms - French today and start your journey to French fluency!
       \nGoogle Play Store link: https://play.google.com/store/apps/details?id=${
         global?.androidPackageName ?? staticAndroidPackageName
       }
@@ -78,12 +78,12 @@ export const staticInterstitialAdIntervalSeconds = 60;
 export const staticPrivacyPolicy =
   "https://doc-hosting.flycricket.io/srkwebstudio-privacy-policy/64f68df3-4304-4de0-84b6-8b293a40f23b/privacy";
 export const staticAppStoreLink =
-  "https://apps.apple.com/app/verb-forms-spanish/id6738841631";
-export const staticAPPLE_STORE_ID = "id6738841631";
+  "https://apps.apple.com/app/verb-forms-french/id0123456789";
+export const staticAPPLE_STORE_ID = "id0123456789";
 export const staticSupportEmail = "srkwebstudio@gmail.com";
 export const staticPoweredBy = "SRKWebstudio";
 export const staticAndroidPackageName =
-  "shreeramkrishna.verbforms.spanish.verbs.forms";
+  "shreeramkrishna.verbforms.french.verbs.forms";
 
 export const canShowAdmobInteratitial = () => {
   if (global?.showAds) {

@@ -497,7 +497,7 @@ function SplashScreen() {
   return (
     <YStack
       flex={1}
-      bg={"$primary"}
+      bg={"#000091"}
       alignItems="center"
       justifyContent="center"
     >

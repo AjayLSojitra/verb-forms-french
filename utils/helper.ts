@@ -29,7 +29,7 @@ export const verbs = [
 ];
 
 export const alphabetsHeaders = [
-  "Spanish Alphabet",
+  "French Alphabet",
   "Written as / Pronunced as",
 ];
 
@@ -63,7 +63,7 @@ export const alphabetsSubItems = [
   { subDataArray: ["Z", "zeta (the-ta/se-ta)"] },
 ];
 
-export const numbersHeaders = ["Spanish Number", "Written as / Pronunced as"];
+export const numbersHeaders = ["French Number", "Written as / Pronunced as"];
 
 export const numbersSubItems = [
   { subDataArray: ["1", "Uno"] },
@@ -78,7 +78,7 @@ export const numbersSubItems = [
   { subDataArray: ["10", "Diez"] },
 ];
 
-export const phrasesHeaders = ["Spanish Phrase", "English Meaning"];
+export const phrasesHeaders = ["French Phrase", "English Meaning"];
 
 export const phrasesSubItems = [
   { subDataArray: ["Hola", "Hello"] },
@@ -95,12 +95,12 @@ export const phrasesSubItems = [
   { subDataArray: ["Igualmente", "Nice to meet you too"] },
 ];
 
-export const spanishVerbsHeaders = [
-  "Spanish Verb (present tense)",
+export const frenchVerbsHeaders = [
+  "French Verb (present tense)",
   "English Meaning",
 ];
 
-export const spanishVerbsSubItems = [
+export const frenchVerbsSubItems = [
   { subDataArray: ["hablar (hablo)", "to speak"] },
   { subDataArray: ["comer (como)", "to eat"] },
   { subDataArray: ["beber (bebo)", "to drink"] },
@@ -113,7 +113,7 @@ export const spanishVerbsSubItems = [
   { subDataArray: ["necesitar (necesito)", "to need"] },
 ];
 
-export const basicNeedWordsHeaders = ["Spanish Phrase", "English Meaning"];
+export const basicNeedWordsHeaders = ["French Phrase", "English Meaning"];
 
 export const basicNeedWordsSubItems = [
   { subDataArray: ["Por favor", "Please"] },
@@ -141,7 +141,7 @@ export const basicNeedWordsSubItems = [
   { subDataArray: ["Teléfono", "Phone"] },
 ];
 
-export const basicQuestionsHeaders = ["Spanish Question", "English Meaning"];
+export const basicQuestionsHeaders = ["French Question", "English Meaning"];
 
 export const basicQuestionsSubItems = [
   { subDataArray: ["¿Cómo estás?", "How are you? (informal)"] },

@@ -18,8 +18,8 @@ import {
   numbersSubItems,
   phrasesHeaders,
   phrasesSubItems,
-  spanishVerbsHeaders,
-  spanishVerbsSubItems,
+  frenchVerbsHeaders,
+  frenchVerbsSubItems,
 } from "@utils/helper";
 import TableWrapper from "./table-wrapper";
 import LocalStorage from "@utils/local-storage";
@@ -151,7 +151,7 @@ export default function TutorialsScreen() {
             numberOfLines={1}
             adjustsFontSizeToFit
           >
-            {`Basics of Spanish Language`}
+            {`Basics of French Language`}
           </SizableText>
         }
         backgroundColor={"$primary"}
@@ -213,10 +213,10 @@ export default function TutorialsScreen() {
 
         <ScrollView style={{ flex: 1 }} showsVerticalScrollIndicator={false}>
           <YStack my={isPhoneDevice ? "$4" : "$6"} justifyContent="center">
-            {headerItem(`Alphabets in Spanish Language`)}
+            {headerItem(`Alphabets in French Language`)}
             <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
             {subItem(
-              `There are 27 alphabets in the Spanish Language and each of them has a distinct pronunciation. The following Spanish alphabets have been given along with their pronunciations in English for a better understanding:`
+              `There are 27 alphabets in the French Language and each of them has a distinct pronunciation. The following French alphabets have been given along with their pronunciations in English for a better understanding:`
             )}
             <YStack h={isPhoneDevice ? "$3" : "$4"} />
             <TableWrapper
@@ -236,16 +236,16 @@ export default function TutorialsScreen() {
             />
             <YStack h={isPhoneDevice ? "$3" : "$4"} />
             {subItem(
-              `The ‘H’ is silent in Spanish language, so Hola is not /hola:/ it is /ola/. There are other alphabets too which will vary with the pronunciations if used before certain words. `
+              `The ‘H’ is silent in French language, so Hola is not /hola:/ it is /ola/. There are other alphabets too which will vary with the pronunciations if used before certain words. `
             )}
 
             {loadAllData ? (
               <YStack>
                 <YStack h={isPhoneDevice ? "$6" : "$9"} />
-                {headerItem(`Numbers in Spanish Language`)}
+                {headerItem(`Numbers in French Language`)}
                 <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
                 {subItem(
-                  `The numbers in Spanish language are very different from English numbers. There is no resemblance in pronunciations whatsoever. Here is 1-10 in Spanish:`
+                  `The numbers in French language are very different from English numbers. There is no resemblance in pronunciations whatsoever. Here is 1-10 in French:`
                 )}
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 <TableWrapper
@@ -265,10 +265,10 @@ export default function TutorialsScreen() {
                 />
 
                 <YStack h={isPhoneDevice ? "$6" : "$9"} />
-                {headerItem(`Greetings & Introductions in Spanish to English`)}
+                {headerItem(`Greetings & Introductions in French to English`)}
                 <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
                 {subItem(
-                  `Hola! But don’t know beyond this to strike a conversation? Here’s a list of greetings and introductions in Spanish with English meanings:`
+                  `Hola! But don’t know beyond this to strike a conversation? Here’s a list of greetings and introductions in French with English meanings:`
                 )}
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 <TableWrapper
@@ -288,15 +288,15 @@ export default function TutorialsScreen() {
                 />
 
                 <YStack h={isPhoneDevice ? "$6" : "$9"} />
-                {headerItem(`Top 10 Basic Spanish Verbs`)}
+                {headerItem(`Top 10 Basic French Verbs`)}
                 <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
                 {subItem(
-                  `Any language is incomplete without its verbs. There are 50+ verbs in Spanish language, but we have summarised commonly used 10 Spanish verbs with English meanings for students in the table below:`
+                  `Any language is incomplete without its verbs. There are 50+ verbs in French language, but we have summarised commonly used 10 French verbs with English meanings for students in the table below:`
                 )}
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 <TableWrapper
-                  headerArray={spanishVerbsHeaders}
-                  subItemsArray={spanishVerbsSubItems}
+                  headerArray={frenchVerbsHeaders}
+                  subItemsArray={frenchVerbsSubItems}
                   onPress={(content: string) => {
                     if (isSoundEnabled.current) {
                       soundPlayTo.current = content;
@@ -311,10 +311,10 @@ export default function TutorialsScreen() {
                 />
 
                 <YStack h={isPhoneDevice ? "$6" : "$9"} />
-                {headerItem(`Basic Need Words in Spanish to English`)}
+                {headerItem(`Basic Need Words in French to English`)}
                 <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
                 {subItem(
-                  `While students get around Spain, they may need to use these words in Spanish. Check out the basic need words in Spanish to English in the following table:`
+                  `While students get around Spain, they may need to use these words in French. Check out the basic need words in French to English in the following table:`
                 )}
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 <TableWrapper
@@ -334,10 +334,10 @@ export default function TutorialsScreen() {
                 />
 
                 <YStack h={isPhoneDevice ? "$6" : "$9"} />
-                {headerItem(`Questions in Spanish Language`)}
+                {headerItem(`Questions in French Language`)}
                 <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
                 {subItem(
-                  `Just like any other language, Spanish also has a set of questions that are asked. Students who are going to study in Spain will ask a lot of questions and here’s how they can do it:`
+                  `Just like any other language, French also has a set of questions that are asked. Students who are going to study in Spain will ask a lot of questions and here’s how they can do it:`
                 )}
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 <TableWrapper
@@ -357,9 +357,9 @@ export default function TutorialsScreen() {
                 />
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 {subItem(
-                  `These are 21 questions that are typically asked in Spain and can be useful for Indian students to note. Some of the most common Spanish words have also been mentioned above, along with translations. Students who are able to follow basic words in Spanish with English translation can easily use the Spanish language daily. 
+                  `These are 21 questions that are typically asked in Spain and can be useful for Indian students to note. Some of the most common French words have also been mentioned above, along with translations. Students who are able to follow basic words in French with English translation can easily use the French language daily. 
 
-Thus, with the help of these words in Spanish language, students who are non-Spanish speakers will be able to get around Spain with ease. However, it is still better to learn the language and try to be fluent so that you don’t face issues because of the language barrier.`
+Thus, with the help of these words in French language, students who are non-French speakers will be able to get around Spain with ease. However, it is still better to learn the language and try to be fluent so that you don’t face issues because of the language barrier.`
                 )}
               </YStack>
             ) : (

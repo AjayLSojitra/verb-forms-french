@@ -110,7 +110,7 @@ function WelcomeScreen() {
       router.push(`./verb-forms?type=${WELCOME_SCREEN_REDIRECT_TO.VERB_FORMS}`);
     }
 
-    if (redirectTo.current === WELCOME_SCREEN_REDIRECT_TO.BASICS_OF_SPANISH) {
+    if (redirectTo.current === WELCOME_SCREEN_REDIRECT_TO.BASICS_OF_FRENCH) {
       router.push("./tutorials?isFromSettings=False");
     }
 
@@ -290,7 +290,7 @@ function WelcomeScreen() {
               hitSlop={HIT_SLOP}
               onPress={() => {
                 redirectTo.current =
-                  WELCOME_SCREEN_REDIRECT_TO.BASICS_OF_SPANISH;
+                  WELCOME_SCREEN_REDIRECT_TO.BASICS_OF_FRENCH;
                 if (isLoaded && canShowAdmobInteratitial()) {
                   showInterstitial();
                 } else {

@@ -198,7 +198,7 @@ function SettingsScreen() {
                   color={"$secondPrimaryColor"}
                   fontWeight={"700"}
                 >
-                  Basics of Spanish Language
+                  Basics of French Language
                 </SizableText>
               </XStack>
             </TouchableScale>
