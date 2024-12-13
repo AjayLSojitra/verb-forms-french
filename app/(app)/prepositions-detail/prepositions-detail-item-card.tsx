@@ -75,7 +75,7 @@ function PrepositionsDetailsItemCard({
               <XStack
                 p={isPhoneDevice ? "$2" : "$3"}
                 borderRadius={isPhoneDevice ? 8 : 12}
-                bg={"$yellow.100"}
+                bg={"$blue.100"}
                 alignItems="center"
               >
                 <Image
@@ -117,7 +117,7 @@ function PrepositionsDetailsItemCard({
               <XStack
                 p={isPhoneDevice ? "$2" : "$3"}
                 borderRadius={isPhoneDevice ? 8 : 12}
-                bg={"$gray.100"}
+                bg={"$red.100"}
                 alignItems="center"
               >
                 <Image
