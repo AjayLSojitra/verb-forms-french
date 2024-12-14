@@ -96,7 +96,7 @@ export default function TutorialsScreen() {
     }, 2000);
   };
 
-  const headerItem = (text: string) => {
+  const headerItem = (text: string, numberOfLines?: number) => {
     return (
       <SizableText
         mx={isPhoneDevice ? "$2" : "$3"}
@@ -105,6 +105,7 @@ export default function TutorialsScreen() {
         color={"$thirdPrimaryColor"}
         fontWeight={"$semibold"}
         adjustsFontSizeToFit
+        numberOfLines={numberOfLines}
       >
         {text}
       </SizableText>
@@ -213,13 +214,23 @@ export default function TutorialsScreen() {
 
         <ScrollView style={{ flex: 1 }} showsVerticalScrollIndicator={false}>
           <YStack my={isPhoneDevice ? "$4" : "$6"} justifyContent="center">
-            {headerItem(`Alphabets in French Language`)}
+            {headerItem(
+              `List of letters in the French alphabet (26 letters)`,
+              1
+            )}
             <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
             {subItem(
-              `There are 27 alphabets in the French Language and each of them has a distinct pronunciation. The following French alphabets have been given along with their pronunciations in English for a better understanding:`
+              `The French letter is identical to the English alphabet with the addition of four diacritical marks and ligatures. Here are the 26 letters of the French alphabet:`
             )}
+            <YStack h={isPhoneDevice ? "$2" : "$3"} />
+            {headerItem(
+              `A B C D E F G H I J K L M N O P Q R S T U V W X Y Z`,
+              1
+            )}
+
             <YStack h={isPhoneDevice ? "$3" : "$4"} />
             <TableWrapper
+              flexs={[0.25, 0.5, 1]}
               headerArray={alphabetsHeaders}
               subItemsArray={alphabetsSubItems}
               onPress={(content: string) => {
@@ -236,7 +247,11 @@ export default function TutorialsScreen() {
             />
             <YStack h={isPhoneDevice ? "$3" : "$4"} />
             {subItem(
-              `The ‘H’ is silent in French language, so Hola is not /hola:/ it is /ola/. There are other alphabets too which will vary with the pronunciations if used before certain words. `
+              `The pronunciation provided is a simplified representation. Actual pronunciation can vary due to regional accents and phonetic contexts.`
+            )}
+            <YStack h={isPhoneDevice ? "$2" : "$3"} />
+            {subItem(
+              `Some letters, especially vowels, can have different pronunciations depending on their position in a word and neighboring letters (e.g., “e” can be pronounced differently in “être” and “école”)`
             )}
 
             {loadAllData ? (
@@ -245,7 +260,7 @@ export default function TutorialsScreen() {
                 {headerItem(`Numbers in French Language`)}
                 <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
                 {subItem(
-                  `The numbers in French language are very different from English numbers. There is no resemblance in pronunciations whatsoever. Here is 1-10 in French:`
+                  `One quick note before we start: while we’ve shared a loose pronunciation guide for some of the French numbers, the reality is that the French language uses different sounds from English, so a written guideline is just that. Here are French numbers 0-20:`
                 )}
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 <TableWrapper
@@ -268,7 +283,7 @@ export default function TutorialsScreen() {
                 {headerItem(`Greetings & Introductions in French to English`)}
                 <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
                 {subItem(
-                  `Hola! But don’t know beyond this to strike a conversation? Here’s a list of greetings and introductions in French with English meanings:`
+                  `Bonjour! But don’t know beyond this to strike a conversation? Here’s a list of greetings and introductions in French with English meanings:`
                 )}
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 <TableWrapper
@@ -314,7 +329,7 @@ export default function TutorialsScreen() {
                 {headerItem(`Basic Need Words in French to English`)}
                 <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
                 {subItem(
-                  `While students get around Spain, they may need to use these words in French. Check out the basic need words in French to English in the following table:`
+                  `While students get around French, they may need to use these words in French. Check out the basic need words in French to English in the following table:`
                 )}
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 <TableWrapper
@@ -337,7 +352,7 @@ export default function TutorialsScreen() {
                 {headerItem(`Questions in French Language`)}
                 <YStack h={isPhoneDevice ? "$1" : "$1.5"} />
                 {subItem(
-                  `Just like any other language, French also has a set of questions that are asked. Students who are going to study in Spain will ask a lot of questions and here’s how they can do it:`
+                  `Just like any other language, French also has a set of questions that are asked. Students who are going to study in French will ask a lot of questions and here’s how they can do it:`
                 )}
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 <TableWrapper
@@ -357,9 +372,9 @@ export default function TutorialsScreen() {
                 />
                 <YStack h={isPhoneDevice ? "$3" : "$4"} />
                 {subItem(
-                  `These are 21 questions that are typically asked in Spain and can be useful for Indian students to note. Some of the most common French words have also been mentioned above, along with translations. Students who are able to follow basic words in French with English translation can easily use the French language daily. 
+                  `These are 20 questions that are typically asked in French and can be useful for students to note. Some of the most common French words have also been mentioned above, along with translations. Students who are able to follow basic words in French with English translation can easily use the French language daily. 
 
-Thus, with the help of these words in French language, students who are non-French speakers will be able to get around Spain with ease. However, it is still better to learn the language and try to be fluent so that you don’t face issues because of the language barrier.`
+Thus, with the help of these words in French language, students who are non-French speakers will be able to get around French with ease. However, it is still better to learn the language and try to be fluent so that you don’t face issues because of the language barrier.`
                 )}
               </YStack>
             ) : (

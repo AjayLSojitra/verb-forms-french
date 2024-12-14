@@ -6,16 +6,22 @@ import SubItemsWrapper from "./sub-items-wrapper";
 function TableWrapper({
   headerArray,
   subItemsArray,
+  flexs,
   onPress,
 }: Readonly<{
   headerArray: string[];
   subItemsArray: { subDataArray: string[] }[];
   onPress: (content: string) => void;
+  flexs?: number[];
 }>) {
   return (
     <YStack>
-      <HeaderItemsWrapper dataArray={headerArray} />
-      <SubItemsWrapper dataArray={subItemsArray} onPress={onPress} />
+      <HeaderItemsWrapper dataArray={headerArray} flexs={flexs} />
+      <SubItemsWrapper
+        dataArray={subItemsArray}
+        onPress={onPress}
+        flexs={flexs}
+      />
     </YStack>
   );
 }
